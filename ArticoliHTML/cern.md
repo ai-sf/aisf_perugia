@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ams-02
+title: Cern
 permalink: /ArticoliHTML/cern/
 ---
 <center>
@@ -8,6 +8,12 @@ permalink: /ArticoliHTML/cern/
 <h5><em> A cura di Matteo Magherini, 20 Aprile 2018 </em></h5><br>
  <h3>Alla scoperta del CERN</h3>
  <br> </center>
+
+<center>
+ <div class="subheading">
+   <a href="mailto:matteo.magherini@gmail.com">Matteo Magherini</a>
+   &nbsp; <i class="fa fa-envelope-square fa-2x"></i>
+ </div><br></center>
 
  <figure>
 <center>

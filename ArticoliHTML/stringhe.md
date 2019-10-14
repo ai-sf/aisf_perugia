@@ -13,6 +13,15 @@ permalink: /ArticoliHTML/stringhe/
  <h3>La corrispondenza olografica: un ponte tra stringhe, campi e realtà. </h3>
  <br> </center>
 
+ <center>
+  <div class="subheading">
+    <a href="mailto:lorenzo.papini@outlook.it">Lorenzo Papini</a>
+    &nbsp; <i class="fa fa-envelope-square fa-2x"></i>
+  </div><br></center>
+
+  <figure>
+ <center>
+
 <figure>  
 <center>
     <img src="https://davidpelosi21.github.io/Stringhe/image1 copy.png" alt="centered image" style="max-width:100%"

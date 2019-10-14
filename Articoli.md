@@ -23,16 +23,16 @@ td, th {
 
 <table>
   <tr>
-    <td><a href="https://davidpelosi21.github.io/ABSTRACT/amsABS/">Astroparticelle</a> </td>
+    <td><a href="https://aisfperugialc.github.io/ABSTRACT/amsABS/">Astroparticelle</a> </td>
 
-    <td><a href="https://davidpelosi21.github.io/ABSTRACT/stringheABS/">Teoria delle Stringhe</a></td>
-    <td> <a href="https://davidpelosi21.github.io/ABSTRACT/retiABS/">Reti Neurali</a> </td>
+    <td><a href="https://aisfperugialc.github.io/ABSTRACT/stringheABS/">Teoria delle Stringhe</a></td>
+    <td> <a href="https://aisfperugialc.github.io/ABSTRACT/retiABS/">Reti Neurali</a> </td>
   </tr>
 
   <tr>
-    <td><a href="https://davidpelosi21.github.io/ABSTRACT/na62ABS/">Fisica delle Alte Energie</a></td>
-    <td><a href="https://davidpelosi21.github.io/ABSTRACT/triggerABS/">Rilevatori di Particelle</a></td>
-    <td><a href="https://davidpelosi21.github.io/ABSTRACT/cernABS/">Cern</a>                     </td>
+    <td><a href="https://aisfperugialc.github.io/ABSTRACT/na62ABS/">Fisica delle Alte Energie</a></td>
+    <td><a href="https://aisfperugialc.github.io/ABSTRACT/triggerABS/">Rivelatori di Particelle</a></td>
+    <td><a href="https://aisfperugialc.github.io/ABSTRACT/cernABS/">Cern</a>                     </td>
   </tr>
 
 </table>

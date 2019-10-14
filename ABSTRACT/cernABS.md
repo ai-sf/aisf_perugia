@@ -11,17 +11,17 @@ permalink: /ABSTRACT/cernABS/
 
  <figure>
 <center>
-    <img src="/cern/cern.png" alt="centered image" style="max-width:100%"
+    <img src="/cern/cms.jpg" alt="centered image" style="max-width:100%"
     height="auto" width="500" class="responsive" >
 </center>
 </figure>
 
 
 <br>
-Probabilmente anche il vostro gatto sa dell’esistenza del CERN, quindi non vi ripeterò le solite cose sul <em>Conseil européen pour la recherche nucléaire</em>, probabilmente il vostro gatto, però, non sa a cosa diamine lavorino le sedicimila persone abbondanti impiegate lì, insieme a tutti gli altri associati in giro per il mondo.<br>
+Probabilmente anche il vostro gatto sa dell’esistenza del CERN, quindi non vi ripeterò le solite cose sul <b><em>Conseil européen pour la recherche nucléaire</em></b>, probabilmente il vostro gatto, però, non sa a cosa diamine lavorino le sedicimila persone abbondanti impiegate lì, insieme a tutti gli altri associati in giro per il mondo.<br>
 Ma procediamo con ordine.<br><br>
 
 
 <center>
-<a href="https://davidpelosi21.github.io/ArticoliHTML/cern/"> Continua a leggere </a> &nbsp; &nbsp;
+<a href="https://aisfperugialc.github.io/ArticoliHTML/cern/"> Continua a leggere </a> &nbsp; &nbsp;
 </center>
