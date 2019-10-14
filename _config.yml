@@ -1,27 +1,30 @@
-# Site settings
-# title: "Acr Ev"
-# description: "nome evento completo"
-url: "http://ai-sf.it/perugia" # the base hostname & protocol for your site
-destination: ../site/
-locale: "it"
-
-# Build settings
-markdown: kramdown
-future: true
-permalink: /blog/:year/:month/:day/:title/
-destination: _site
+title: Aisf Perugia
+author: Aisf Perugia
+email: perugia@ai-sf.it
+#phone: (650) 576-5403
+github: https://github.com/davidpelosi21
+about: Pagina del comitato locale di Perugia
+disqus_shortname: programming
+google_analytics: UA-31048387-6
+avatar_url: /static/img/me.jpg
 
 
-#facebook
-fb_admins:
-fb_appid:
+social:
+    - icon: fa-facebook
+      link: "https://www.facebook.com/aisfpg/"
+    - icon: fa-instagram
+      link: "https://www.instagram.com/aisf_perugia/"
 
-#Collections
-collections:
-  events:
-    output: true
-    permalink: /:categories/:year/:month/:day/:title/
-
-plugins:
- - jekyll-redirect-from
- - jekyll-sitemap
+urls:
+    - text: Helios
+      url: /Helios/
+    - text: QFT
+      url: /QFT/
+    - text: Articoli
+      url: /Articoli/
+    - text: Download
+      url: /Download/
+    - text: Corsi Interni
+      url: /Corsi/
+# url: "http://localhost:4000"
+url: "https://davidpelosi21.github.io/"

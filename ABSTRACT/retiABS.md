@@ -1,0 +1,32 @@
+---
+layout: page
+title: Reti neurali 
+permalink: /ABSTRACT/retiABS/
+---
+<center>
+ <h2>Il cervello umano...Che rete! </h2>
+ <h4>Reti cerebrali per prevedere l’invecchiamento del cervello umano</h4>
+ <br> </center>
+
+<section>
+ <figure>
+<center>
+    <img src="/ImmaginiAbstract/retiABS.png" alt="centered image" style="max-width:100%"
+    height="auto" width="400" class="responsive" >
+</center>
+<center>
+<figcaption>  <b><em>Esempio di imaging fMRI. Qui ogni pallino rappresenta un’area del cervello catturata durante la risonanza. Immagine distribuita sotto licenza CC BY-SA 4.0.</em></b> </figcaption>
+</center>
+</figure>
+ <section>
+
+<hr>
+ <section>
+ <center> <h3> ABSTRACT </h3> </center>
+ <hr>
+ <br>Che siano reti sociali, economiche o cerebrali ora mai sentiamo sempre più spesso parlare di rete. Internet o Facebook ci danno ogni giorno un’idea di rete, ma oltre il mondo online ci rendiamo sempre più conto che i fenomeni sono perlopiù connessi con innumerevoli altri, come un grande puzzle universale. È in atto una rivoluzione dove scienziati di ogni disciplina scoprono che la natura è una complessità con un’architettura ben precisa. Siamo arrivati a capire l’importanza delle reti. Tuttavia, sono in pochissimi a rendersi conto che, nel suo rapido sviluppo, la scienza delle reti sta scoprendo fenomeni molto più rivelatori ed eccitanti di quanto l’uso casuale della parola rete abbia mai suggerito.<br><br>
+
+ <center>
+<a href="https://davidpelosi21.github.io/ArticoliHTML/ams02/"> Continua a leggere </a> &nbsp; &nbsp;
+<a href="https://davidpelosi21.github.io/DOWNLOADSINGLE/retineuraliSINGLE.pdf"> Scarica </a>
+</center>
