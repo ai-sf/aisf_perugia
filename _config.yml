@@ -1,27 +1,52 @@
-# Site settings
-# title: "Acr Ev"
-# description: "nome evento completo"
-url: "http://ai-sf.it/perugia" # the base hostname & protocol for your site
-destination: ../site/
-locale: "it"
+title: Aisf Perugia
+email: perugia@ai-sf.it
+#phone: (650) 576-5403
+github: https://github.com/aisfperugialc
+about: <h3 style="color:rgb(8,8,180);">Associazione Italiana  Studenti di Fisica</h3><br><p style="color:rgb(8,8,180);">Pagina del comitato locale di Perugia</p>
+disqus_shortname: programming
+google_analytics: UA-31048387-6
+avatar_url: /static/img/me.jpg
 
-# Build settings
-markdown: kramdown
-future: true
-permalink: /blog/:year/:month/:day/:title/
-destination: _site
+enableTags: true
+tagarray: []
 
-
-#facebook
-fb_admins:
-fb_appid:
-
-#Collections
 collections:
-  events:
+  project:
     output: true
-    permalink: /:categories/:year/:month/:day/:title/
+    permalink: /project/:path/
 
-plugins:
- - jekyll-redirect-from
- - jekyll-sitemap
+social:
+    - icon: fa-facebook
+      link: "https://www.facebook.com/aisfpg/"
+    - icon: fa-instagram
+      link: "https://www.instagram.com/aisf_perugia/"
+
+urls:
+    - text: Caffè Scientifico
+      url: /CaffèScientifico/
+    - text: Helios
+      url: /Helios/
+    - text: QFT
+      url: /QFT/
+    - text: Articoli
+      url: /Articoli/
+    - text: Download
+      url: /Download/
+    - text: Corsi Interni
+      url: /Corsi/
+# url: "http://localhost:4000"
+url: "https://aisfperugialc.github.io/"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/blogs/page/:num/"
+markdown: kramdown
+remote_theme: benbalter/retlab
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
