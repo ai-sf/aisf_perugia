@@ -1,31 +1,74 @@
 ---
 layout: default
 ---
-{% include banner.html %}
 
-<div class="no-pad-top" id="index-page">
-  <!--<div class="container">-->
-  
-   <!--   Message -->
-    
-    <div class="section">
-      <div class="row">
-        <h3 class="center custom2-text">
-          {{ site.data.home.msg }}
-        </h3>
+  <h1>Aisf Perugia</h1>
+  <div class="subheading">
+    <a href="mailto:{{site.email}}">{{site.email}}</a>
+  </div>
+  <hr />
+
+  <center>
+      <img src="/ImmaginiAbstract/logo2.jpg" alt="centered image" style="max-width:100%"
+      height="auto" width="400" class="responsive" >
+  </center>
+
+          L'<font style="color:rgb(8,8,180);">International Association of Physics Students</font>
+          è una umbrella organization che dal 1987 promuove la
+          collaborazione tra studenti e associazioni di Fisica in tutto il mondo.<br>
+          L'<font style="color:rgb(8,8,180);">Associazione Italiana Studenti di Fisica</font> è un'associazione no-profit
+          con finalità culturali nata nel 2014 con l'obiettivo di creare un network
+          nazionale tra studenti di Fisica e promuovere la scienza e, in particolare, la Fisica.<br>
+          AISF si articola in vari comitati locali distribuiti nei principali dipartimenti di Fisica
+          della nazione.<br>
+          Il <font style="color:rgb(8,8,180);">comitato locale di Perugia</font> nasce nel dicembre 2017 e conta attualmente circa 30 membri.
+          <br>
+
+          <small>Scopri di più sull'<a href="http://ai-sf.it">Associazione Nazionale studenti di fisica</a>.</small><br>
+        <small>Scopri di più sull' <a href="https://www.iaps.info">International Association Physics Students</a>.</small>
+    <br>
+
+<center><h4 style="color:rgb(8,8,180);"> I nostri progetti</h4></center>
+
+    <div class="row home-quick-links">
+      <div class="col-md-3 home-quick-links__link">
+        <a href="{{ site.url }}/CaffèScientifico">
+          <span class="fa-stack fa-2x">
+              <i class="fa fa-circle fa-stack-2x text-primary"></i>
+            <i class="fa fa-coffee fa-stack-1x fa-inverse"></i>
+          </span>
+          <h4>Caffè Scientifico</h4>
+        </a>
       </div>
-    </div>
-
-    <!-- paragraph -->
-    <div class="section">
-      <div class="row">
-        <div class="col s8 offset-s2">
-          <div class="icon-block">
-            <p class="center light">{{ site.data.home.paragraph }}</p>
-          </div>
-        </div>
+      <div class="col-md-3 home-quick-links__link">
+        <a href="{{ site.url }}/Helios">
+          <span class="fa-stack fa-2x">
+            <i class="fa fa-circle fa-stack-2x text-primary"></i>
+            <i class="fa fa-file-text fa-stack-1x fa-inverse"></i>
+          </span>
+          <h4>Helios</h4>
+        </a>
       </div>
-    </div>
+      <div class="col-md-3 home-quick-links__link">
+        <a href="{{ site.url }}/QFT">
+          <span class="fa-stack fa-2x">
+            <i class="fa fa-circle fa-stack-2x text-primary"></i>
+            <i class="fa fa-play-circle fa-stack-1x fa-inverse"></i>
+          </span>
+          <h4>QFT</h4>
+        </a>
+      </div>
 
+      <div class="col-md-3 home-quick-links__link">
+        <a href="{{ site.url }}/Corsi">
+          <span class="fa-stack fa-2x">
+            <i class="fa fa-circle fa-stack-2x text-primary"></i>
+            <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+          </span>
+          <h4>Corsi</h4>
+        </a>
+      </div>
+
+    </div>
   </div>
 </div>
