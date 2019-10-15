@@ -35,7 +35,7 @@ urls:
     - text: Corsi Interni
       url: /Corsi/
 # url: "http://localhost:4000"
-url: "https://aisfperugialc.github.io/"
+url: "http://ai-sf.it/perugia/"
 baseurl: ""
 paginate: 20
 per_page: 20
