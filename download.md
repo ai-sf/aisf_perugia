@@ -27,7 +27,7 @@ permalink: /Download/
 
 <center>
 <figure>
-    <img src="/imageHelios/helios2loc.png" alt="centered image" style="max-width:100%"
+    <img src="/perugia/imageHelios/helios2loc.png" alt="centered image" style="max-width:100%"
     height="400" width="300" class="responsive" >
     <br><a href="/perugia/imageHelios/Helios1.pdf"> <b>Scarica Volume 2</b> </a>
 </figure>
