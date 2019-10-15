@@ -11,7 +11,7 @@ permalink: /ABSTRACT/cernABS/
 
  <figure>
 <center>
-    <img src="/cern/cms.jpg" alt="centered image" style="max-width:100%"
+    <img src="/perugia/cern/cms.jpg" alt="centered image" style="max-width:100%"
     height="auto" width="500" class="responsive" >
 </center>
 </figure>
@@ -23,5 +23,5 @@ Ma procediamo con ordine.<br><br>
 
 
 <center>
-<a href="https://aisfperugialc.github.io/ArticoliHTML/cern/"> Continua a leggere </a> &nbsp; &nbsp;
+<a href="http://ai-sf.it/perugia/ArticoliHTML/cern/"> Continua a leggere </a> &nbsp; &nbsp;
 </center>

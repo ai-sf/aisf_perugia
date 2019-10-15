@@ -12,7 +12,7 @@ permalink: /ABSTRACT/stringheABS/
 <section>
  <figure>
 <center>
-    <img src="/ImmaginiAbstract/stringheABS.png" alt="centered image" style="max-width:100%"
+    <img src="/perugia/ImmaginiAbstract/stringheABS.png" alt="centered image" style="max-width:100%"
     height="auto" width="600" class="responsive" >
 </center>
 <center>
@@ -27,6 +27,6 @@ permalink: /ABSTRACT/stringheABS/
 <br>La corrispondenza olografica, meglio nota con il nome di Corrispondenza AdS/CFT è stata congetturata da Maldacena[3] nel 1998 come una dualità tra una particolare teoria di stringa ed una particolare teoria conforme supersimmetrica di campo. Da quest’ultima deriva la parte CFT nel nome della corrispondenza. La parte AdS deriva invece dal fatto che la teoria di stringa in questione vive in uno spaziotempo che risulta essere il prodotto di un Anti de-Sitter cinque-dimensionale per una “sfera” cinque dimensionale. Sono proprio le particolari proprietà di simmetria dello spazio tempo Anti de-Sitter, che è uno dei tre spazi massimamente simmetrici della relatività generale, ed il segno negativo della sua costante cosmologica che rendono possibile la congettura. <br><br><br>
 
  <center>
-<a href="https://aisfperugialc.github.io/ArticoliHTML/stringhe/"> Continua a leggere </a> &nbsp; &nbsp;
-<a href="https://aisfperugialc.github.io/DOWNLOADSINGLE/stringheSINGLE.pdf"> Scarica </a>
+<a href="http://ai-sf.it/perugia/ArticoliHTML/stringhe/"> Continua a leggere </a> &nbsp; &nbsp;
+<a href="http://ai-sf.it/perugia/stringheSINGLE.pdf"> Scarica </a>
 </center>
