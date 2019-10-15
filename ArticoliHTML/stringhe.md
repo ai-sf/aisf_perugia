@@ -24,7 +24,7 @@ permalink: /ArticoliHTML/stringhe/
 
 <figure>  
 <center>
-    <img src="https://davidpelosi21.github.io/Stringhe/image1 copy.png" alt="centered image" style="max-width:100%"
+    <img src="/perugia/Stringhe/image1 copy.png" alt="centered image" style="max-width:100%"
     height="auto" width="300" class="responsive">
 </center>
 </figure>
@@ -54,7 +54,7 @@ Come per una vera e propria equazione tra quantità fisiche, infatti, è possibi
 
 <figure>  
 <center>
-    <img src="https://davidpelosi21.github.io/Stringhe/image2 copy.png" style="max-width:100%"
+    <img src="/perugia/Stringhe/image2 copy.png" style="max-width:100%"
     height="auto" width="600" class="responsive">
 </center>
 <center>
@@ -84,7 +84,7 @@ Quest’ultima, come il nome può suggerire, è infatti un’interazione molto p
 
 <figure>  
 <center>
-    <img src="https://davidpelosi21.github.io/Stringhe/image3 copy.png" style="max-width:100%"
+    <img src="/perugia/Stringhe/image3 copy.png" style="max-width:100%"
     height="auto" width="400" class="responsive">
 </center>
 <center>
@@ -111,7 +111,7 @@ Ancora una volta però la corrispondenza olografica ci viene in aiuto: i modelli
 
 <figure>  
 <center>
-    <img src="https://davidpelosi21.github.io/Stringhe/image4 copy.png" style="max-width:100%"
+    <img src="/perugia/Stringhe/image4 copy.png" style="max-width:100%"
     height="auto" width="400" class="responsive">
 </center>
 <center>
@@ -130,7 +130,7 @@ Ancora una volta però la corrispondenza olografica ci viene in aiuto: i modelli
 
 <figure>  
 <center>
-    <img src="https://davidpelosi21.github.io/Stringhe/image5 copy.png" style="max-width:100%"
+    <img src="/perugia/Stringhe/image5 copy.png" style="max-width:100%"
     height="auto" width="400" class="responsive">
 </center>
 <center>
