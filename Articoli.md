@@ -2,8 +2,7 @@
 layout: page
 permalink: /Articoli/
 ---
-<html>
-<head>
+
 <style>
 
  {
@@ -71,7 +70,4 @@ body {
     <figcaption> <a href="/perugia/ABSTRACT/cernABS/">Cern</a> </figcaption></figure>
   </div>
 
-
 </center>
-</body>
-</html>
