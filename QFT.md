@@ -7,9 +7,9 @@ permalink: /QFT/
 <h3> <em> Learning by watching </em></h3>
 <br>
 <div class="w3-content w3-section" style="max-width:500px">
-  <img class="mySlides" src="/Slideshow/qft1.png" style="width:60%">
-  <img class="mySlides" src="/Slideshow/qft2.png" style="width:60%">
-  <img class="mySlides" src="/Slideshow/qft3.png" style="width:60%">
+  <img class="mySlides" src="/perugia/Slideshow/qft1.png" style="width:60%">
+  <img class="mySlides" src="/perugia/Slideshow/qft2.png" style="width:60%">
+  <img class="mySlides" src="/perugia/Slideshow/qft3.png" style="width:60%">
 </div>
 </center>
 
