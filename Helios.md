@@ -8,7 +8,7 @@ permalink: /Helios/
  <figure>
 <center>
     <img src="/perugia/ImmaginiAbstract/helioslogo.png" alt="centered image" style="max-width:100%"
-    height="auto" width="400" class="responsive" >
+    height="300" width="300" class="responsive" >
 </center>
 </figure>
 
