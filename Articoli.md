@@ -25,7 +25,7 @@ td, th {
 </head>
 <body>
 <center><h2><b>Articoli</b></h2></center>
-<div style="overflow-x:auto;">
+<div class="table-wrapper-scroll-y my-custom-scrollbar">
 <table>
   <tr>
     <td><figure>
