@@ -41,8 +41,7 @@ body {
 }
 
 </style>
-</head>
-<body>
+
 <center><h2><b>Articoli</b></h2></center>
 
 <center>
