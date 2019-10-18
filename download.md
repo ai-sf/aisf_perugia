@@ -31,3 +31,45 @@ permalink: /Download/
     <br><a href="/perugia/imageHelios/Helios1.pdf"> <b>Scarica Volume 2</b> </a>
 </figure>
 </center>
+
+
+
+
+<a href="/perugia/CaffèScientifico">
+  <span class="fa-stack fa-2x">
+    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+    <i class="fa fa-coffee fa-stack-1x fa-inverse"></i>
+  </span>
+  <h6>Caffè Scientifico</h6>
+</a>
+
+
+
+<div class="col-md-3 home-quick-links__link">
+<a href="/perugia/Helios">
+<span class="fa-stack fa-2x">
+  <i class="fa fa-circle fa-stack-2x text-primary" style="color:rgb(0, 204, 204)></i>
+  <i class="fa fa-file-text fa-stack-1x fa-inverse"></i>
+</span>
+<h6>Helios</h6>
+</a>
+</div>
+<div class="col-md-3 home-quick-links__link">
+<a href="/perugia/QFT">
+<span class="fa-stack fa-2x">
+  <i class="fa fa-circle fa-stack-2x text-primary"></i>
+  <i class="fa fa-play-circle fa-stack-1x fa-inverse"></i>
+</span>
+<h6>QFT</h6>
+</a>
+</div>
+
+<div class="col-md-3 home-quick-links__link">
+<a href="/Corsi">
+<span class="fa-stack fa-2x">
+  <i class="fa fa-circle fa-stack-2x text-primary"></i>
+  <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+</span>
+<h6>Corsi</h6>
+</a>
+</div>
