@@ -1,52 +1,27 @@
-title: Aisf Perugia
-email: perugia@ai-sf.it
-#phone: (650) 576-5403
-github: https://github.com/davidpelosi21
-about: <h3 style="color:rgb(8,8,180);">Associazione Italiana  Studenti di Fisica</h3><br><p style="color:rgb(8,8,180);">Pagina del comitato locale di Perugia</p>
-disqus_shortname: programming
-google_analytics: UA-31048387-6
-avatar_url: /static/img/me.jpg
+# Site settings
+# title: "Acr Ev"
+# description: "nome evento completo"
+url: "https://davidpelosi21.github.io" # the base hostname & protocol for your site
+locale: "it"
+mail: perugia@ai-sf.it 
 
-enableTags: true
-tagarray: []
-
-collections:
-  project:
-    output: true
-    permalink: /project/:path/
-
-social:
-    - icon: fa-facebook
-      link: "https://www.facebook.com/aisfpg/"
-    - icon: fa-instagram
-      link: "https://www.instagram.com/aisf_perugia/"
-
-urls:
-    - text: Caffè Scientifico
-      url: /CaffèScientifico/
-    - text: Helios
-      url: /Helios/
-    - text: QFT
-      url: /QFT/
-    - text: Articoli
-      url: /Articoli/
-    - text: Download
-      url: /Download/
-    - text: Corsi Interni
-      url: /Corsi/
-# url: "http://localhost:4000"
-url: "http://ai-sf.it/perugia/"
-baseurl: ""
-paginate: 20
-per_page: 20
-paginate_path: "/blogs/page/:num/"
+# Build settings
 markdown: kramdown
-remote_theme: benbalter/retlab
-gems:
-  - jekyll-paginate
-  - jekyll-gist
+future: true
+permalink: /blog/:year/:month/:day/:title/
+destination: _site
 
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  endings: all
+
+#facebook
+fb_admins:
+fb_appid:
+
+#Collections
+collections:
+  events:
+    output: true
+    permalink: /:categories/:year/:month/:day/:title/
+
+gems:
+ - jekyll-redirect-from
+ - jekyll-sitemap

@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Teoria delle Stringhe
 permalink: /ArticoliHTML/stringhe/
 ---
 <html>
@@ -9,8 +8,8 @@ permalink: /ArticoliHTML/stringhe/
 
 <center>
  <h2>La più grande “equazione”</h2>
-<h5 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-7"><em> A cura di Lorenzo Papini, 17 Febbraio 2018  </em></h5><br>
- <h3>La corrispondenza olografica: un ponte tra stringhe, campi e realtà. </h3>
+<h7 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-7"><em> A cura di Lorenzo Papini, 17 Febbraio 2018  </em></h7><br>
+ <h4>La corrispondenza olografica: un ponte tra stringhe, campi e realtà. </h4>
  <br> </center>
 
  <center>
@@ -24,7 +23,7 @@ permalink: /ArticoliHTML/stringhe/
 
 <figure>  
 <center>
-    <img src="/perugia/Stringhe/image1 copy.png" alt="centered image" style="max-width:100%"
+    <img src="https://davidpelosi21.github.io/Stringhe/image1 copy.png" alt="centered image" style="max-width:100%"
     height="auto" width="300" class="responsive">
 </center>
 </figure>
@@ -54,7 +53,7 @@ Come per una vera e propria equazione tra quantità fisiche, infatti, è possibi
 
 <figure>  
 <center>
-    <img src="/perugia/Stringhe/image2 copy.png" style="max-width:100%"
+    <img src="https://davidpelosi21.github.io/Stringhe/image2 copy.png" style="max-width:100%"
     height="auto" width="600" class="responsive">
 </center>
 <center>
@@ -84,7 +83,7 @@ Quest’ultima, come il nome può suggerire, è infatti un’interazione molto p
 
 <figure>  
 <center>
-    <img src="/perugia/Stringhe/image3 copy.png" style="max-width:100%"
+    <img src="https://davidpelosi21.github.io/Stringhe/image3 copy.png" style="max-width:100%"
     height="auto" width="400" class="responsive">
 </center>
 <center>
@@ -111,7 +110,7 @@ Ancora una volta però la corrispondenza olografica ci viene in aiuto: i modelli
 
 <figure>  
 <center>
-    <img src="/perugia/Stringhe/image4 copy.png" style="max-width:100%"
+    <img src="https://davidpelosi21.github.io/Stringhe/image4 copy.png" style="max-width:100%"
     height="auto" width="400" class="responsive">
 </center>
 <center>
@@ -130,7 +129,7 @@ Ancora una volta però la corrispondenza olografica ci viene in aiuto: i modelli
 
 <figure>  
 <center>
-    <img src="/perugia/Stringhe/image5 copy.png" style="max-width:100%"
+    <img src="https://davidpelosi21.github.io/Stringhe/image5 copy.png" style="max-width:100%"
     height="auto" width="400" class="responsive">
 </center>
 <center>

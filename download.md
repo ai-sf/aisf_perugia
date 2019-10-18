@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Download
 permalink: /Download/
 ---
 
-<center><h2>Scarica Helios </h2></center>
+<center><h2><b>Scarica Helios</b> </h2></center>
 
 
 
@@ -17,9 +16,9 @@ permalink: /Download/
 
 <center>
 <figure>
-    <img src="/perugia/imageHelios/helios1loc.png" alt="centered image" style="max-width:100%"
-    height="400" width="300" class="responsive" >
-    <br><a href="/perugia/imageHelios/Helios1.pdf"> <b>Scarica Volume 1</b> </a>
+    <img src="/imageHelios/helios1loc.png" alt="centered image" style="max-width:60%"
+    height="500" width="130" class="responsive" >
+    <br><a href="/imageHelios/Helios1.pdf"> <b>Scarica Volume 1</b> </a>
 </figure>
 </center>
 
@@ -27,8 +26,8 @@ permalink: /Download/
 
 <center>
 <figure>
-    <img src="/perugia/imageHelios/helios2loc.png" alt="centered image" style="max-width:100%"
-    height="400" width="300" class="responsive" >
-    <br><a href="/perugia/imageHelios/Helios1.pdf"> <b>Scarica Volume 2</b> </a>
+    <img src="/imageHelios/helios2loc.png" alt="centered image" style="max-width:60%"
+    height="500" width="130" class="responsive" >
+    <br><a href="/imageHelios/Helios1.pdf"> <b>Scarica Volume 2</b> </a>
 </figure>
 </center>

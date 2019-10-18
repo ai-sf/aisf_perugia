@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Ams02
 permalink: /ABSTRACT/amsABS/
 ---
 <center>
@@ -11,7 +10,7 @@ permalink: /ABSTRACT/amsABS/
 <section>
  <figure>
 <center>
-    <img src="/perugia/ImmaginiAbstract/ams02ABS.png" alt="centered image" style="max-width:100%"
+    <img src="/ImmaginiAbstract/ams02ABS.png" alt="centered image" style="max-width:100%"
     height="auto" width="600" class="responsive" >
 </center>
 <center>
@@ -28,6 +27,6 @@ permalink: /ABSTRACT/amsABS/
 <br>Anche se con un approccio ingenuo, Kelvin iniziò una campagna di osservazioni, che passò per l’astrofisico svizzero Fritz Zwicky fino agli americani Vera Rubin e Kent Ford, dei moti delle galassie. Tutti notarono una rotazione fin troppo elevata ai bordi delle galassie che non poteva essere spiegata ipotizzando il solo contributo dell’attrazione gravitazionale dovuto alla quantità di materia osservata al loro interno; questo aprì l’ipotesi all’esistenza di un tipo di materia non interagente elettromagneticamente, quindi non visibile ai nostri telescopi, ma interagente gravitazionalmente. A questo tipo di materia, viste le sue proprietà, fu dato il nome di materia oscura .<br><br>
 
  <center>
-<a href="http://ai-sf.it/perugia/ArticoliHTML/ams02/"> Continua a leggere </a> &nbsp; &nbsp;
-<a href="http://ai-sf.it/perugia/DOWNLOADSINGLE/amsSINGLE.pdf"> Scarica </a>
+<a href="/ArticoliHTML/ams02/"> Continua a leggere </a> &nbsp; &nbsp;
+<a href="/DOWNLOADSINGLE/amsSINGLE.pdf"> Scarica </a>
 </center>

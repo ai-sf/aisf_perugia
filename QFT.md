@@ -1,15 +1,15 @@
 ---
 layout: page
-title: QFT
 permalink: /QFT/
 ---
 <center>
+<h2><b>QFT</b></h2>
 <h3> <em> Learning by watching </em></h3>
 <br>
 <div class="w3-content w3-section" style="max-width:500px">
-  <img class="mySlides" src="/perugia/Slideshow/qft1.png" style="width:60%">
-  <img class="mySlides" src="/perugia/Slideshow/qft2.png" style="width:60%">
-  <img class="mySlides" src="/perugia/Slideshow/qft3.png" style="width:60%">
+  <img class="mySlides" src="/Slideshow/qft1.png" style="width:60%">
+  <img class="mySlides" src="/Slideshow/qft2.png" style="width:60%">
+  <img class="mySlides" src="/Slideshow/qft3.png" style="width:60%">
 </div>
 </center>
 
@@ -20,11 +20,11 @@ function carousel() {
   var i;
   var x = document.getElementsByClassName("mySlides");
   for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";  
+    x[i].style.display = "none";
   }
   myIndex++;
-  if (myIndex > x.length) {myIndex = 1}    
-  x[myIndex-1].style.display = "block";  
+  if (myIndex > x.length) {myIndex = 1}
+  x[myIndex-1].style.display = "block";
   setTimeout(carousel, 3000);
 }
 </script>
@@ -39,7 +39,10 @@ Vi aspettiamo alla prossima visione!</b>
 
 <br><br>
 <b>Seguite le nostre pagine social per scoprire i prossimi appuntamenti.</b>
-
+<br>
 <center>
-<a href="https://www.instagram.com/aisf_perugia/" class="fa fa-instagram"></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/aisfpg/" class="fa fa-facebook"></a></center>
+<br>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <a href="https://www.instagram.com/aisf_perugia/" class="fa fa-instagram"></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/aisfpg/" class="fa fa-facebook"></a></center>

@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Trigger
 permalink: /ArticoliHTML/trigger/
 ---
 <html>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <center>
  <h2>Let's Talk about particle detectors: Trigger </h2>
-<h5 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-7"><em> A cura di Alessandro Pascolini e Samuele Giuli, 20 Maggio 2019 </em></h5><br>
- <h3>Primo capitolo della rubrica dedicata al complesso mondo dei rivelatori di particelle. </h3>
+<h7 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-7"><em> A cura di Alessandro Pascolini e Samuele Giuli, 20 Maggio 2019 </em></h7><br>
+ <h4>Primo capitolo della rubrica dedicata al complesso mondo dei rivelatori di particelle. </h4>
  <br> </center>
 
 
@@ -45,7 +45,7 @@ La necessità di utilizzare più rivelatori in un singolo esperimento deriva dal
 <tbody>
 <tr>
 <td valign="top" width="300">
-    <img src="/perugia/Trigger/T1.jpg" alt="centered image" style="max-width:100%"
+    <img src="https://davidpelosi21.github.io/Trigger/T1.jpg" alt="centered image" style="max-width:100%"
     height="260" width="300" class="responsive" >
 
 <figcaption>  <b><em>Fig. 1: Produzione di coppia elettrone-positrone. </em></b> </figcaption>
@@ -53,7 +53,7 @@ La necessità di utilizzare più rivelatori in un singolo esperimento deriva dal
 
 
 <td valign="top" width="300"> <center>
-    <img src="/perugia/Trigger/T2.jpg" alt="centered image" style="max-width:100%"
+    <img src="https://davidpelosi21.github.io/Trigger/T2.jpg" alt="centered image" style="max-width:100%"
     height="260" width="300" class="responsive" >
 </center>
 <center>
@@ -96,7 +96,7 @@ inorganici, che generalmente emettono molta luce ma sono più lenti
 </section>
 <figure>
 <center>
-<img src="/perugia/Trigger/T3.png" alt="centered image" style="max-width:100%"
+<img src="https://davidpelosi21.github.io/Trigger/T3.png" alt="centered image" style="max-width:100%"
     height="auto" width="500" class="responsive" >
 <figcaption>  <b> <em>Fig. 3: Meccanismo di scintillazione. </em></b> </figcaption>
 </center>
@@ -126,7 +126,7 @@ Urtando contro di questi provoca l’emissione di altri elettroni che alla fine 
 
 <figure>
 <center>
-<img src="/perugia/Trigger/T4.png" alt="centered image" style="max-width:100%"
+<img src="https://davidpelosi21.github.io/Trigger/T4.png" alt="centered image" style="max-width:100%"
     height="auto" width="600" class="responsive" >
 <figcaption>  <b> <em>Fig. 4: Schema di funzionamento della coppia scintillatore-PMT. </em></b> </figcaption>
 </center>
@@ -152,7 +152,7 @@ Urtando contro di questi provoca l’emissione di altri elettroni che alla fine 
 <center><h3> ToF e ACC</h3></center>
 <figure>
 <center>
-<img src="/perugia/Trigger/T5.png" alt="centered image" style="max-width:100%"
+<img src="https://davidpelosi21.github.io/Trigger/T5.png" alt="centered image" style="max-width:100%"
     height="auto" width="300" class="responsive" >
 <figcaption>  <b> <em>Fig. 5: Disposizione dei layer del ToF di AMS-02. </em></b> </figcaption>
 </center>

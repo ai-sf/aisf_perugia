@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Cern
 permalink: /ArticoliHTML/cern/
 ---
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
 <center>
  <h2>CERN: Accelerating Science </h2>
-<h5><em> A cura di Matteo Magherini, 20 Aprile 2018 </em></h5><br>
- <h3>Alla scoperta del CERN</h3>
+<h7><em> A cura di Matteo Magherini, 20 Aprile 2018 </em></h7><br>
+ <h4>Alla scoperta del CERN</h4>
  <br> </center>
 
 <center>
@@ -17,7 +18,7 @@ permalink: /ArticoliHTML/cern/
 
  <figure>
 <center>
-    <img src="/perugia/cern/cern.png" alt="centered image" style="max-width:100%"
+    <img src="/cern/cern.png" alt="centered image" style="max-width:100%"
     height="auto" width="400" class="responsive" >
 </center>
 <center>

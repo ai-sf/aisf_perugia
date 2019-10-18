@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Trigger
 permalink: /ABSTRACT/triggerABS/
 ---
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
 <center>
  <h2>Trigger </h2>
  <h4>Primo capitolo della rubrica dedicata al complesso mondo dei rivelatori di particelle.</h4>
@@ -12,7 +13,7 @@ permalink: /ABSTRACT/triggerABS/
 <section>
  <figure>
 <center>
-    <img src="/perugia/ImmaginiAbstract/TABS.jpg" alt="centered image" style="max-width:100%"
+    <img src="/ImmaginiAbstract/TABS.jpg" alt="centered image" style="max-width:100%"
     height="auto" width="600" class="responsive" >
 </center>
 <center>
@@ -29,6 +30,6 @@ permalink: /ABSTRACT/triggerABS/
 Per rendere l'idea, se prendessimo il diametro di una mela e la ingrandissimo fino a raggiungere le dimensioni della terra, allora queste particelle avrebbero le dimensioni della mela di partenza. Come riusciamo quindi a rilevare la presenza di queste particelle e come riusciamo a distinguerle? <br><br><br>
 
  <center>
-<a href="http://ai-sf.it/perugia/ArticoliHTML/trigger/"> Continua a leggere </a> &nbsp; &nbsp;
-<a href="http://ai-sf.it/perugia/DOWNLOADSINGLE/triggerSINGLE.pdf"> Scarica </a>
+<a href="/ArticoliHTML/trigger/"> Continua a leggere </a> &nbsp; &nbsp;
+<a href="/DOWNLOADSINGLE/triggerSINGLE.pdf"> Scarica </a>
 </center>

@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Corsi Interni  
 permalink: /Corsi/
 ---
-
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <center>
+<h2><b>Corsi Interni</b></h2>
 <h3> <em> From students to students </em></h3>
 <br>
 <div class="w3-content w3-section" style="max-width:500px">
-  <img class="mySlides" src="/perugia/Slideshow/corso2.png" style="width:60%">
-  <img class="mySlides" src="/perugia/Slideshow/corso1.png" style="width:60%">
+  <img class="mySlides" src="/Slideshow/corso2.png" style="width:60%">
+  <img class="mySlides" src="/Slideshow/corso1.png" style="width:60%">
 </div>
 </center>
 
@@ -39,7 +39,7 @@ Le lezioni prevedono una prima parte dedicata alla presentazione del software e 
 Il corso di Latex viene svolto con le stesse modalità del corso di Root.
 
 
-Per maggirori informazioni:   <a href="mailto:perugia@ai-sf.it"> perugia@ai-sf.it</a>
+Per maggiori informazioni:   <a href="mailto:perugia@ai-sf.it"> perugia@ai-sf.it</a>
 <br>
 <b>Seguite le nostre pagine social per scoprire i prossimi appuntamenti.
 Vi aspettiamo!</b><br>

@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Ams-02
 permalink: /ArticoliHTML/ams02/
 ---
-
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <center>
  <h2>L'Alpha Magnetic Spectrometer AMS-02 </h2>
-<h5 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-7"><em> A cura di Leonardo Salicari e David Pelosi, 20 Aprile 2018 </em></h5><br>
+<h7 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-7"><em> A cura di Leonardo Salicari e David Pelosi, 20 Aprile 2018 </em></h7><br>
 
 <div class="subheading">
   <a href="mailto:david.53211@gmail.com">David Pelosi</a>
@@ -17,13 +16,13 @@ permalink: /ArticoliHTML/ams02/
 
 
 
- <h3>L’esperimento sulla Stazione Spaziale Internazionale per la ricerca sulla materia oscura.</h3>
+ <h4>L’esperimento sulla Stazione Spaziale Internazionale per la ricerca sulla materia oscura.</h4>
  <br> </center>
 
 <section>
  <figure>
 <center>
-    <img src="/perugia/Astroparticelle/ams02-1.png" alt="centered image" style="max-width:100%"
+    <img src="/Astroparticelle/ams02-1.png" alt="centered image" style="max-width:100%"
     height="auto" width="600" class="responsive" >
 </center>
 <center>
@@ -58,7 +57,7 @@ Come già discusso, lo scopo principale di AMS è quello di individuare e misura
 <section>
 <figure>
 <center>
-<img src="/perugia/Astroparticelle/ams02-2.png" alt="centered image" style="max-width:100%"
+<img src="/Astroparticelle/ams02-2.png" alt="centered image" style="max-width:100%"
     height="auto" width="600" class="responsive" >
 <figcaption>  <b> <em>Figura 2: Rappresentazione grafica dei segnali registrati dai rilevatori di AMS al passaggio delle diverse particelle [3]. </em></b> </figcaption>
 </center>
@@ -88,7 +87,7 @@ Come è composto il grafico? <br>
 La curva verde rappresenta l’andamento atteso dal modello teorico che cerca di quantificare il rapporto sopra citato nei raggi cosmici, tenendo conto delle sorgenti astrofisiche note e dell’interazione dei raggi con il mezzo interstellare (ISM). La curva bordeaux, invece, rappresenta il modello teorico che tiene conto del contributo della materia oscura e che meglio approssima i dati sperimentali in rosso, misurati da AMS. Rispetto a ciò che ci si aspetta, si nota un eccesso di positroni a partire da circa 10 GeV con una crescita che appare graduale senza brusche variazioni e osserviamo perfino un picco massimo intorno ai 250 GeV. La dipendenza dallíenergia della curva e la presenza di un massimo potrebbero essere compatibili con l’ipotesi di produzione di positroni ed elettroni da materia oscura. Non si esclude del tutto che l’origine di questo flusso sia dovuta a pulsar o anche a fonti astrofisiche ancora non conosciute; entrambe sono infatti considerate possibili sorgenti di coppie elettrone/positrone.<br><br>
 <figure>
 <center>
-<img src="/perugia/Astroparticelle/ams02-3.png" alt="centered image" style="max-width:100%"
+<img src="/Astroparticelle/ams02-3.png" alt="centered image" style="max-width:100%"
     height="auto" width="600" class="responsive" >
 
 <figcaption>  <b> <em>Figura 3: Dati ottenuti da AMS-02 relativi alla frazione di positroni. </em></b> </figcaption>
@@ -123,7 +122,7 @@ Ad oggi, le direzioni di arrivo dei positroni sono misurate essere isotrope con 
 
 <figure>
 <center>
-<img src="/perugia/Astroparticelle/ams02-4.png" alt="centered image" style="max-width:100%"
+<img src="/Astroparticelle/ams02-4.png" alt="centered image" style="max-width:100%"
     height="auto" width="600" class="responsive" >
 <figcaption>  <b> <em>Figura 4: Control Room di AMS-02 al CERN. </em></b> </figcaption>
 </center>
