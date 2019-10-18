@@ -105,11 +105,14 @@ td, th {
 
 <div class="row">
   <div class="column">
-    <div class="photo"><img src="/perugia/ImmaginiAbstract/na62ABS.png" class="responsive"></div>
+    <figure><div class="photo"><img src="/perugia/ImmaginiAbstract/ams02ABS.png" class="responsive"></div>
+    <figcaption> <a href="/perugia/ABSTRACT/amsABS/">Astroparticelle</a>  </figcaption></figure>
     <br><br>
-    <div class="photo"><img src="/perugia/ImmaginiAbstract/ams02ABS.png" class="responsive"></div>
+    <figure><div class="photo"><img src="/perugia/ImmaginiAbstract/stringheABS.png" class="responsive"></div>
+    <figcaption> <a href="/perugia/ABSTRACT/stringheABS/">Teoria delle Stringhe</a>  </figcaption></figure>
     <br><br>
-    <div class="photo"><img src="/perugia/ImmaginiAbstract/TABS.jpg" class="responsive"></div>
+    <figure><div class="photo"><img src="/perugia/ImmaginiAbstract/retiABS.png" class="responsive"></div>
+    <figcaption> <a href="/perugia/ABSTRACT/retiABS/">Reti Neurali</a>  </figcaption></figure></div>
   </div>
 
   <div class="column">
