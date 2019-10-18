@@ -32,7 +32,7 @@ td, th {
 <table>
   <tr>
     <td><figure>
-        <img src="/perugia/ImmaginiAbstract/ams02ABS.png" height="100" width="100" >
+        <img src="/perugia/ImmaginiAbstract/ams02ABS.png" height="200" width="200" >
         <figcaption> <a href="/perugia/ABSTRACT/amsABS/">Astroparticelle</a>  </figcaption></figure></td>
 
     <td><figure>
