@@ -10,15 +10,7 @@ table {
   border-collapse: collapse;
   width: 100%;
 }
-.img {
-    position: relative;
-    float: left;
-    width:  100px;
-    height: 100px;
-    background-position: 50% 50%;
-    background-repeat:   no-repeat;
-    background-size:     cover;
-}
+
 
 td, th {
   text-align: left;
