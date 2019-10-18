@@ -17,7 +17,7 @@ Contrariamente a quanto si pensa la prima forma di questa branca della matematic
 
 <figure>  
 <center>
-    <img src="/reti/image1.png" style="max-width:100%"
+    <img src="/perugia/reti/image1.png" style="max-width:100%"
     height="auto" width="600" class="responsive">
 </center>
 <center>
@@ -35,7 +35,7 @@ Il concetto fondamentale di una rete è il numero di link che un nodo ha (cioè 
 
 <figure>  
 <center>
-    <img src="/reti/image2.png" style="max-width:100%"
+    <img src="/perugia/reti/image2.png" style="max-width:100%"
     height="auto" width="600" class="responsive">
 </center>
 <center>
@@ -61,7 +61,7 @@ Il Resting State fMRI (rsfMRI, o anche R-fMRI) è una tecnica di risonanza magne
 
 <figure>  
 <center>
-    <img src="/reti/image3.png" style="max-width:100%"
+    <img src="/perugia/reti/image3.png" style="max-width:100%"
     height="auto" width="400" class="responsive">
 </center>
 <center>
@@ -82,7 +82,7 @@ La Connettività Funzionale (FC) è formalmente definita come la correlazione te
 
 <figure>  
 <center>
-    <img src="/reti/image4.png" style="max-width:100%"
+    <img src="/perugia/reti/image4.png" style="max-width:100%"
     height="auto" width="400" class="responsive">
 </center>
 <center>
@@ -103,7 +103,7 @@ Uno dei modelli di rete più utilizzati per descrivere le interazioni neuronali 
 
 <figure>  
 <center>
-    <img src="/reti/image5.png" style="max-width:100%"
+    <img src="/perugia/reti/image5.png" style="max-width:100%"
     height="auto" width="400" class="responsive">
 </center>
 <center>
@@ -127,7 +127,7 @@ Da tali matrici sono state estratte quelle caratteritiche che più sono legate a
 
 <figure>  
 <center>
-    <img src="/reti/image6.png" style="max-width:100%"
+    <img src="/perugia/reti/image6.png" style="max-width:100%"
     height="auto" width="400" class="responsive">
 </center>
 <center>

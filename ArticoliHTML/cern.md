@@ -18,7 +18,7 @@ permalink: /ArticoliHTML/cern/
 
  <figure>
 <center>
-    <img src="/cern/cern.png" alt="centered image" style="max-width:100%"
+    <img src="/perugia/cern/cern.png" alt="centered image" style="max-width:100%"
     height="auto" width="400" class="responsive" >
 </center>
 <center>
