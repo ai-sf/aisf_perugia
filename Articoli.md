@@ -18,7 +18,7 @@ permalink: /Articoli/
           <img src="/perugia/ImmaginiAbstract/TABS.jpg">
           <div class="caption center">
           <a href="/perugia/ABSTRACT/triggerABS"><h4><b>Leggi</b></h4></a>
-          <p class="light grey-text text-lighten-3"><h3><font style="color:rgb(132, 141, 35);"><b>Rivelatori di Particelle<b></font></h3></p>
+          <p class="light grey-text text-lighten-3"><h3><font style="color:rgb(255, 102, 102);"><b>Rivelatori di Particelle<b></font></h3></p>
           </div>
         </li>
 
