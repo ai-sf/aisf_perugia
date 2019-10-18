@@ -4,16 +4,7 @@ permalink: /Articoli/
 ---
 
 <style>
-{box-sizing: border-box;}
 
-
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;}
-
-.column img {
-  margin-top: 12px;}
 
 .photo img{
     height: 190px;
