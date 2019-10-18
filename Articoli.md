@@ -5,6 +5,40 @@ permalink: /Articoli/
 <html>
 <head>
 <style>
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+
+.column {
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+
+@media screen and (max-width: 800px) {
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
@@ -62,5 +96,26 @@ td, th {
 
 </table>
 </div>
+
+
+
+
+
+
+
+<div class="row">
+  <div class="column">
+    <div class="photo"><img src="/perugia/ImmaginiAbstract/na62ABS.png" class="responsive"></div>
+    <div class="photo"><img src="/perugia/ImmaginiAbstract/na62ABS.png" class="responsive"></div>
+    <div class="photo"><img src="/perugia/ImmaginiAbstract/na62ABS.png" class="responsive"></div>
+  </div>
+  <div class="column">
+    <div class="photo"><img src="/perugia/ImmaginiAbstract/na62ABS.png" class="responsive"></div>
+    <div class="photo"><img src="/perugia/ImmaginiAbstract/na62ABS.png" class="responsive"></div>
+    <div class="photo"><img src="/perugia/ImmaginiAbstract/na62ABS.png" class="responsive"></div>
+  </div>
+</div>
+
+
 </body>
 </html>
