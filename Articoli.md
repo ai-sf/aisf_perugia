@@ -47,7 +47,7 @@ td, th {
         <figcaption> <a href="/perugia/ABSTRACT/na62ABS/">Fisica delle Alte Energie</a>  </figcaption></figure></td>
 
     <td><figure>
-        <img src="/perugia/ImmaginiAbstract/triggerABS.png" alt="centered image" style="max-width:100%"
+        <img src="/perugia/ImmaginiAbstract/TABS.jpg" alt="centered image" style="max-width:100%"
         height="auto" width="300" class="responsive">
         <figcaption> <a href="/perugia/ABSTRACT/triggerABS/">Rivelatori di Particelle</a>  </figcaption></figure></td>
 
