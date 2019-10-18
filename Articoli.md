@@ -36,7 +36,7 @@ td, th {
         <figcaption> <a href="/perugia/ABSTRACT/amsABS/">Astroparticelle</a>  </figcaption></figure></td>
 
     <td><figure>
-        <img src="/perugia/ImmaginiAbstract/ams02ABS.png" alt="centered image" height="100" width="100" >
+        <img src="/perugia/ImmaginiAbstract/ams02ABS.png" height="100" width="100" >
         <figcaption> <a href="/perugia/ABSTRACT/stringheABS/">Teoria delle Stringhe</a>  </figcaption></figure></td>
 
     <td><figure>
@@ -48,18 +48,15 @@ td, th {
 
   <tr>
     <td><figure>
-        <img src="/perugia/ImmaginiAbstract/na62ABS.png" alt="centered image" style="max-width:100%"
-        height="auto" width="300" class="responsive">
+        <img src="/perugia/ImmaginiAbstract/na62ABS.png" height="100" width="100" >
         <figcaption> <a href="/perugia/ABSTRACT/na62ABS/">Fisica delle Alte Energie</a>  </figcaption></figure></td>
 
     <td><figure>
-        <img src="/perugia/ImmaginiAbstract/TABS.jpg" alt="centered image" style="max-width:100%"
-        height="auto" width="300" class="responsive">
+        <img src="/perugia/ImmaginiAbstract/TABS.jpg" height="100" width="100" >
         <figcaption> <a href="/perugia/ABSTRACT/triggerABS/">Rivelatori di Particelle</a>  </figcaption></figure></td>
 
     <td><figure>
-        <img src="/perugia/ImmaginiAbstract/cernABS.png" alt="centered image" style="max-width:100%"
-        height="auto" width="300" class="responsive">
+        <img src="/perugia/ImmaginiAbstract/cernABS.png" height="100" width="100" >
         <figcaption> <a href="/perugia/ABSTRACT/cernABS/">Cern</a>  </figcaption></figure></td>
   </tr>
 
