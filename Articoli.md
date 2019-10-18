@@ -22,30 +22,43 @@ td, th {
 <center><h2><b>Articoli</b></h2></center>
 <table>
   <tr>
-    <td><a href="/perugia/ABSTRACT/amsABS/">Astroparticelle</a> </td>
+    <td><figure>
+        <img src="/perugia/ImmaginiAbstract/ams02ABS.png" alt="centered image" style="max-width:100%"
+        height="auto" width="300" class="responsive">
+        <figcaption> <a href="/perugia/ABSTRACT/amsABS/">Astroparticelle</a>  </figcaption></figure></td>
 
-    <td><a href="/perugia/ABSTRACT/stringheABS/">Teoria delle Stringhe</a></td>
-    <td> <a href="/perugia/ABSTRACT/retiABS/">Reti Neurali</a> </td>
+    <td><figure>
+        <img src="/perugia/ImmaginiAbstract/strigheABS.png" alt="centered image" style="max-width:100%"
+        height="auto" width="300" class="responsive">
+        <figcaption> <a href="/perugia/ABSTRACT/stringheABS/">Teoria delle Stringhe</a>  </figcaption></figure></td>
+
+    <td><figure>
+        <img src="/perugia/ImmaginiAbstract/retiABS.png" alt="centered image" style="max-width:100%"
+        height="auto" width="300" class="responsive">
+        <figcaption> <a href="/perugia/ABSTRACT/retiABS/">Reti Neurali</a>  </figcaption></figure></td>
   </tr>
+
+
 
   <tr>
-    <td><a href="/perugia/ABSTRACT/na62ABS/">Fisica delle Alte Energie</a></td>
-    <td><a href="/perugia/ABSTRACT/triggerABS/">Rivelatori di Particelle</a></td>
-    <td><a href="/perugia/ABSTRACT/cernABS/">Cern</a>                     </td>
+    <td><figure>
+        <img src="/perugia/ImmaginiAbstract/na62ABS.png" alt="centered image" style="max-width:100%"
+        height="auto" width="300" class="responsive">
+        <figcaption> <a href="/perugia/ABSTRACT/na62ABS/">Fisica delle Alte Energie</a>  </figcaption></figure></td>
+
+    <td><figure>
+        <img src="/perugia/ImmaginiAbstract/triggerABS.png" alt="centered image" style="max-width:100%"
+        height="auto" width="300" class="responsive">
+        <figcaption> <a href="/perugia/ABSTRACT/triggerABS/">Rivelatori di Particelle</a>  </figcaption></figure></td>
+
+    <td><figure>
+        <img src="/perugia/ImmaginiAbstract/cernABS.png" alt="centered image" style="max-width:100%"
+        height="auto" width="300" class="responsive">
+        <figcaption> <a href="/perugia/ABSTRACT/cernABS/">Cern</a>  </figcaption></figure></td>
   </tr>
 
 
-  <tr>
-    <td><figure>
-        <img src="/perugia/ImmaginiAbstract/ams02ABS.png" alt="centered image" style="max-width:100%"
-        height="auto" width="300" class="responsive"></figure></td>
-    <td><figure>
-        <img src="/perugia/ImmaginiAbstract/ams02ABS.png" alt="centered image" style="max-width:100%"
-        height="auto" width="300" class="responsive"></figure></td>
-    <td><figure>
-        <img src="/perugia/ImmaginiAbstract/ams02ABS.png" alt="centered image" style="max-width:100%"
-        height="auto" width="300" class="responsive"></figure></td>
-  </tr>
+
 
 </table>
 </body>
