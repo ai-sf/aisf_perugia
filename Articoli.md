@@ -70,6 +70,7 @@ td, th {
     <figcaption> <a href="/perugia/ABSTRACT/stringheABS/">Teoria delle Stringhe</a>  </figcaption></figure>
     <br><br></div>
 
+<div class="column">
   <div class="row">
     <figure><div class="photo"><img src="/perugia/ImmaginiAbstract/na62ABS.png" class="responsive"></div>
     <figcaption> <a href="/perugia/ABSTRACT/na62ABS/">Fisica delle Alte Energie</a>  </figcaption></figure>
@@ -77,7 +78,8 @@ td, th {
     <figure><div class="photo"><img src="/perugia/ImmaginiAbstract/retiABS.png" class="responsive"></div>
     <figcaption> <a href="/perugia/ABSTRACT/retiABS/">Reti Neurali</a>  </figcaption></figure>
     <br><br></div>
-
+    
+<div class="column">
   <div class="row">
     <figure><div class="photo"><img src="/perugia/ImmaginiAbstract/TABS.jpg" class="responsive"></div>
     <figcaption> <a href="/perugia/ABSTRACT/triggerABS/">Rivelatori di Particelle</a>  </figcaption></figure></div>
