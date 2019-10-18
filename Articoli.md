@@ -6,7 +6,6 @@ permalink: /Articoli/
 <div class="section">
   <div class="slider" id="foto-eventi">
     <ul class="slides">
-      {% for slide in site.data.home.slideshow %}
         <li>
           <img src="/perugia/ImmaginiAbstract/ams02ABS.png">
           <div class="caption left-align">
