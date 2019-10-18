@@ -45,8 +45,8 @@ permalink: /Articoli/
         <li>
           <img src="/perugia/ImmaginiAbstract/cernABS.png">
           <div class="caption right-align">
-          <a href="/perugia/ABSTRACT/cernABS"><h4><b>Leggi</b></h4></a>
-          <p class="light grey-text text-lighten-3"><h3><b>Cern</b></h3></p>
+          <a href="/perugia/ABSTRACT/cernABS"><h3><b>Leggi</b></h3></a>
+          <p class="light grey-text text-lighten-3"><h2><b>Cern</b></h2></p>
           </div>
         </li>
 
