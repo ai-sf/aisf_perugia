@@ -3,7 +3,7 @@ layout: page
 permalink: /Helios/
 ---
 
-<center><h2>Il Periodico Helios </h2></center>
+<center><h2><b>Il Periodico Helios </b></h2></center>
 
  <figure>
 <center>
