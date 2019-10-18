@@ -67,10 +67,11 @@ td, th {
     <br><br>
     <figure><div class="photo"><img src="/perugia/ImmaginiAbstract/stringheABS.png" class="responsive"></div>
     <figcaption> <a href="/perugia/ABSTRACT/stringheABS/">Teoria delle Stringhe</a>  </figcaption></figure>
-    <br><br></div>
+    <br><br>
     <figure><div class="photo"><img src="/perugia/ImmaginiAbstract/TABS.jpg" class="responsive"></div>
     <figcaption> <a href="/perugia/ABSTRACT/triggerABS/">Rivelatori di Particelle</a>  </figcaption></figure></div>
     <br><br>
+  </div>
 
   <div class="column">
     <figure><div class="photo"><img src="/perugia/ImmaginiAbstract/na62ABS.png" class="responsive"></div>
@@ -81,7 +82,7 @@ td, th {
     <br><br>
     <figure><div class="photo"><img src="/perugia/ImmaginiAbstract/cernABS.png" class="responsive"></div>
     <figcaption> <a href="/perugia/ABSTRACT/cernABS/">Cern</a> </figcaption></figure>
-    </div></div>
+  </div>
 
 
 </center>
