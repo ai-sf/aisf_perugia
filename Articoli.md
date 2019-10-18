@@ -37,8 +37,8 @@ td, th {
 
   <tr>
     <td><figure>
-        <img src="/perugia/ImmaginiAbstract/helios2loc.png" alt="centered image" style="max-width:100%"
-        height="auto" width="400" class="responsive"></figure></td>
+        <img src="/perugia/ImmaginiAbstract/ams02ABS.png" alt="centered image" style="max-width:50%"
+        height="auto" width="100" class="responsive"></figure></td>
     <td><a href="/perugia/ABSTRACT/triggerABS/">Rivelatori di Particelle</a></td>
     <td><a href="/perugia/ABSTRACT/cernABS/">Cern</a></td>
   </tr>
