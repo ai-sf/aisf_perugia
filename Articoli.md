@@ -9,15 +9,6 @@ permalink: /Articoli/
   box-sizing: border-box;
 }
 
-body {
-  margin: 0;
-  font-family: Arial;
-}
-
-.header {
-  text-align: center;
-  padding: 32px;
-}
 
 .column {
   float: left;
@@ -29,12 +20,6 @@ body {
   margin-top: 12px;
 }
 
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
 .photo img{
     height: 190px;
     width: 240px;
