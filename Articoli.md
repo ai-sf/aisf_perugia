@@ -83,7 +83,7 @@ td, th {
     <figure><div class="photo"><img src="/perugia/ImmaginiAbstract/cernABS.png" class="responsive"></div>
     <figcaption> <a href="/perugia/ABSTRACT/cernABS/">Cern</a> </figcaption></figure>
     </div>
-  </div>
+
 
 
 
