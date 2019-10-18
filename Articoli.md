@@ -10,13 +10,14 @@ table {
   border-collapse: collapse;
   width: 100%;
 }
-.img{
-   width:100px;
-   height:100px;
-
-/*Scale down will take the necessary specified space that is 100px x 100px without stretching the image*/
-    object-fit:scale-down;
-
+.img {
+    position: relative;
+    float: left;
+    width:  100px;
+    height: 100px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
 }
 
 td, th {
@@ -31,7 +32,7 @@ td, th {
 <table>
   <tr>
     <td><figure>
-        <img src="/perugia/ImmaginiAbstract/ams02ABS.png" alt="centered image" class="responsive">
+        <img src="/perugia/ImmaginiAbstract/ams02ABS.png">
         <figcaption> <a href="/perugia/ABSTRACT/amsABS/">Astroparticelle</a>  </figcaption></figure></td>
 
     <td><figure>
