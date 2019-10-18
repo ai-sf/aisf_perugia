@@ -22,7 +22,7 @@ td, th {
 <body>
 <center><h2><b>Articoli</b></h2></center>
 <table>
-  <tr style="max-width:500px>
+  <tr>
     <td valign="middle" align="center"><figure>
         <img src="/perugia/ImmaginiAbstract/ams02ABS.png" height="auto" width="auto" >
         <figcaption> <a href="/perugia/ABSTRACT/amsABS/">Astroparticelle</a>  </figcaption></figure></td>
