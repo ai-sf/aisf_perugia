@@ -27,7 +27,7 @@ td, th {
         <img src="/perugia/ImmaginiAbstract/ams02ABS.png" height="100" width="200" >
         <figcaption> <a href="/perugia/ABSTRACT/amsABS/">Astroparticelle</a>  </figcaption></figure></td>
 
-    <td valign="middle" align="center"<figure>
+    <td valign="middle" align="center"><figure>
         <img src="/perugia/ImmaginiAbstract/ams02ABS.png" height="100" width="200" >
         <figcaption> <a href="/perugia/ABSTRACT/stringheABS/">Teoria delle Stringhe</a>  </figcaption></figure></td>
 
