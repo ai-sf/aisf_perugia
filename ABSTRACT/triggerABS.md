@@ -13,7 +13,7 @@ permalink: /ABSTRACT/triggerABS/
 <section>
  <figure>
 <center>
-    <img src="/ImmaginiAbstract/TABS.jpg" alt="centered image" style="max-width:100%"
+    <img src="/perugia/ImmaginiAbstract/TABS.jpg" alt="centered image" style="max-width:100%"
     height="auto" width="600" class="responsive" >
 </center>
 <center>
