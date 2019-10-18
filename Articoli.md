@@ -27,8 +27,8 @@ permalink: /Articoli/
         <li>
           <img src="/perugia/ImmaginiAbstract/na62ABS.png">
           <div class="caption left-align">
-          <a href="/perugia/ABSTRACT/na62ABS"><h4>Leggi</h4></a>
-          <p class="light grey-text text-lighten-3"><h3>Fisica delle Alte Energie</h3></p>
+          <a href="/perugia/ABSTRACT/na62ABS"><h4><b>Leggi</b></h4></a>
+          <p class="light black-text text-lighten-3"><h3><b>Fisica delle Alte Energie<b></h3></p>
           </div>
         </li>
 
