@@ -36,8 +36,8 @@ permalink: /Articoli/
         <li>
           <img src="/perugia/ImmaginiAbstract/retiABS.png">
           <div class="caption left-align">
-          <a href="/perugia/ABSTRACT/retiABS"><h4><font style="color:rgb(132, 141, 145);">Leggi</font></h4></a>
-          <p class="light grey-text text-lighten-3"><h3>Reti Neurali</h3></p>
+          <a href="/perugia/ABSTRACT/retiABS"><h4><b>Leggi</b></h4></a>
+          <p class="light grey-text text-lighten-3"><h3><b>Reti Neurali</b></h3></p>
           </div>
         </li>
 
