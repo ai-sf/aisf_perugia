@@ -51,8 +51,8 @@ td, th {
   padding: 8px;
 }
 .photo img{
-    height: 170px;
-    width: 222px;
+    height: 190px;
+    width: 240px;
 }
 
 </style>
