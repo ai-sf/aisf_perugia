@@ -36,7 +36,7 @@ td, th {
         <figcaption> <a href="/perugia/ABSTRACT/stringheABS/">Teoria delle Stringhe</a>  </figcaption></figure></td>
 
     <td><figure>
-        <div class="photo"><img src="/perugia/Stringhe/image5 copy.png"></div>
+        <div class="photo"><img src="/perugia/ImmaginiAbstract/retiABS.png"></div>
         <figcaption> <a href="/perugia/ABSTRACT/retiABS/">Reti Neurali</a>  </figcaption></figure></td>
   </tr>
 
