@@ -22,7 +22,7 @@ permalink: /ArticoliHTML/stringhe/
 
 <figure>  
 <center>
-    <img src="/perugia/Stringhe/image1 copy.png" alt="centered image" style="max-width:100%"
+    <img src="/perugia/Stringhe/image1 copy.png" alt="centered image" style="max-width:60%"
     height="auto" width="300" class="responsive">
 </center>
 </figure>
