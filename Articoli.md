@@ -32,16 +32,15 @@ td, th {
 <table>
   <tr>
     <td><figure>
-        <img src="/perugia/ImmaginiAbstract/ams02ABS.png">
+        <img src="/perugia/ImmaginiAbstract/ams02ABS.png" height="100" width="100" >
         <figcaption> <a href="/perugia/ABSTRACT/amsABS/">Astroparticelle</a>  </figcaption></figure></td>
 
     <td><figure>
-        <img src="/perugia/ImmaginiAbstract/ams02ABS.png" alt="centered image" style="max-width:100%"
-        height="auto" width="300" class="responsive">
+        <img src="/perugia/ImmaginiAbstract/ams02ABS.png" alt="centered image" height="100" width="100" >
         <figcaption> <a href="/perugia/ABSTRACT/stringheABS/">Teoria delle Stringhe</a>  </figcaption></figure></td>
 
     <td><figure>
-        <img src="/perugia/ImmaginiAbstract/retiABS.png" alt="centered image" class="responsive">
+        <img src="/perugia/ImmaginiAbstract/retiABS.png" height="100" width="100">
         <figcaption> <a href="/perugia/ABSTRACT/retiABS/">Reti Neurali</a>  </figcaption></figure></td>
   </tr>
 
