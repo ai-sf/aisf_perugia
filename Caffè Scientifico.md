@@ -8,7 +8,7 @@ permalink: /CaffèScientifico/
 <h3> <em> Not a simple coffee time </em></h3>
 <br>
 <div class="w3-content w3-section" style="max-width:500px">
-  <img class="mySlides" src="/Perugia/Slideshow/caffe.png" style="width:60%">
+  <img class="mySlides" src="/perugia/Slideshow/caffe.png" style="width:60%">
   <img class="mySlides" src="/perugia/Slideshow/caffe2.png" style="width:60%">
   <img class="mySlides" src="/perugia/Slideshow/caffe3.png" style="width:60%">
   <img class="mySlides" src="/perugia/Slideshow/caffe4.png" style="width:60%">
