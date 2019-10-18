@@ -36,7 +36,7 @@ td, th {
         <figcaption> <a href="/perugia/ABSTRACT/amsABS/">Astroparticelle</a>  </figcaption></figure></td>
 
     <td><figure>
-        <img src="/perugia/ImmaginiAbstract/strigheABS.png" alt="centered image" style="max-width:100%"
+        <img src="/perugia/ImmaginiAbstract/ams02ABS.png" alt="centered image" style="max-width:100%"
         height="auto" width="300" class="responsive">
         <figcaption> <a href="/perugia/ABSTRACT/stringheABS/">Teoria delle Stringhe</a>  </figcaption></figure></td>
 
