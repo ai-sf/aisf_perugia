@@ -8,7 +8,7 @@ permalink: /Articoli/
     <ul class="slides">
       {% for slide in site.data.home.slideshow %}
         <li>
-          <img src=""/perugia/ImmaginiAbstract/ams02ABS.png">
+          <img src="/perugia/ImmaginiAbstract/ams02ABS.png">
           <div class="caption left-align">
             <h4>AMS02</h4>
             <p class="light grey-text text-lighten-3">Try</p>
