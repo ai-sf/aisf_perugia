@@ -28,6 +28,6 @@ permalink: /ABSTRACT/retiABS/
  <br>Che siano reti sociali, economiche o cerebrali ora mai sentiamo sempre più spesso parlare di rete. Internet o Facebook ci danno ogni giorno un’idea di rete, ma oltre il mondo online ci rendiamo sempre più conto che i fenomeni sono perlopiù connessi con innumerevoli altri, come un grande puzzle universale. È in atto una rivoluzione dove scienziati di ogni disciplina scoprono che la natura è una complessità con un’architettura ben precisa. Siamo arrivati a capire l’importanza delle reti. Tuttavia, sono in pochissimi a rendersi conto che, nel suo rapido sviluppo, la scienza delle reti sta scoprendo fenomeni molto più rivelatori ed eccitanti di quanto l’uso casuale della parola rete abbia mai suggerito.<br><br>
 
  <center>
-<a href="/ArticoliHTML/reti/"> Continua a leggere </a> &nbsp; &nbsp;
-<a href="/DOWNLOADSINGLE/retineuraliSINGLE.pdf"> Scarica </a>
+<a href="/perugia/ArticoliHTML/reti/"> Continua a leggere </a> &nbsp; &nbsp;
+<a href="/perugia/DOWNLOADSINGLE/retineuraliSINGLE.pdf"> Scarica </a>
 </center>

@@ -30,6 +30,6 @@ permalink: /ABSTRACT/triggerABS/
 Per rendere l'idea, se prendessimo il diametro di una mela e la ingrandissimo fino a raggiungere le dimensioni della terra, allora queste particelle avrebbero le dimensioni della mela di partenza. Come riusciamo quindi a rilevare la presenza di queste particelle e come riusciamo a distinguerle? <br><br><br>
 
  <center>
-<a href="/ArticoliHTML/trigger/"> Continua a leggere </a> &nbsp; &nbsp;
-<a href="/DOWNLOADSINGLE/triggerSINGLE.pdf"> Scarica </a>
+<a href="/perugia/ArticoliHTML/trigger/"> Continua a leggere </a> &nbsp; &nbsp;
+<a href="/perugia/DOWNLOADSINGLE/triggerSINGLE.pdf"> Scarica </a>
 </center>
