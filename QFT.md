@@ -38,7 +38,7 @@ Le tematiche ad ora trattate sono state: la vita di un ricercatore al Cern con l
 Vi aspettiamo alla prossima visione!</b>
 
 <br><br>
-<b>Seguite le nostre pagine social per scoprire i prossimi appuntamenti.</b>
+<b>Seguite le nostre4 pagine social per scoprire i prossimi appuntamenti.</b>
 <br>
 <center>
 <br>
