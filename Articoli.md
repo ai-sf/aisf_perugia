@@ -40,15 +40,15 @@ td, th {
 
   <tr>
     <td valign="middle" align="center"><figure>
-        <img src="/perugia/ImmaginiAbstract/na62ABS.png" height="200" width="400" >
+        <img src="/perugia/ImmaginiAbstract/na62ABS.png" height="200" width="auto" >
         <figcaption> <a href="/perugia/ABSTRACT/na62ABS/">Fisica delle Alte Energie</a>  </figcaption></figure></td>
 
     <td valign="middle" align="center"><figure>
-        <img src="/perugia/ImmaginiAbstract/TABS.jpg" height="200" width="400" >
+        <img src="/perugia/ImmaginiAbstract/TABS.jpg" height="200" width="auto" >
         <figcaption> <a href="/perugia/ABSTRACT/triggerABS/">Rivelatori di Particelle</a>  </figcaption></figure></td>
 
     <td valign="middle" align="center"><figure>
-        <img src="/perugia/ImmaginiAbstract/cernABS.png" height="200" width="300" >
+        <img src="/perugia/ImmaginiAbstract/cernABS.png" height="200" width="auto" >
         <figcaption> <a href="/perugia/ABSTRACT/cernABS/">Cern</a>  </figcaption></figure></td>
   </tr>
 
