@@ -17,8 +17,8 @@ td, th {
   padding: 8px;
 }
 .photo img{
-    height: 200px;
-    width: 130px;
+    height: 130px;
+    width: 200px;
 }
 
 </style>
