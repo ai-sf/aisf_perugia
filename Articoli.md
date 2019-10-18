@@ -25,7 +25,7 @@ td, th {
 </head>
 <body>
 <center><h2><b>Articoli</b></h2></center>
-<div style="overflow-x:hidden;">
+<div style="overflow-y:scroll;">
 <table>
   <tr>
     <td><figure>
