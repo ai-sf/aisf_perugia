@@ -32,11 +32,11 @@ td, th {
         <figcaption> <a href="/perugia/ABSTRACT/amsABS/">Astroparticelle</a>  </figcaption></figure></td>
 
     <td><figure>
-        <div class="photo"><img src="/perugia/ImmaginiAbstract/ams02ABS.png"></div>
+        <div class="photo"><img src="/perugia/ImmaginiAbstract/stringheABS.png"></div>
         <figcaption> <a href="/perugia/ABSTRACT/stringheABS/">Teoria delle Stringhe</a>  </figcaption></figure></td>
 
     <td><figure>
-        <div class="photo"><img src="/perugia/ImmaginiAbstract/retiABS.png"></div>
+        <div class="photo"><img src="/perugia/Stringhe/image5 copy.png"></div>
         <figcaption> <a href="/perugia/ABSTRACT/retiABS/">Reti Neurali</a>  </figcaption></figure></td>
   </tr>
 
