@@ -44,15 +44,15 @@ td, th {
 
   <tr>
     <td><figure>
-       <img src="/perugia/ImmaginiAbstract/na62ABS.png">
+      <div class="photo"> <img src="/perugia/ImmaginiAbstract/na62ABS.png"></div>
         <figcaption> <a href="/perugia/ABSTRACT/na62ABS/">Fisica delle Alte Energie</a>  </figcaption></figure></td>
 
     <td><figure>
-        <img src="/perugia/ImmaginiAbstract/TABS.jpg">
+      <div class="photo">  <img src="/perugia/ImmaginiAbstract/TABS.jpg"></div>
         <figcaption> <a href="/perugia/ABSTRACT/triggerABS/">Rivelatori di Particelle</a>  </figcaption></figure></td>
 
     <td><figure>
-        <img src="/perugia/ImmaginiAbstract/cernABS.png">
+        <div class="photo"><img src="/perugia/ImmaginiAbstract/cernABS.png"></div>
         <figcaption> <a href="/perugia/ABSTRACT/cernABS/">Cern</a>  </figcaption></figure></td>
   </tr>
 
