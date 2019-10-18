@@ -61,8 +61,8 @@ td, th {
 <center><h2><b>Articoli</b></h2></center>
 
 
-<div class="column">
-  <div class="row">
+<div class="row">
+  <div class="column">
     <figure><div class="photo"><img src="/perugia/ImmaginiAbstract/ams02ABS.png" class="responsive"></div>
     <figcaption> <a href="/perugia/ABSTRACT/amsABS/">Astroparticelle</a>  </figcaption></figure>
     <br><br>
@@ -70,26 +70,23 @@ td, th {
     <figcaption> <a href="/perugia/ABSTRACT/stringheABS/">Teoria delle Stringhe</a>  </figcaption></figure>
     <br><br></div>
 
-<div class="column">
-  <div class="row">
+<div class="row">
+  <div class="column">
     <figure><div class="photo"><img src="/perugia/ImmaginiAbstract/na62ABS.png" class="responsive"></div>
     <figcaption> <a href="/perugia/ABSTRACT/na62ABS/">Fisica delle Alte Energie</a>  </figcaption></figure>
     <br><br>
     <figure><div class="photo"><img src="/perugia/ImmaginiAbstract/retiABS.png" class="responsive"></div>
     <figcaption> <a href="/perugia/ABSTRACT/retiABS/">Reti Neurali</a>  </figcaption></figure>
     <br><br></div>
-    
-<div class="column">
-  <div class="row">
+
+<div class="row">
+  <div class="column">
     <figure><div class="photo"><img src="/perugia/ImmaginiAbstract/TABS.jpg" class="responsive"></div>
     <figcaption> <a href="/perugia/ABSTRACT/triggerABS/">Rivelatori di Particelle</a>  </figcaption></figure></div>
     <br><br>
     <figure><div class="photo"><img src="/perugia/ImmaginiAbstract/cernABS.png" class="responsive"></div>
     <figcaption> <a href="/perugia/ABSTRACT/cernABS/">Cern</a> </figcaption></figure>
     </div>
-
-
-
 
 </body>
 </html>
