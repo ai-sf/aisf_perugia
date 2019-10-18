@@ -86,7 +86,7 @@ td, th {
     <figcaption> <a href="/perugia/ABSTRACT/triggerABS/">Rivelatori di Particelle</a>  </figcaption></figure></div>
     <br><br>
     <figure><div class="photo"><img src="/perugia/ImmaginiAbstract/cernABS.png" class="responsive"></div>
-    <figcaption> <a href="/perugia/ABSTRACT/cernABS/">Cern</a>  </figcaption></figure>
+    <figcaption> <a href="/perugia/ABSTRACT/cernABS/">Cern</a>  </figcaption></figure></div>
 
 </div>
 
