@@ -45,8 +45,7 @@ body {
 <center><h2><b>Articoli</b></h2></center>
 
 
-<p>fyuhdnijbfuhdnsji</p>
-<center>
+
 
   <div class="column">
     <figure><div class="photo"><img src="/perugia/ImmaginiAbstract/ams02ABS.png" class="responsive"></div>
@@ -70,5 +69,3 @@ body {
     <figure><div class="photo"><img src="/perugia/ImmaginiAbstract/cernABS.png" class="responsive"></div>
     <figcaption> <a href="/perugia/ABSTRACT/cernABS/">Cern</a> </figcaption></figure>
   </div>
-
-</center>
