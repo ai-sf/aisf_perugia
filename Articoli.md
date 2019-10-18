@@ -109,7 +109,7 @@ td, th {
     &nbps;    &nbps;     &nbps;
     <div class="photo"><img src="/perugia/ImmaginiAbstract/ams02ABS.png" class="responsive"></div>
         &nbps;     &nbps;     &nbps;
-    <div class="photo"><img src="/perugia/ImmaginiAbstract/triggerABS.png" class="responsive"></div>
+    <div class="photo"><img src="/perugia/ImmaginiAbstract/TABS.jpg" class="responsive"></div>
   </div>
   <div class="column">
     <div class="photo"><img src="/perugia/ImmaginiAbstract/na62ABS.png" class="responsive"></div>
