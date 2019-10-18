@@ -61,8 +61,8 @@ td, th {
 <center><h2><b>Articoli</b></h2></center>
 
 
-<div class="row">
-  <div class="column">
+<div class="column">
+  <div class="row">
     <figure><div class="photo"><img src="/perugia/ImmaginiAbstract/ams02ABS.png" class="responsive"></div>
     <figcaption> <a href="/perugia/ABSTRACT/amsABS/">Astroparticelle</a>  </figcaption></figure>
     <br><br>
