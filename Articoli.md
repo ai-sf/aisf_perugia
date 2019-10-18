@@ -39,8 +39,12 @@ td, th {
     <td><figure>
         <img src="/perugia/ImmaginiAbstract/ams02ABS.png" alt="centered image" style="max-width:50%"
         height="auto" width="100" class="responsive"></figure></td>
-    <td><a href="/perugia/ABSTRACT/triggerABS/">Rivelatori di Particelle</a></td>
-    <td><a href="/perugia/ABSTRACT/cernABS/">Cern</a></td>
+    <td><figure>
+        <img src="/perugia/ImmaginiAbstract/ams02ABS.png" alt="centered image" style="max-width:50%"
+        height="auto" width="100" class="responsive"></figure></td>
+    <td><figure>
+        <img src="/perugia/ImmaginiAbstract/ams02ABS.png" alt="centered image" style="max-width:50%"
+        height="auto" width="100" class="responsive"></figure></td>
   </tr>
 
 </table>
