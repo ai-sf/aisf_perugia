@@ -5,50 +5,36 @@ permalink: /Articoli/
 <html>
 <head>
 <style>
-.row {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 0 4px;
+
+ {
+  box-sizing: border-box;
 }
 
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
 
 .column {
-  flex: 25%;
-  max-width: 25%;
-  padding: 0 4px;
+  float: left;
+  width: 50%;
+  padding: 10px;
 }
 
 .column img {
-  margin-top: 8px;
-  vertical-align: middle;
-  width: 100%;
+  margin-top: 12px;
 }
 
 
-@media screen and (max-width: 800px) {
-  .column {
-    flex: 50%;
-    max-width: 50%;
-  }
-}
-
-
-@media screen and (max-width: 600px) {
-  .column {
-    flex: 100%;
-    max-width: 100%;
-  }
-}
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-
-td, th {
-  text-align: left;
-  padding: 8px;
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 .photo img{
     height: 190px;
