@@ -44,5 +44,5 @@ Per maggiori informazioni:   <a href="mailto:perugia@ai-sf.it"> perugia@ai-sf.it
 <b>Seguite le nostre pagine social per scoprire i prossimi appuntamenti.
 Vi aspettiamo!</b><br>
 <center>
-<a href="https://www.instagram.com/aisf_perugia/" class="fa fa-instagram fa-4x"></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/aisfpg/" class="fa fa-facebook fa-4x"></a></center>
+<a href="https://www.instagram.com/aisf_perugia/" class="fa fa-instagram fa-3x"></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/aisfpg/" class="fa fa-facebook fa-3x"></a></center>
