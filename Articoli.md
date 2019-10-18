@@ -53,8 +53,8 @@ permalink: /Articoli/
         <li>
           <img src="/perugia/ImmaginiAbstract/stringheABS.png">
           <div class="caption left-align">
-          <a href="/perugia/ABSTRACT/stringheABS"><h4>Leggi</h4></a>
-          <p class="light grey-text text-lighten-3"><h3>Teoria delle Stringhe</h3></p>
+          <a href="/perugia/ABSTRACT/stringheABS"><h4><b>Leggi</b></h4></a>
+          <p class="light grey-text text-lighten-3"><h3><b>Teoria delle Stringhe</b></h3></p>
           </div>
         </li>
 
