@@ -111,7 +111,7 @@ td, th {
     <br><br>
     <div class="photo"><img src="/perugia/ImmaginiAbstract/TABS.jpg" class="responsive"></div>
   </div>
-
+&nbsp; &nbsp; &nbsp;
   <div class="column">
     <div class="photo"><img src="/perugia/ImmaginiAbstract/na62ABS.png" class="responsive"></div>
     <br><br>
@@ -119,7 +119,7 @@ td, th {
     <br><br>
     <div class="photo"><img src="/perugia/ImmaginiAbstract/na62ABS.png" class="responsive"></div>
   </div>
-
+&nbsp; &nbsp; &nbsp;
   <div class="column">
     <div class="photo"><img src="/perugia/ImmaginiAbstract/na62ABS.png" class="responsive"></div>
     <br><br>
