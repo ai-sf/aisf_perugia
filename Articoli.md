@@ -38,13 +38,13 @@ td, th {
   <tr>
     <td><figure>
         <img src="/perugia/ImmaginiAbstract/ams02ABS.png" alt="centered image" style="max-width:100%"
-        height="auto" width="200" class="responsive"></figure></td>
+        height="auto" width="300" class="responsive"></figure></td>
     <td><figure>
         <img src="/perugia/ImmaginiAbstract/ams02ABS.png" alt="centered image" style="max-width:100%"
-        height="auto" width="200" class="responsive"></figure></td>
+        height="auto" width="300" class="responsive"></figure></td>
     <td><figure>
         <img src="/perugia/ImmaginiAbstract/ams02ABS.png" alt="centered image" style="max-width:100%"
-        height="auto" width="200" class="responsive"></figure></td>
+        height="auto" width="300" class="responsive"></figure></td>
   </tr>
 
 </table>
