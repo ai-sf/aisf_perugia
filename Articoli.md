@@ -106,7 +106,7 @@ td, th {
 <div class="row">
   <div class="column">
     <div class="photo"><img src="/perugia/ImmaginiAbstract/na62ABS.png" class="responsive"></div>
-    &nbps;    &nbps;     &nbps;
+    &npbs;    &npbs;     &npbs;
     <div class="photo"><img src="/perugia/ImmaginiAbstract/ams02ABS.png" class="responsive"></div>
         &nbps;     &nbps;     &nbps;
     <div class="photo"><img src="/perugia/ImmaginiAbstract/TABS.jpg" class="responsive"></div>
