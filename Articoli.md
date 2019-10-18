@@ -61,9 +61,10 @@ td, th {
 <center><h2><b>Articoli</b></h2></center>
 
 <center>
+
   <div class="column">
     <figure><div class="photo"><img src="/perugia/ImmaginiAbstract/ams02ABS.png" class="responsive"></div>
-    <figcaption> <a href="/perugia/ABSTRACT/amsABS/">Astroparticelle</a>  </figcaption></figure>
+    <figcaption> <a href="/perugia/ABSTRACT/amsABS/">Astroparticelle</a></figcaption></figure>
     <br><br>
     <figure><div class="photo"><img src="/perugia/ImmaginiAbstract/stringheABS.png" class="responsive"></div>
     <figcaption> <a href="/perugia/ABSTRACT/stringheABS/">Teoria delle Stringhe</a>  </figcaption></figure>
