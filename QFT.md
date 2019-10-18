@@ -1,4 +1,4 @@
----
+ ---
 layout: page
 permalink: /QFT/
 ---
@@ -44,5 +44,5 @@ Vi aspettiamo alla prossima visione!</b>
 <br>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
-  <a href="https://www.instagram.com/aisf_perugia/" class="fa fa-instagram"></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/aisfpg/" class="fa fa-facebook"></a></center>
+  <a href="https://www.instagram.com/aisf_perugia/" class="fa fa-instagram fa-7x"></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/aisfpg/" class="fa fa-facebook fa-7x"></a></center>
