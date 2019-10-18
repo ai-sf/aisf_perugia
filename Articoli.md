@@ -110,8 +110,8 @@ td, th {
     <div class="photo"><img src="/perugia/ImmaginiAbstract/ams02ABS.png" class="responsive"></div>
     <br><br>
     <div class="photo"><img src="/perugia/ImmaginiAbstract/TABS.jpg" class="responsive"></div>
+    &nbsp; &nbsp; &nbsp;
   </div>
-&nbsp; &nbsp; &nbsp;
   <div class="column">
     <div class="photo"><img src="/perugia/ImmaginiAbstract/na62ABS.png" class="responsive"></div>
     <br><br>
