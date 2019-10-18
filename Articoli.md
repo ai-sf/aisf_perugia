@@ -15,14 +15,14 @@ permalink: /Articoli/
           </div>
         </li>
         <li>
-          <img src=""/perugia/ImmaginiAbstract/ams02ABS.png">
+          <img src="/perugia/ImmaginiAbstract/ams02ABS.png">
           <div class="caption left-align">
             <h4>AMSO2</h4>
             <p class="light grey-text text-lighten-3">Try</p>
           </div>
         </li>
         <li>
-          <img src=""/perugia/ImmaginiAbstract/ams02ABS.png">
+          <img src="/perugia/ImmaginiAbstract/ams02ABS.png">
           <div class="caption left-align">
             <h4>AMS02</h4>
             <p class="light grey-text text-lighten-3">Try</p>
