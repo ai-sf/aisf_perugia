@@ -1,14 +1,12 @@
 ---
 layout: default
 ---
-<html>
-<head>
+
 <meta property="og:url"            content="http://ai-sf.it/perugia" />
 <meta property="og:type"           content="article" />
 <meta property="og:title"          content="AISF Perugia" />
 <meta property="og:description"    content="Pagina del Comitato Locale AISF di Perugia" />
 <meta property="og:image"          content="http://ai-sf.it/perugia/img/banner.png" />
-</head>
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
@@ -65,4 +63,3 @@ layout: default
 
 
 </center>
-</html>
