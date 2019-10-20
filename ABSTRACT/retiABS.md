@@ -12,7 +12,7 @@ permalink: /ABSTRACT/retiABS/
 <section>
  <figure>
 <center>
-    <img src="/perugia/ImmaginiAbstract/retiABS.png" alt="centered image" style="max-width:100%"
+    <img src="/perugia/ImmaginiAbstract/retiABS.png" alt="centered image"
     height="150" width="150" class="responsive" >
 </center>
 <center>
