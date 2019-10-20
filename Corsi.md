@@ -30,7 +30,7 @@ function carousel() {
 </script>
 <br><br>
 
-Il <b>Comitato Locale Aisf di Perugia</b> organizza ogni anno corsi interni di Root e Latex tenuti dagli studenti stessi. I corsi sono rivolti prevalentemente agli iscritti del primo anno accedemico con l'intento di mostrare i principali tools utili per i corsi di Laboratorio.
+Il <b>Comitato Locale AISF di Perugia</b> organizza ogni anno corsi interni di Root e Latex tenuti dagli studenti stessi. I corsi sono rivolti prevalentemente agli iscritti del primo anno accedemico con l'intento di mostrare i principali tools utili per i corsi di Laboratorio.
 <br>
 <em><b>Root</b></em> è un pacchetto software sviluppato dal Cern. Le librerie di Root, inizialmente pensate per la fisica delle particelle ma ormai applicate in ogni ambito della fisica sperimentale, contengono tutti gli strumenti necessari per una completa analisi dati.<br>
 Il corso di Root che il comitato svolge si pone come obiettivo quello di presentare i principali concetti di programmazione utili per usare i tools base di Root. Il corso si articola in circa 4 lezioni e viene svolto nelle aule del dipartimento ed <b>è aperto a chiunque fosse interessato</b>.
