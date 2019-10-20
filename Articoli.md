@@ -15,7 +15,7 @@ permalink: /Articoli/
         </li>
 
         <li>
-          <img src="/perugia/ImmaginiAbstract/TABS.jpg">
+          <img src="/perugia/ImgSlideShow/rivelatori.jpg">
           <div class="caption left-align">
           <a href="/perugia/ABSTRACT/triggerABS"><h4><b><font style="color:rgb(255,25,25);">Leggi</font></b></h4></a>
           <p class="light grey-text text-lighten-3"><h3><b>Rivelatori di Particelle</b></h3></p>
@@ -43,7 +43,7 @@ permalink: /Articoli/
 
 
         <li>
-          <img src="/perugia/ImmaginiAbstract/cernABS.png">
+          <img src="/perugia/ImgSlideShow/cern.jpg">
           <div class="caption left-align">
           <a href="/perugia/ABSTRACT/cernABS"><h3><b>Leggi</b></h3></a>
           <p class="light grey-text text-lighten-3"><h2><b>Cern</b></h2></p>
