@@ -8,6 +8,10 @@ permalink: /ArticoliHTML/reti/
 <center>
  <h2>Il Cervello Umano … Che rete!</h2>
 <h7 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-7"><em> cura di Andrea Lo Sasso, 4 Settembre 2019</em></h7><br>
+<div class="subheading">
+  <a href="mailto:andrea.losasso@ai-sf.it">Andrea Lo Sasso</a>
+  &nbsp; <i class="fa fa-envelope-square fa-2x"></i> &nbsp;
+</div>
 <h4 >Reti cerebrali per prevedere l’invecchiamento del cervello umano.</h4></center>
 <br>
 Che siano reti sociali, economiche o cerebrali ora mai sentiamo sempre più spesso parlare di rete. Internet o Facebook ci danno ogni giorno un’idea di rete, ma oltre il mondo online ci rendiamo sempre più conto che i fenomeni sono perlopiù connessi con innumerevoli altri, come un grande puzzle universale. È in atto una rivoluzione dove scienziati di ogni disciplina scoprono che la natura è una complessità con un'architettura ben precisa. Siamo arrivati a capire l'importanza delle reti. Tuttavia, sono in pochissimi a rendersi conto che, nel suo rapido sviluppo, la scienza delle reti sta scoprendo fenomeni molto più rivelatori ed eccitanti di quanto l'uso casuale della parola rete abbia mai suggerito.<br><br>
