@@ -34,7 +34,7 @@ permalink: /Articoli/
 
 
         <li>
-          <img src="/perugia/ImmaginiAbstract/retiABS.png">
+          <img src="/perugia/ImgSlideShow/reti.jpg">
           <div class="caption left-align">
           <a href="/perugia/ABSTRACT/retiABS"><h4><b>Leggi</b></h4></a>
           <p class="light grey-text text-lighten-3"><h3><b>Reti Neurali</b></h3></p>
@@ -51,7 +51,7 @@ permalink: /Articoli/
         </li>
 
         <li>
-          <img src="/perugia/ImmaginiAbstract/stringheABS.png">
+          <img src="/perugia/ImgSlideShow/stringhe.jpg">
           <div class="caption left-align">
           <a href="/perugia/ABSTRACT/stringheABS"><h4><b>Leggi</b></h4></a>
           <p class="light grey-text text-lighten-3"><h3><b>Teoria delle Stringhe</b></h3></p>
