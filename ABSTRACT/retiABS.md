@@ -13,7 +13,7 @@ permalink: /ABSTRACT/retiABS/
  <figure>
 <center>
     <img src="/perugia/ImmaginiAbstract/retiABS.png" alt="centered image" style="max-width:100%"
-    height="auto" width="400" class="responsive" >
+    height="auto" width="200" class="responsive" >
 </center>
 <center>
 <figcaption>  <b><em>Esempio di imaging fMRI. Qui ogni pallino rappresenta un’area del cervello catturata durante la risonanza. Immagine distribuita sotto licenza CC BY-SA 4.0.</em></b> </figcaption>
