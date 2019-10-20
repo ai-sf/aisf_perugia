@@ -3,7 +3,6 @@ layout: page
 permalink: /Articoli/
 ---
 <!-- slideshow -->
-
 <div class="section">
   <div class="slider" id="foto">
     <ul class="slides">
