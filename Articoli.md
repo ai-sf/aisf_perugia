@@ -21,7 +21,7 @@ permalink: /Articoli/
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
-  background-color: #555;
+  background-color: #F50F28;
   color: white;
   font-size: 16px;
   padding: 12px 24px;
@@ -42,9 +42,8 @@ permalink: /Articoli/
     <ul class="slides">
         <li>
           <img src="/perugia/ImmaginiAbstract/ams02ABS.png">
-          <button class="btn">Button</button>
           <div class="caption left-align">
-          <a href="/perugia/ABSTRACT/amsABS"><h4><b>Leggi2345</b></h4></a>
+          <button class="btn"><a href="/perugia/ABSTRACT/amsABS"><h4><b>Leggi</b></h4></a></button>
           <p class="light grey-text text-lighten-3"><h3><b>Astroparticelle</b></h3></p>
           </div>
         </li>
