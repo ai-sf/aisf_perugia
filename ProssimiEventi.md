@@ -19,12 +19,14 @@ Il 24 Ottobre alle ore 14:00 in aula B del Dipartimento di Fisica di Perugia ver
 <a href="/perugia/CaffèScientifico"> Caffè Scientifico</a> <br>
 <a href="/perugia/QFT"> Quantum Film Theory</a> <br>
 <a href="/perugia/Helios"> Helios</a> <br>
-<a href="/perugia/Corsi"> Corsi Root e Latex</a> <br>
+<a href="/perugia/Corsi"> Corsi Root e Latex</a> <br><br>
+<center>
 Sarà inoltre possibile iscriversi all'associazione.
 <b>Vi aspettiamo! </b>
 
 <br>
 <a href="/perugia/"> Scopri AISF Perugia</a>&nbsp; &nbsp;
-<a href="http://ai-sf.it">Scopri L'Associazione Italiana Studenti di Fisica/a>
+<a href="http://ai-sf.it">Scopri L'Associazione Italiana Studenti di Fisica</a>
+</center>
 
 </section>
