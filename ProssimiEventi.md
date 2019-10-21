@@ -25,7 +25,7 @@ Sarà inoltre possibile iscriversi all'associazione.
 <b>Vi aspettiamo! </b>
 
 <br>
-<a href="/perugia/"> Scopri AISF Perugia</a>&nbsp; &nbsp;
+<a href="/perugia/"> Scopri AISF Perugia</a>&nbsp; &nbsp; &nbsp; &nbsp;
 <a href="http://ai-sf.it">Scopri L'Associazione Italiana Studenti di Fisica</a>
 </center>
 
