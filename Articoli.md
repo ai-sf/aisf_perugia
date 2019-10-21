@@ -3,7 +3,7 @@ layout: page
 permalink: /Articoli/
 ---
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
+<style>
 .container {
   position: relative;
   width: 100%;
@@ -34,7 +34,7 @@ permalink: /Articoli/
 .container .btn:hover {
   background-color: red;
 }
-
+</style>
 <div class="container">
 <div class="section">
   <div class="slider" id="foto">
