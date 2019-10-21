@@ -2,7 +2,8 @@
 layout: page
 permalink: /Articoli/
 ---
-<!-- slideshow -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
 .container {
   position: relative;
   width: 100%;
