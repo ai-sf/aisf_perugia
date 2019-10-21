@@ -8,7 +8,7 @@ permalink: /ProssimiEventi/
 
  <figure>
 <center>
-    <img src="/perugia/img/WELCOMEDAY.png" alt="centered image" style="max-width:40%"
+    <img src="/perugia/img/WELCOMEDAY.png" alt="centered image" style="max-width:70%"
     height="auto" width="auto" class="responsive" >
 </center>
 </figure>
