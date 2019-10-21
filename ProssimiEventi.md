@@ -23,11 +23,11 @@ Il 24 Ottobre alle ore 14:00 in aula B del Dipartimento di Fisica di Perugia ver
 <a href="/perugia/Corsi"> Corsi Root e Latex</a> <br><br>
 <center>
 Sarà inoltre possibile iscriversi all'Associazione.
-<b>Vi aspettiamo! </b>
+<b><br>Vi aspettiamo! </b>
 
 <br>
 <a href="/perugia/"> Scopri AISF Perugia</a>&nbsp; &nbsp; &nbsp; &nbsp;
-<a href="http://ai-sf.it">Scopri L'Associazione Italiana Studenti di Fisica</a>
+<a href="http://ai-sf.it">Scopri AISF</a>
 </center>
 
 </section>
