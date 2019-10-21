@@ -3,11 +3,46 @@ layout: page
 permalink: /Articoli/
 ---
 <!-- slideshow -->
+<style>
+.container {
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+}
+
+.container img {
+  width: 100%;
+  height: auto;
+}
+
+.container .btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.container .btn:hover {
+  background-color: black;
+}
+</style>
+
+<div class="container">
 <div class="section">
   <div class="slider" id="foto">
     <ul class="slides">
         <li>
           <img src="/perugia/ImmaginiAbstract/ams02ABS.png">
+          <button class="btn">Button</button>
           <div class="caption left-align">
           <a href="/perugia/ABSTRACT/amsABS"><h4><b>Leggi</b></h4></a>
           <p class="light grey-text text-lighten-3"><h3><b>Astroparticelle</b></h3></p>
@@ -59,5 +94,6 @@ permalink: /Articoli/
         </li>
 
     </ul>
+  </div>
   </div>
 </div>
