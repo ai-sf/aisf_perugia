@@ -16,7 +16,7 @@ permalink: /ProssimiEventi/
 <section>
 
 <br>
-Il 24 Ottobre alle ore 14:00 in aula B del Dipartimento di Fisica di Perugia verrà organizzato il <b>WELCOME DAY AISF 2019/2020</b>. Il comitato presenterà l'Associazione e tutti gli eventi che organizzati: <br>
+Il 24 Ottobre alle ore 14:00 in aula B del Dipartimento di Fisica di Perugia verrà organizzato il <b>WELCOME DAY AISF 2019/2020</b>. Il comitato presenterà l'Associazione e tutti gli eventi che organizza: <br>
 <a href="/perugia/CaffèScientifico"> Caffè Scientifico</a> <br>
 <a href="/perugia/QFT"> Quantum Film Theory</a> <br>
 <a href="/perugia/Helios"> Helios</a> <br>
