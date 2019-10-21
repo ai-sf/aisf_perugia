@@ -41,9 +41,10 @@ permalink: /Articoli/
     <ul class="slides">
         <li>
           <img src="/perugia/ImmaginiAbstract/ams02ABS.png">
-          <button class="btn"><a href="/perugia/ABSTRACT/amsABS"><h4><b>Leggi</b></h4></a></button>
+          <button class="btn"> button </button>
           <div class="caption left-align">
           <p class="light grey-text text-lighten-3"><h3><b>Astroparticelle</b></h3></p>
+          <a href="/perugia/ABSTRACT/amsABS"><h4><b>Leggi</b></h4></a>
           </div>
 
         </li>
