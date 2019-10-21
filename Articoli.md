@@ -3,7 +3,6 @@ layout: page
 permalink: /Articoli/
 ---
 <!-- slideshow -->
-<style>
 .container {
   position: relative;
   width: 100%;
@@ -32,9 +31,8 @@ permalink: /Articoli/
 }
 
 .container .btn:hover {
-  background-color: black;
+  background-color: red;
 }
-</style>
 
 <div class="container">
 <div class="section">
@@ -43,9 +41,9 @@ permalink: /Articoli/
         <li>
           <img src="/perugia/ImmaginiAbstract/ams02ABS.png">
           <div class="caption left-align">
-          <button class="btn"><a href="/perugia/ABSTRACT/amsABS"><h4><b>Leggi</b></h4></a></button>
           <p class="light grey-text text-lighten-3"><h3><b>Astroparticelle</b></h3></p>
           </div>
+          <button class="btn"><a href="/perugia/ABSTRACT/amsABS"><h4><b>Leggi</b></h4></a></button>
         </li>
 
         <li>
