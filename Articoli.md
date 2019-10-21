@@ -21,7 +21,7 @@ permalink: /Articoli/
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
-  background-color: #F50F28;
+  background-color: #0FF5D9;
   color: white;
   font-size: 16px;
   padding: 6px 20px;
@@ -32,7 +32,7 @@ permalink: /Articoli/
 }
 
 .container .btn:hover {
-  background-color: red;
+  background-color: black;
 }
 </style>
 <div class="container">
