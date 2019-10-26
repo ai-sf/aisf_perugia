@@ -1,3 +1,5 @@
+- text: Home
+  url: http://ai-sf.it/perugia/
 - text: Caffè Scientifico
   url: CaffèScientifico
 - text: Helios
@@ -12,5 +14,3 @@
   url: Corsi
 - text: Next Event
   url: ProssimiEventi
-- text: Home
-  url: http://ai-sf.it/perugia/
