@@ -1,3 +1,22 @@
+nav {
+  color: $navbar-font-color;
+  @extend .z-depth-1;
+  background-color: $primary-color;
+  width: 100%;
+  height: $navbar-height-mobile;
+  line-height: $navbar-height-mobile;
+
+  a { color: $navbar-font-color; }
+
+  .nav-wrapper {
+    position: relative;
+    height: 100%;
+
+    i {
+      display: block;
+      font-size: 2rem;
+    }
+  }
 
   @media #{$large-and-up} {
     a.button-collapse { display: none; }
