@@ -32,9 +32,10 @@ permalink: /Articoli/
 }
 
 .container .btn:hover {
-  background-color: black;
+  background-color: blue;
 }
 </style>
+
 <div class="container">
 <div class="section">
   <div class="slider" id="foto">
