@@ -61,7 +61,7 @@ permalink: /Articoli/
 
 
         <li>
-          <img src="/perugia/ImmaginiAbstract/na62ABS.png">
+          <img src="/perugia/ImgSlideShow/alteenergie.jpg">
             <button class="btn"> <a href="/perugia/ABSTRACT/na62ABS"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
           <div class="caption left-align">
           <p class="light grey-text text-lighten-3"><h3><font style="color:rgb(252, 252, 252);"><b>Fisica delle Alte Energie</b></font></h3></p>
