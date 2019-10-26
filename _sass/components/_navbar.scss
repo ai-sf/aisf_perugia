@@ -48,7 +48,7 @@ nav {
     white-space: nowrap;
 
     &.center {
-      left: 40%;
+      left: 50%;
       @include transform(translateX(-50%));
     }
 
