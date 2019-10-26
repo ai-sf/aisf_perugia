@@ -1,4 +1,4 @@
-- text: Caffè Scientifico
+- text: Caffè
   url: CaffèScientifico
 - text: Helios
   url: Helios
@@ -8,7 +8,7 @@
   url: Articoli
 - text: Download
   url: Download
-- text: Corsi Interni
+- text: Corsi
   url: Corsi
 - text: Next Event
   url: ProssimiEventi
