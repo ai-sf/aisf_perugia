@@ -2,7 +2,7 @@ nav {
   color: $navbar-font-color;
   @extend .z-depth-1;
   background-color: $primary-color;
-  width: 100%;
+  width: 80%;
   height: $navbar-height-mobile;
   line-height: $navbar-height-mobile;
 
@@ -48,12 +48,12 @@ nav {
     white-space: nowrap;
 
     &.center {
-      left: 50%;
+      left: 20%;
       @include transform(translateX(-50%));
     }
 
     @media #{$medium-and-down} {
-      left: 50%;
+      left: 20%;
       @include transform(translateX(-50%));
     }
 
