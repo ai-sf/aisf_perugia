@@ -48,12 +48,12 @@ nav {
     white-space: nowrap;
 
     &.center {
-      left: 20%;
+      left: 30%;
       @include transform(translateX(-50%));
     }
 
     @media #{$medium-and-down} {
-      left: 20%;
+      left: 30%;
       @include transform(translateX(-50%));
     }
 
