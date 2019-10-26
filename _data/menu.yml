@@ -12,7 +12,5 @@
   url: Corsi
 - text: Next Event
   url: ProssimiEventi
-- text: Corsi Interni
+- text: Recensioni
   url: Corsi
-- text: Next Event
-  url: ProssimiEventi
