@@ -21,7 +21,6 @@ L'evento sarà in contemporanea con una serie di iniziative organizzate dall'<b>
 <center>Vi aspettiamo!</center><br>
 
 Scopri tutte le attività del comitato AISF Perugia:
-<a href="/perugia/CaffèScientifico"> Caffè Scientifico</a> <br>
 <a href="/perugia/QFT"> Quantum Film Theory</a> <br>
 <a href="/perugia/Helios"> Helios</a> <br>
 <a href="/perugia/Corsi"> Corsi Root e Latex</a> <br><br>
