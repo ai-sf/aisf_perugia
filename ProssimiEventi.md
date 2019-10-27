@@ -25,9 +25,9 @@ Scopri tutte le attività del comitato AISF Perugia:<br>
 <a href="/perugia/Helios"> Helios</a> <br>
 <a href="/perugia/Corsi"> Corsi Root e Latex</a> <br><br>
 
-<br>
+<center>
 <a href="/perugia/"> Scopri AISF Perugia</a>&nbsp; &nbsp; &nbsp; &nbsp;
 <a href="http://ai-sf.it">Scopri AISF</a>
-
+</center>
 
 </section>
