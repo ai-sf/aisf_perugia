@@ -4,7 +4,7 @@ permalink: /ProssimiEventi/
 ---
 
 <center><h2><b> Prossimi Eventi </b></h2></center>
-<center><h4><b><font style="color:rgb(211, 35, 54);">Associazione Italiana Studenti di Fisica</font></b></h4></center>
+<center><h4><b><font style="color:rgb(211, 35, 54);">Caffè Scientifico</font></b></h4></center>
 
  <figure>
 <center>
