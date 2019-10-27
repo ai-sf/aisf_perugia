@@ -28,6 +28,6 @@ Scopri tutte le attività del comitato AISF Perugia:<br>
 <br>
 <a href="/perugia/"> Scopri AISF Perugia</a>&nbsp; &nbsp; &nbsp; &nbsp;
 <a href="http://ai-sf.it">Scopri AISF</a>
-</center>
+
 
 </section>
