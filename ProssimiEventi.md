@@ -18,7 +18,7 @@ permalink: /ProssimiEventi/
 <br>
 Il 7 Novembre alle ore 16:30 in aula B del Dipartimento di Fisica di Perugia, il comitato locale AISF di Perugia organizzerà il primo <a href="/perugia/CaffèScientifico"> Caffè Scientifico</a> dell'anno accademico 2019/20. <br>Con la partecipazione del Prof.Servoli verranno esplorati alcuni aspetti della Fisica applicati in ambito sanitario con un particolare focus sul ruolo delle Radiazioni Ionizzanti.<br>
 L'evento sarà in contemporanea con una serie di iniziative organizzate dall'<b>International Organization for Medical Physics (IOMP)</b> in occasione dell'<b>International Day of Medical Physics</b> che si svolge  il 7 Novembre di ogni anno in occasione dell'anniversario della nascita della fisica e chimica polacca Maria Salomea Skłodowska, meglio nota come Marie Curie. <br><br>
-<center><bVi aspettiamo!</b></center><br>
+<center><b>Vi aspettiamo!</b></center><br>
 
 Scopri tutte le attività del comitato AISF Perugia:<br>
 <a href="/perugia/QFT"> Quantum Film Theory</a> <br>
