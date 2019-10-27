@@ -16,6 +16,10 @@ permalink: /ProssimiEventi/
 <section>
 
 <br>
+Il 7 Novembre alle ore 16:30 in aula B del Dipartimento di Fisica di Perugia, il comitato locale AISF di Perugia organizzerà il primo <a href="/perugia/CaffèScientifico"> Caffè Scientifico</a> dell'anno accademico 2019/20. <br> Il tema sarà Fisica e Medicina con un focus particolare sulle Radiazioni Ionizzanti e delle varie applicazioni in ambito sanitario. Con la partecipazione del Prof.Servoli verranno esplorati   
+
+
+
 Il 24 Ottobre alle ore 14:00 in aula B del Dipartimento di Fisica di Perugia verrà organizzato il <b>WELCOME DAY AISF 2019/2020</b>. Il comitato presenterà l'Associazione e tutti gli eventi che organizza: <br>
 <a href="/perugia/CaffèScientifico"> Caffè Scientifico</a> <br>
 <a href="/perugia/QFT"> Quantum Film Theory</a> <br>
