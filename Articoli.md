@@ -24,7 +24,7 @@ permalink: /Articoli/
   background-color: #0FF5D9;
   color: white;
   font-size: 10px;
-  padding: 1px 9px;
+  padding: 1px 15px;
   border: none;
   cursor: pointer;
   border-radius: 3px;
