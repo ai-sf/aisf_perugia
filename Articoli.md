@@ -23,8 +23,8 @@ permalink: /Articoli/
   -ms-transform: translate(-50%, -50%);
   background-color: #0FF5D9;
   color: white;
-  font-size: 15px;
-  padding: 2px 15px;
+  font-size: 16px;
+  padding: 2px 12px;
   border: none;
   cursor: pointer;
   border-radius: 6px;
