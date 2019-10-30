@@ -27,7 +27,7 @@ permalink: /Articoli/
   padding: 2px 12px;
   border: none;
   cursor: pointer;
-  border-radius: 5px;
+  border-radius: 3px;
   text-align: center;
 }
 
