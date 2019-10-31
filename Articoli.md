@@ -82,7 +82,7 @@ permalink: /Articoli/
           <img src="/perugia/ImgSlideShow/cern.jpg">
           <button class="btn"> <a href="/perugia/ABSTRACT/cernABS"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
           <div class="caption left-align">
-          <p class="light grey-text text-lighten-3"><h2><b>Cern</b></h2></p>
+          <p class="light grey-text text-lighten-3"><h2><b>CERN</b></h2></p>
           </div>
         </li>
 
