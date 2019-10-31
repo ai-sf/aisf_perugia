@@ -12,7 +12,7 @@ permalink: /ABSTRACT/cernABS/
  <figure>
 <center>
     <img src="/perugia/cern/cms.jpg" alt="centered image" style="max-width:100%"
-    height="auto" width="500" class="responsive" >
+    height="auto" width="300" class="responsive" >
 </center>
 </figure>
 
