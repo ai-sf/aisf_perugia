@@ -42,7 +42,7 @@ permalink: /Articoli/
     <ul class="slides">
         <li>
           <img src="/perugia/ImmaginiAbstract/ams02ABS.png">
-          <button class="btn"> <a href="/perugia/ABSTRACT/amsABS"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
+          <button class="btn"> <a href="/perugia/ABSTRACT/amsABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
           <div class="caption left-align">
           <p class="light grey-text text-lighten-3"><h3><b>Astroparticelle</b></h3></p>
           </div>
@@ -51,7 +51,7 @@ permalink: /Articoli/
 
         <li>
           <img src="/perugia/ImgSlideShow/rivelatori.jpg">
-            <button class="btn"> <a href="/perugia/ABSTRACT/triggerABS"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
+            <button class="btn"> <a href="/perugia/ABSTRACT/triggerABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
           <div class="caption left-align">
 
           <p class="light grey-text text-lighten-3"><h3><b>Rivelatori di Particelle</b></h3></p>
@@ -62,7 +62,7 @@ permalink: /Articoli/
 
         <li>
           <img src="/perugia/ImgSlideShow/alteenergie.jpg">
-            <button class="btn"> <a href="/perugia/ABSTRACT/na62ABS"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
+            <button class="btn"> <a href="/perugia/ABSTRACT/na62ABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
           <div class="caption left-align">
           <p class="light grey-text text-lighten-3"><h3><font style="color:rgb(252, 252, 252);"><b>Fisica delle Alte Energie</b></font></h3></p>
           </div>
@@ -71,7 +71,7 @@ permalink: /Articoli/
 
         <li>
           <img src="/perugia/ImgSlideShow/reti.jpg">
-            <button class="btn"> <a href="/perugia/ABSTRACT/retiABS"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
+            <button class="btn"> <a href="/perugia/ABSTRACT/retiABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
           <div class="caption left-align">
           <p class="light grey-text text-lighten-3"><h3><b>Reti Neurali</b></h3></p>
           </div>
@@ -80,7 +80,7 @@ permalink: /Articoli/
 
         <li>
           <img src="/perugia/ImgSlideShow/cern.jpg">
-          <button class="btn"> <a href="/perugia/ABSTRACT/cernABS"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
+          <button class="btn"> <a href="/perugia/ABSTRACT/cernABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
           <div class="caption left-align">
           <p class="light grey-text text-lighten-3"><h2><b>CERN</b></h2></p>
           </div>
@@ -88,7 +88,7 @@ permalink: /Articoli/
 
         <li>
           <img src="/perugia/ImgSlideShow/stringhe.jpg">
-            <button class="btn"> <a href="/perugia/ABSTRACT/stringheABS"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
+            <button class="btn"> <a href="/perugia/ABSTRACT/stringheABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
           <div class="caption left-align">
           <p class="light grey-text text-lighten-3"><h3><b>Teoria delle Stringhe</b></h3></p>
           </div>
