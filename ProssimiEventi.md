@@ -3,7 +3,7 @@ layout: page
 permalink: /ProssimiEventi/
 long_title: Caffè Scientifico -Fisica e Medicina-
 img: Next
-description: Il 7 Novembre alle ore 16:30 in aula B del Dipartimento di Fisica di Perugia, il comitato locale AISF di Perugia organizzerà il primo Caffè Scientifico dell'anno accademico 2019/20.Con la partecipazione del Prof.Servoli verranno esplorati alcuni aspetti della Fisica applicati in ambito sanitario con un particolare focus sul ruolo delle Radiazioni Ionizzanti.
+description: Il 7 Novembre alle ore 16 30 in aula B del Dipartimento di Fisica di Perugia, il comitato locale AISF di Perugia organizzerà il primo Caffè Scientifico dell'anno accademico 2019/20.Con la partecipazione del Prof.Servoli verranno esplorati alcuni aspetti della Fisica applicati in ambito sanitario con un particolare focus sul ruolo delle Radiazioni Ionizzanti.
 ---
 
 <center><h2><b> Prossimi Eventi </b></h2></center>
