@@ -7,7 +7,7 @@
 <!-- Standard html meta tags -->
     <meta name="description" content="{% for entry in site.data.meta %}{% if page.url == entry.id %}{% assign trovato = true %}{{ entry.description }}{% endif %}{% endfor %}{% if trovato != true %}{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ page.content | strip_html | strip_newlines | truncate:160 }}{% endif %}{% endif %}" />
     <meta name="keywords" content="{% for entry in site.data.meta %}{% if page.url == entry.id %}{% assign trovato = true %}{{ entry.keywords }}{% endif %}{% endfor %}{% if trovato != true %}aisf associazione italiana studenti di fisica iaps{% if page.tags %} {{ page.tags }}{% endif %}{% endif %}" />
-    <meta property="og:image" content="{% for entry in site.data.meta %}{% if page.url == entry.id %}{{ site.url }}/{{ entry.img }}{% endif %}{% endfor %}">
+    
 <!-- og -->
 
   {% include opengraph.html %}
