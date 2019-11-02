@@ -6,7 +6,7 @@ img: HeliosI
 description: Il Periodico Helios realizzato dal comitato locale AISF di Perugia
 ---
 
-<center><h2><b>Il Periodico Helios </b></h2></center>
+<center><h2><b>Il Periodico6 Helios </b></h2></center>
 
  <figure>
 <center>
