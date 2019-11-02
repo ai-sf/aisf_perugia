@@ -7,7 +7,7 @@ description: Il Cineforum organizzato dal Comitato Locale AISF di Perugia
 ---
 <center>
 <h2><b>QFT</b></h2>
-<h3> <em> Learning by watching </em></h3>
+<h3> <em> Learning66s by watching </em></h3>
 <br>
 <div class="w3-content w3-section" style="max-width:500px">
   <img class="mySlides" src="/perugia/Slideshow/qft1.png" style="width:60%">
