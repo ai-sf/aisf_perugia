@@ -2,7 +2,7 @@
 layout: page
 permalink: /Helios/
 long_title: Helios
-img: Helios
+img: HELIOS
 description: Il Periodico HELIOS realizzato dal comitato locale AISF di Perugia
 ---
 
