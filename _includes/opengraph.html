@@ -2,7 +2,7 @@
 <meta property="og:url"   content="{% if page.url %}{{ page.url }}{% else %}{{ site.url }}{% endif %}" />
 <meta property="og:type" content="{% if page.thumbnail %}article{% else %}website{% endif %}" />
 <meta property="og:image" content="{{ page.thumbnail | prepend:'/img/' | prepend: site.baseurl | prepend: site.url }}" />
-<meta property="og:description" content="{% for entry in site.data.meta %}{% if page.url == entry.id %}{% assign trovato = true %}{{ entry.description }}{% endif %}{% endfor %}{% if trovato != true %}{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ page.content | strip_html | strip_newlines | truncate:160 }}{% endif %}{% endif %}" />
+<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
 <meta property="og:site_name" content="{{ site.title }}"/>
 
 <meta property="fb:admins" content="{{ site.fb_admins }}"> <!-- editable in config.yml -->
