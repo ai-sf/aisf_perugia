@@ -2,6 +2,7 @@
 layout: page
 permalink: /Corsi/
 long_title: Corsi
+img: Corsi
 description: Corsi Interni su Root e Latex svolti nelle aule universitarie
 ---
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
