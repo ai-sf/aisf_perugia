@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /QFT/
-title: QFT
 long_title: QFT Quantum Film Theory
+img: QFT
 description: Il Cineforum organizzato dal Comitato Locale AISF di Perugia
 ---
 <center>
