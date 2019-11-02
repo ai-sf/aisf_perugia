@@ -4,6 +4,7 @@
 url: "http://ai-sf.it/perugia/" # the base hostname & protocol for your site
 locale: "it"
 mail: perugia@ai-sf.it
+title: AISF PERUGIA LC
 
 # Build settings
 markdown: kramdown
