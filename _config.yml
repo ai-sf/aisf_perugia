@@ -5,7 +5,7 @@ url: "http://ai-sf.it/perugia/" # the base hostname & protocol for your site
 locale: "it"
 mail: perugia@ai-sf.it
 title: AISF PERUGIA
-description: Official Page of AISF Perugia Local Commetee
+description: Pagina del Comitato Locale AISF di Perugia
 
 # Build settings
 markdown: kramdown
