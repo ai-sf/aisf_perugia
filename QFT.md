@@ -1,8 +1,9 @@
 ---
 layout: page
 permalink: /QFT/
-description: Il cineforum di AISF Perugia
+description: Il cineforum di AISF Perugia 2019/2020
 title: QFT
+
 ---
 <center>
 <h2><b>QFT</b></h2>
