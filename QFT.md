@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /QFT/
+title: QFT 
 ---
 <center>
 <h2><b>QFT</b></h2>
