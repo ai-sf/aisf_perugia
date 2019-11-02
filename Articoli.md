@@ -2,7 +2,7 @@
 layout: page
 permalink: /Articoli/
 long_title: Gli Articoli di Helios
-img: ArtH
+img: Art
 description: Leggi e Scarica gli articoli delle prime due edizioni di Helios
 ---
 <meta name="viewport" content="width=device-width, initial-scale=1">
