@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /QFT/
+description: Il cineforum di AISF Perugia
 title: QFT
 ---
 <center>
