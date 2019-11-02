@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /QFT/
-url: http://ai-sf.it/perugia/QFT
 title: QFT
 ---
 <center>
