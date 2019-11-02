@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /Corsi/
+long_title: Corsi
 ---
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <center>

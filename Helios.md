@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /Helios/
+long_title: Helios
 ---
 
 <center><h2><b>Il Periodico Helios </b></h2></center>
