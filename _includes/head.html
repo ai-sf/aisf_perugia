@@ -9,12 +9,23 @@
     <meta name="keywords" content="{% for entry in site.data.meta %}{% if page.url == entry.id %}{% assign trovato = true %}{{ entry.keywords }}{% endif %}{% endfor %}{% if trovato != true %}aisf associazione italiana studenti di fisica iaps{% if page.tags %} {{ page.tags }}{% endif %}{% endif %}" />
     <meta property="og:image" content="{% for entry in site.data.meta %}{% if page.url == entry.id %}{{ site.url }}/{{ entry.img }}{% endif %}{% endfor %}">
 <!-- og -->
-  
+
     <meta property="og:url"                content="http://ai-sf.it/perugia/" />
     <meta property="og:type"               content="website" />
     <meta property="og:title"              content="AISF PERUGIA" />
     <meta property="og:description"        content="Pagina del comitato locale AISF di Perugia" />
     <meta property="og:image"              content="http://ai-sf.it/perugia/img/fb.png" />
+
+
+    <meta property="og:url"                content="http://ai-sf.it/perugia/QFT" />
+    <meta property="og:type"               content="website" />
+    <meta property="og:title"              content="QFT " />
+    <meta property="og:description"        content="Il cineforum del comitato locale AISF di Perugia" />
+    <meta property="og:image"              content="http://ai-sf.it/perugia/imageHelios/helios1loc.png" />
+    <meta property="og:image:width"        content="100" />
+    <meta property="og:image:height"       content="100" />
+
+
 <!-- CSS  -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet prefetch" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
