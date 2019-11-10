@@ -31,8 +31,7 @@ Aggiornamenti Caffè Scientifico/Proposte QFT  <br>
 Referente per Summer School <br>
 Aggiornameti Collaborazione con Dr.Silvani per eventi "Magica Quantistica" <br>
 Corsi Root e Latex
-
-
+<br><br><br>
 Scopri tutte le attività del comitato AISF Perugia:<br>
 <a href="/perugia/QFT"> Quantum Film Theory</a> <br>
 <a href="/perugia/Helios"> Helios</a> <br>
