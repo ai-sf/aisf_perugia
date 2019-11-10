@@ -11,7 +11,7 @@ description: Con la partecipazione del Prof.Servoli verranno esplorati alcuni as
 
  <figure>
 <center>
-    <img src="/perugia/img/medicina.png" alt="centered image" style="max-width:70%"
+    <img src="/perugia/img/assemblea.png" alt="centered image" style="max-width:70%"
     height="auto" width="auto" class="responsive" >
 </center>
 </figure>
