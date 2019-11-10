@@ -11,7 +11,7 @@ description: Assemblea generale 14 Novembre 2019
 
  <figure>
 <center>
-    <img src="/perugia/img/assemblea.png" alt="centered image" style="max-width:70%"
+    <img src="/perugia/img/assemblea.png" alt="centered image" style="max-width:50%"
     height="auto" width="auto" class="responsive" >
 </center>
 </figure>
