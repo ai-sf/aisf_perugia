@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /ProssimiEventi/
-long_title: Assemblea Mensile 
-img: prossimi
+long_title: Assemblea Mensile
+img: prossimo
 description: Assemblea generale 14 Novembre
 ---
 
