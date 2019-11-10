@@ -19,15 +19,15 @@ description: Con la partecipazione del Prof.Servoli verranno esplorati alcuni as
 <section>
 
 <br>
-Il 14 Novembre alle ore 14:15 in aula B del Dipartimento di Fisica di Perugia verrà svolta l'assemblea mensile del comitato locale AISF di Perugia.\\
+Il 14 Novembre alle ore 14:15 in aula B del Dipartimento di Fisica di Perugia verrà svolta l'assemblea mensile del comitato locale AISF di Perugia.<br>
 Questi i punti che verranno discussi: <br>
-Resoconto Presentazione AISF per Matricole 2019/20 \\
-Inserimento nuovi iscritti in gruppi specifici \\
-Gruppo per Gestione Sito Web \\
-Evento AISF Elfo Pub \\
-Aggiornamenti Helios \\
-Aggiornamenti GIPE 2019 \\
-Aggiornamenti Caffè Scientifico/Proposte QFT  \\
+Resoconto Presentazione AISF per Matricole 2019/20 <br>
+Inserimento nuovi iscritti in gruppi specifici <br>
+Gruppo per Gestione Sito Web <br>
+Evento AISF Elfo Pub <br>
+Aggiornamenti Helios <br>
+Aggiornamenti GIPE 2019 <br>
+Aggiornamenti Caffè Scientifico/Proposte QFT  <br>
 Referente per Summer School <br>
 Aggiornameti Collaborazione con Dr.Silvani per eventi "Magica Quantistica" <br>
 Corsi Root e Latex
