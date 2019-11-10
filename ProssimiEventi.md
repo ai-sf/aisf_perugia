@@ -3,7 +3,7 @@ layout: page
 permalink: /ProssimiEventi/
 long_title: Assemblea Mensile AISF Perugia
 img: prossimo
-description: Assemblea generale 14 Novembre 2019
+description: Assemblea generale del 14 Novembre 2019
 ---
 
 <center><h2><b> Prossimi Eventi </b></h2></center>
