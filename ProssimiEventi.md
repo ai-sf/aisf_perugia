@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /ProssimiEventi/
-long_title: Caffè Scientifico -Fisica e Medicina-
+long_title: Assemblea Mensile 
 img: prossimi
 description: Assemblea generale 14 Novembre
 ---
