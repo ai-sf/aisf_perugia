@@ -3,7 +3,7 @@ layout: page
 permalink: /ProssimiEventi/
 long_title: Caffè Scientifico -Fisica e Medicina-
 img: Prossimi
-description: Con la partecipazione del Prof.Servoli verranno esplorati alcuni aspetti della Fisica applicati in ambito sanitario con un particolare focus sul ruolo delle Radiazioni Ionizzanti.
+description: Assemblea generale 14 Novembre 
 ---
 
 <center><h2><b> Prossimi Eventi </b></h2></center>
