@@ -20,7 +20,7 @@ description: Con la partecipazione del Prof.Servoli verranno esplorati alcuni as
 
 <br>
 Il 14 Novembre alle ore 14:15 in aula B del Dipartimento di Fisica di Perugia verrà svolta l'assemblea mensile del comitato locale AISF di Perugia.\\
-Questi i punti che verranno discussi:
+Questi i punti che verranno discussi: <br>
 Resoconto Presentazione AISF per Matricole 2019/20 \\
 Inserimento nuovi iscritti in gruppi specifici \\
 Gruppo per Gestione Sito Web \\
