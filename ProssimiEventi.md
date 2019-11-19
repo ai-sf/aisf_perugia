@@ -2,7 +2,7 @@
 layout: page
 permalink: /ProssimiEventi/
 long_title: Caffè Scientifico
-img: prossimo
+img: next
 description: "Nano-Sequenze di DNA come target anti-tumorali"
 ---
 
