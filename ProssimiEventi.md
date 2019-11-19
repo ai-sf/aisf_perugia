@@ -20,7 +20,7 @@ description: "Nano-Sequenze di DNA come target anti-tumorali"
 
 <br>
 Il 27 Novembre alle ore 16:30 in aula A del Dipartimento di Fisica di Perugia torna il Caffè Scientifico con un particolare focus sul legame tra Fisica e Biologia.<br>
-Il <b>Professor Paciaroni</b> e la <b>Dottoressa Come</b> ci mostreranno come gli approcci sperimentali avanzati della biofisica consentono di ottenere informazioni essenziali per la modellizzazione e la comprensione di sequenze non canoniche di DNA, che sono a loro volta emerse in modo rilevante negli ultimi anni a causa delle possibili applicazioni nei campi bio- e nano-tecnologici.
+Il <b>Professor Paciaroni</b> e la <b>Dottoressa Come</b> ci mostreranno come gli approcci sperimentali avanzati della biofisica consentono di ottenere informazioni essenziali per la modellizzazione e la comprensione di sequenze non canoniche di DNA, che sono a loro volta emerse in modo rilevante negli ultimi anni a causa delle possibili applicazioni nei campi bio- e nano-tecnologici.<br><br>
 
 Scopri tutte le attività del comitato AISF Perugia:<br>
 <a href="/perugia/QFT"> Quantum Film Theory</a> <br>
