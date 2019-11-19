@@ -1,17 +1,17 @@
 ---
 layout: page
 permalink: /ProssimiEventi/
-long_title: Assemblea Mensile AISF Perugia
+long_title: Caffè Scientifico
 img: prossimo
-description: Assemblea generale 14 Novembre 2019 in cui verranno programmate le prossime attività
+description: "Nano-Sequenze di DNA come target anti-tumorali"
 ---
 
 <center><h2><b> Prossimi Eventi </b></h2></center>
-<center><h4><b><font style="color:rgb(211, 35, 54);">Assemblea Generale</font></b></h4></center>
+<center><h4><b><font style="color:rgb(211, 35, 54);">Al confine tra Fisica e Biologia: Nano-Sequenze di DNA come target anti-tumorali </font></b></h4></center>
 
  <figure>
 <center>
-    <img src="/perugia/img/assemblea.png" alt="centered image" style="max-width:50%"
+    <img src="/perugia/img/FINALE.png" alt="centered image" style="max-width:50%"
     height="auto" width="auto" class="responsive" >
 </center>
 </figure>
@@ -19,7 +19,9 @@ description: Assemblea generale 14 Novembre 2019 in cui verranno programmate le 
 <section>
 
 <br>
-Il 14 Novembre alle ore 14:15 in aula B del Dipartimento di Fisica di Perugia verrà svolta l'assemblea mensile del comitato locale AISF di Perugia.<br>
+Il 27 Novembre alle ore 16:30 in aula A del Dipartimento di Fisica di Perugia torna il Caffè Scientifico con un particolare focus sul legame tra Fisica e Biologia.<br>
+Il <b>Professor Paciaroni</b> e la <b>Dottoressa Come</b> ci mostreranno come gli approcci sperimentali avanzati della biofisica consentono di ottenere informazioni essenziali per la modellizzazione e la comprensione di sequenze non canoniche di DNA, che sono a loro volta emerse in modo rilevante negli ultimi anni a causa delle possibili applicazioni nei campi bio- e nano-tecnologici.
+
 Questi i punti che verranno discussi: <br>
 <b>Resoconto Presentazione AISF per Matricole 2019/20 </b><br>
 <b>Inserimento nuovi iscritti in gruppi specifici </b><br>
