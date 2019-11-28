@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /Review/
-long_title: Review Eventi
+long_title: Caffè Scientifico: Fisica e Biologia
 img: rev
-description: Review degli eventi organzzati dal comitato AISF di Perugia
+description: Review del Caffè Scientifico del 27 Novembre 2019
 ---
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <center>
