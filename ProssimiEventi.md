@@ -3,7 +3,7 @@ layout: page
 permalink: /ProssimiEventi/
 long_title: Quantum Film Theory
 img: nex
-description: Proiezione del film su Ettore Majorana -Nessuno mi troverà-
+description: Proiezione del film su Ettore Majorana Nessuno mi troverà
 ---
 
 <center><h2><b> Quantum Film Theory </b></h2></center>
