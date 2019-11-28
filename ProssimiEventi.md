@@ -18,9 +18,6 @@ description: Un film sulla vita e la scomparsa di Ettore Majorana
 
 <section>
 
-<br>
-Il 27 Novembre alle ore 16:30 in aula A del Dipartimento di Fisica di Perugia torna il Caffè Scientifico con un particolare focus sul legame tra Fisica e Biologia.<br>
-Il <b>Professor Paciaroni</b> e la <b>Dottoressa Comez</b> ci mostreranno come gli approcci sperimentali avanzati della biofisica consentono di ottenere informazioni essenziali per la modellizzazione e la comprensione di sequenze non canoniche di DNA, che sono a loro volta emerse in modo rilevante negli ultimi anni a causa delle possibili applicazioni nei campi bio- e nano-tecnologici.<br><br>
 
 <b>Scopri tutte le attività del comitato AISF Perugia</b>:<br>
 <a href="/perugia/QFT"> Quantum Film Theory</a> <br>
