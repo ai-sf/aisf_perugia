@@ -31,9 +31,9 @@ Il ruolo del fisico è verificare la stabilità della struttura che si crea quan
 <br><br>
 Alcune delle tecniche sperimentali sono: radiazione a dicroismo circolare ultravioletta, scattering da neutroni e scattering da raggi x a basso angolo.
 <br>
-La <b>Fisica</b>si dimostra dunque fondamentale per la comprensione del meccanismo che porta alla proliferazione delle cellule tumorali ed estremamente indispensabile per la ricerca di una cura di qualità migliore per i pazienti oncologici, sia in termini di efficacia che in termini di invasività dei trattamenti.
+La <b>Fisica</b> si dimostra dunque fondamentale per la comprensione del meccanismo che porta alla proliferazione delle cellule tumorali ed estremamente indispensabile per la ricerca di una cura di qualità migliore per i pazienti oncologici, sia in termini di efficacia che in termini di invasività dei trattamenti.
 <br>
-<b>Per ulteriori dettagli sui temi trattati al seminario è disponibile la presentazione usata durante il talk.</b> 
+<b>Per ulteriori dettagli sui temi trattati al seminario è disponibile la presentazione usata durante il talk.</b>
 
 
 <center><b>Scarica le slide della presentazione</b><br>
