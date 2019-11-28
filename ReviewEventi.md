@@ -25,9 +25,9 @@ description: Review del Caffè Scientifico del 27 Novembre 2019
 I caffè scientifici sono degli incontri interessanti e coinvolgenti di divulgazione scientifica.
 Si tratta di discussioni tra persone interessate, di qualsiasi età, e alcuni esperti in un ambito della ricerca scientifica. Particelle, meteorologia, nuove frontiere della medicina...i
 
-
+Scarica le slide della presentazione<br>
 <center><span class="col-md-3 home-quick-links__link">
-  <a href="/perugia/Review">
+<a href="/perugia/SLIDE/Caffè27Novembre.pptx">
     <span class="fa-stack fa-2x">
       <i class="fa fa-circle fa-stack-2x text-primary" style="color:rgb(0, 22, 120)"></i>
       <i class="fa fa-file-text fa-stack-1x fa-inverse"></i>
@@ -35,8 +35,6 @@ Si tratta di discussioni tra persone interessate, di qualsiasi età, e alcuni es
   </a>
 </span></center>
 
-Rivedi le slide della presentazione<br>
-<a href="/perugia/SLIDE/Caffè27Novembre.pptx"> <b>Scarica</b> </a>
 
 
 <b>Seguite le nostre pagine social per scoprire i prossimi appuntamenti.
