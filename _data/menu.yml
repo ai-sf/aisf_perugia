@@ -14,3 +14,5 @@
   url: Corsi
 - text: Next Event
   url: ProssimiEventi
+- text: Review Eventi
+  url: Review
