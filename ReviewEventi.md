@@ -24,9 +24,9 @@ description: Review del Caffè Scientifico del 27 Novembre 2019
 Nonostante la ricerca abbia fatto passi avanti, ancora oggi il tumore è una delle cause principali di morte nei paese sviluppati e ancora oggi non esista una cura davvero definitiva. <br>Nella ricerca di quest'ultima è necessario, tra gli altri, il contributo del fisico. Nel particolare il gruppo di ricerca del prof. Paciaroni e della Dottoressa Comez sta studiando l'applicazione di nano-sequenze di DNA (<b>G-Quadruplex</b>) come possibili target anti-tumorali.
 <br><br>
 
-Le cellule tumorali sono ricche di Telomerasi, un enzima che ricostruisce i telomeri (le sequenze terminali del cromosoma che si accorciano ad ogni duplicazione in modo da limitare la vita della cellula) rendendo le cellule cancerogene estremamente proliferanti.
+Le cellule tumorali sono ricche di <b>Telomerasi</b>, un enzima che ricostruisce i telomeri (le sequenze terminali del cromosoma che si accorciano ad ogni duplicazione in modo da limitare la vita della cellula) rendendo le cellule cancerogene estremamente proliferanti.
 <br><br>
-Il G-Quadruplex è una struttura presente nel DNA che se si lega al telomero, inibisce l’azione della polimerasi e quindi blocca la proliferazione; tuttavia il legame con il telomero è particolarmente instabile. Per questo si cercano farmaci che possano legarsi a G-Quadruplex per stabilizzarlo garantendo l'azione inibitrice della telomerasi.<br>
+Il <b>G-Quadruplex</b> è una struttura presente nel DNA che se si lega al telomero, inibisce l’azione della polimerasi e quindi blocca la proliferazione; tuttavia il legame con il telomero è particolarmente instabile. Per questo si cercano farmaci che possano legarsi a G-Quadruplex per stabilizzarlo garantendo l'azione inibitrice della telomerasi.<br>
 Il ruolo del fisico è verificare la stabilità della struttura che si crea quando il farmaco agisce su G-Quadruplex usando tecniche sperimentali proprie della fisica nella speranza di individuare un farmaco specifico che si leghi solamente a G-Quadruplex e non al resto del DNA.
 <br><br>
 Alcune delle tecniche sperimentali sono: radiazione a dicroismo circolare ultravioletta, scattering da neutroni e scattering da raggi x a basso angolo.
