@@ -15,7 +15,7 @@ description: Review del Caffè Scientifico del 27 Novembre 2019
 
 <figure>
 <center>
-   <img src="/perugia/img/review.png" alt="centered image" style="max-width:85%"
+   <img src="/perugia/img/rev.png" alt="centered image" style="max-width:85%"
    height="auto" width="auto" class="responsive" >
 </center>
 </figure>
