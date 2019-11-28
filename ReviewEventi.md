@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Review/
-long_title: Caffè Scientifico:
+long_title: Caffè Scientifico
 img: rev
 description: Review del Caffè Scientifico del 27 Novembre 2019
 ---
