@@ -29,7 +29,7 @@ Le cellule tumorali sono ricche di <b>Telomerasi</b>, un enzima che ricostruisce
 Il <b>G-Quadruplex</b> è una struttura presente nel DNA che se si lega al telomero, inibisce l’azione della polimerasi e quindi blocca la proliferazione; tuttavia il legame con il telomero è particolarmente instabile. Per questo si cercano farmaci che possano legarsi a G-Quadruplex per stabilizzarlo garantendo l'azione inibitrice della telomerasi.<br>
 Il ruolo del fisico è verificare la stabilità della struttura che si crea quando il farmaco agisce su G-Quadruplex usando tecniche sperimentali proprie della fisica nella speranza di individuare un farmaco specifico che si leghi solamente a G-Quadruplex e non al resto del DNA.
 <br><br>
-Alcune delle tecniche sperimentali sono: <b>spettroscopia in dicroismo circolare UV, scattering da neutroni, scattering da raggi x a basso angolo e spettroscopia Raman.</b>
+Alcune delle tecniche sperimentali sono: <b>Spettroscopia in Dicroismo Circolare UV, Scattering da neutroni, Scattering da raggi x a basso angolo e Spettroscopia Raman.</b>
 <br>
 La <b>Fisica</b> si dimostra dunque fondamentale per la comprensione del meccanismo che porta alla proliferazione delle cellule tumorali ed estremamente indispensabile per la ricerca di una cura di qualità migliore per i pazienti oncologici, sia in termini di efficacia che in termini di invasività dei trattamenti.
 <br>
