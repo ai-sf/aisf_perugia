@@ -21,7 +21,7 @@ description: Review del Caffè Scientifico del 27 Novembre 2019
 </figure>
 <br><br>
 
-Nonostante la ricerca abbia fatto passi avanti, ancora oggi il tumore è una delle cause principali di morte nei paese sviluppati e ancora oggi non esista una cura davvero definitiva. <br>Nella ricerca di quest'ultima è necessario, tra gli altri, il contributo del fisico. Nel particolare il gruppo di ricerca del prof. Paciaroni e della Dottoressa Comez sta studiando l'applicazione di nano-sequenze di DNA (G-Quadruplex) come possibili target anti-tumorali.
+Nonostante la ricerca abbia fatto passi avanti, ancora oggi il tumore è una delle cause principali di morte nei paese sviluppati e ancora oggi non esista una cura davvero definitiva. <br>Nella ricerca di quest'ultima è necessario, tra gli altri, il contributo del fisico. Nel particolare il gruppo di ricerca del prof. Paciaroni e della Dottoressa Comez sta studiando l'applicazione di nano-sequenze di DNA (<b>G-Quadruplex</b>) come possibili target anti-tumorali.
 <br><br>
 
 Le cellule tumorali sono ricche di Telomerasi, un enzima che ricostruisce i telomeri (le sequenze terminali del cromosoma che si accorciano ad ogni duplicazione in modo da limitare la vita della cellula) rendendo le cellule cancerogene estremamente proliferanti.
