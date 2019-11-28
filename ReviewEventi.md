@@ -39,7 +39,7 @@ La <b>Fisica</b> si dimostra dunque fondamentale per la comprensione del meccani
 
 
 
-<center><b><font style="color:rgb(211, 35, 54);">Scarica le slide della presentazione</font></b><br>
+<center><b><font style="color:rgb(211, 5, 54);">Scarica le slide della presentazione</font></b><br>
 <center><span class="col-md-3 home-quick-links__link">
 <a href="/perugia/SLIDE/Caffè27Novembre.pptx">
     <span class="fa-stack fa-2x">
