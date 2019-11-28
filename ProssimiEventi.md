@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /ProssimiEventi/
-long_title: Quantum Film Theory: Nessuno mi troverà
+long_title: Quantum Film Theory
 img: next
 description: "Nano-Sequenze di DNA come target anti-tumorali"
 ---
 
-<center><h2><b> Prossimi Eventi </b></h2></center>
-<center><h4><b><font style="color:rgb(211, 35, 54);">Al confine tra Fisica e Biologia:<br> Nano-Sequenze di DNA come target anti-tumorali </font></b></h4></center>
+<center><h2><b> Quantum Film Theory </b></h2></center>
+<center><h4><b><font style="color:rgb(211, 35, 54);">Proiezione del Film: Nessuno mi troverà  </font></b></h4></center>
 
  <figure>
 <center>
