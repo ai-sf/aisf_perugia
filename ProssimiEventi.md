@@ -11,7 +11,7 @@ description: "Nano-Sequenze di DNA come target anti-tumorali"
 
  <figure>
 <center>
-    <img src="/perugia/img/review.png" alt="centered image" style="max-width:85%"
+    <img src="/perugia/img/majo.png" alt="centered image" style="max-width:85%"
     height="auto" width="auto" class="responsive" >
 </center>
 </figure>
