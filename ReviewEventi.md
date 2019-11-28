@@ -36,7 +36,7 @@ Si tratta di discussioni tra persone interessate, di qualsiasi età, e alcuni es
 </span></center>
 
 Rivedi le slide della presentazione<br>
-<a href="/perugia/imageHelios/Helios2.pdf"> <b>Scarica</b> </a>
+<a href="/perugia/SLIDE/Caffè27Novembre.pptx"> <b>Scarica</b> </a>
 
 
 <b>Seguite le nostre pagine social per scoprire i prossimi appuntamenti.
