@@ -35,6 +35,9 @@ Si tratta di discussioni tra persone interessate, di qualsiasi età, e alcuni es
   </a>
 </span></center>
 
+Sccarica le slide della presentazione
+<a href="/perugia/imageHelios/Helios2.pdf"> <b>Scarica</b> </a>
+
 
 <b>Seguite le nostre pagine social per scoprire i prossimi appuntamenti.
 Vi aspettiamo!</b><br><br>
