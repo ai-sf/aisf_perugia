@@ -2,7 +2,7 @@
 layout: page
 permalink: /Review/
 long_title: Review Eventi
-img: review
+img: rev
 description: Review degli eventi organzzati dal comitato AISF di Perugia
 ---
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
