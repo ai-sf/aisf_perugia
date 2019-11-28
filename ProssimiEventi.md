@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /ProssimiEventi/
-long_title: Caffè Scientifico 27 Novembre 16:30
+long_title: Quantum Film Theory: Nessuno mi troverà
 img: next
 description: "Nano-Sequenze di DNA come target anti-tumorali"
 ---
