@@ -23,7 +23,7 @@ description: Review del Caffè Scientifico del 27 Novembre 2019
 
 <b>Di che si tratta&#63;</b><br>
 I caffè scientifici sono degli incontri interessanti e coinvolgenti di divulgazione scientifica.
-Si tratta di discussioni tra persone interessate, di qualsiasi età, e alcuni esperti in un ambito della ricerca scientifica. Particelle, meteorologia, nuove frontiere della medicina...i
+Si tratta di discussioni tra persone interessate, di qualsiasi età, e alcuni esperti in un ambito della ricerca scientifica. Particelle, meteorologia, nuove frontiere della medicina...
 
 Scarica le slide della presentazione<br>
 <center><span class="col-md-3 home-quick-links__link">
