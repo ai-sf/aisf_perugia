@@ -23,18 +23,17 @@ description: Review degli eventi organzzati dal comitato AISF di Perugia
 
 <b>Di che si tratta&#63;</b><br>
 I caffè scientifici sono degli incontri interessanti e coinvolgenti di divulgazione scientifica.
-Si tratta di discussioni tra persone interessate, di qualsiasi età, e alcuni esperti in un ambito della ricerca scientifica. Particelle, meteorologia, nuove frontiere della medicina...i 
+Si tratta di discussioni tra persone interessate, di qualsiasi età, e alcuni esperti in un ambito della ricerca scientifica. Particelle, meteorologia, nuove frontiere della medicina...i
 
 
-
-<span class="col-md-3 home-quick-links__link">
+<center><span class="col-md-3 home-quick-links__link">
   <a href="/perugia/Review">
     <span class="fa-stack fa-2x">
-      <i class="fa fa-circle fa-stack-2x text-primary" style="color:rgb(0, 204, 204)"></i>
+      <i class="fa fa-circle fa-stack-2x text-primary" style="color:rgb(0, 22, 120)"></i>
       <i class="fa fa-file-text fa-stack-1x fa-inverse"></i>
     </span> &nbsp; &nbsp;
   </a>
-</span>
+</span></center>
 
 
 <b>Seguite le nostre pagine social per scoprire i prossimi appuntamenti.
