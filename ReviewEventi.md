@@ -36,7 +36,7 @@ Si tratta di discussioni tra persone interessate, di qualsiasi età, e alcuni es
 </span></center>
 
 
-
+<br>
 <b>Seguite le nostre pagine social per scoprire i prossimi appuntamenti.
 Vi aspettiamo!</b><br><br>
 <center>
