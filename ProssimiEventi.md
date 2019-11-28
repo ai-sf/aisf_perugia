@@ -2,7 +2,7 @@
 layout: page
 permalink: /ProssimiEventi/
 long_title: Quantum Film Theory
-img: next
+img: nex
 description: "Nano-Sequenze di DNA come target anti-tumorali"
 ---
 
