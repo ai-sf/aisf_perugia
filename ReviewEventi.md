@@ -11,6 +11,16 @@ description: Review degli eventi organzzati dal comitato AISF di Perugia
 <br>
 </center>
 
+
+
+<figure>
+<center>
+   <img src="/perugia/img/review.png" alt="centered image" style="max-width:85%"
+   height="auto" width="auto" class="responsive" >
+</center>
+</figure>
+
+
 <script>
 var myIndex = 0;
 carousel();
