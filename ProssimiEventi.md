@@ -11,7 +11,7 @@ description: Un film sulla vita e la scomparsa di Ettore Majorana
 
  <figure>
 <center>
-    <img src="/perugia/img/majo.png" alt="centered image" style="max-width:73%"
+    <img src="/perugia/img/majo.png" alt="centered image" style="max-width:80%"
     height="auto" width="auto" class="responsive" >
 </center>
 </figure>
