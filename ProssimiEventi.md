@@ -2,7 +2,7 @@
 layout: page
 permalink: /ProssimiEventi/
 long_title: Nessuno mi troverà
-img: nex
+img: next
 description: Un film sulla vita e la scomparsa di Ettore Majorana
 ---
 
