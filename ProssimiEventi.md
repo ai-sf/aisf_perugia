@@ -27,7 +27,7 @@ description: Un film sulla vita e la scomparsa di Ettore Majorana
 +Produzione: Cut & Editing and More, Mood Film, Partner Media Investment -->
 <ul>
 <li>dddd</li>
-<li>dddd</li>
+<li>e le attività del comitato AISF Peru</li>
 <ul>
 </center>
 
