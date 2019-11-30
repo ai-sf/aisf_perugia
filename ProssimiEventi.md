@@ -5,7 +5,7 @@ long_title: Nessuno mi troverà
 img: next
 description: Un film sulla vita e la scomparsa di Ettore Majorana
 ---
-
+<html>
 <center><h2><b> Quantum Film Theory </b></h2></center>
 <center><h4><b><font style="color:rgb(211, 35, 54);">PostModernissimo 5 Dicembre ore 21:15  </font></b></h4></center>
 
@@ -19,13 +19,16 @@ description: Un film sulla vita e la scomparsa di Ettore Majorana
 <section>
 
 <center>
-+Data di uscita: 15 aprile 2016
+<!--+Data di uscita: 15 aprile 2016
 +Genere: Documentario
 +Anno: 2016
 +Regia: Egidio Eronico
 +Distribuzione: Istituto Luce-Cinecittà
-+Produzione: Cut & Editing and More, Mood Film, Partner Media Investment
-
++Produzione: Cut & Editing and More, Mood Film, Partner Media Investment -->
+<ul>
+<li>dddd</li>
+<li>dddd</li>
+<ul>
 </center>
 
 
@@ -41,3 +44,4 @@ description: Un film sulla vita e la scomparsa di Ettore Majorana
 </center>
 
 </section>
+</html>
