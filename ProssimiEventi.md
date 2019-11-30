@@ -19,13 +19,12 @@ description: Un film sulla vita e la scomparsa di Ettore Majorana
 <section>
 
 <center>
-<ul>
-<li>Data di uscita: 15 aprile 2016</li>
-<li>Genere: Documentario</li>
-<li>Anno: 2016</li>
-<li>Regia: Egidio Eronico</li>
-<li>Distribuzione: Istituto Luce-Cinecittà</li>
-<li>Produzione: Cut & Editing and More, Mood Film, Partner Media Investment</li>
++Data di uscita: 15 aprile 2016</li>
++Genere: Documentario</li>
++Anno: 2016</li>
++Regia: Egidio Eronico</li>
++Distribuzione: Istituto Luce-Cinecittà</li>
++Produzione: Cut & Editing and More, Mood Film, Partner Media Investment</li>
 </ul>
 </center>
 
