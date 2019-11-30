@@ -19,13 +19,17 @@ description: Un film sulla vita e la scomparsa di Ettore Majorana
 <section>
 
 <center>
-<b>Data di uscita:</b> 15 aprile 2016<br>
-<b>Genere:</b> Documentario<br>
-<b>Anno:</b> 2016<br>
-<b>Regia:</b> Egidio Eronico<br>
-<b>Distribuzione:</b> Istituto Luce-Cinecittà<br>
-<b>Produzione:</b> Cut & Editing and More, Mood Film, Partner Media Investment<br>
+<ul>
+<li><b>Data di uscita:</b> 15 aprile 2016</li>
+<li><b>Genere:</b> Documentario</li>
+<li><b>Anno:</b> 2016</li>
+<li><b>Regia:</b> Egidio Eronico</li>
+<li><b>Distribuzione:</b> Istituto Luce-Cinecittà</li>
+<li><b>Produzione:</b> Cut & Editing and More, Mood Film, Partner Media Investment</li>
+</ul>
 </center>
+
+
 
 <b>Scopri tutte le attività del comitato AISF Perugia</b>:<br>
 <a href="/perugia/QFT"> Quantum Film Theory</a> <br>
