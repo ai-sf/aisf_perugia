@@ -20,7 +20,7 @@ description: Un film sulla vita e la scomparsa di Ettore Majorana
 
 <center>
 <ul>
-<li><b>Data di uscita:</b> 15 aprile 2016</li>
+<li><b>ata di uscita:</b> 15 aprile 2016</li>
 <li><b>Genere:</b> Documentario</li>
 <li><b>Anno:</b> 2016</li>
 <li><b>Regia:</b> Egidio Eronico</li>
