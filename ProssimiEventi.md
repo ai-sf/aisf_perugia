@@ -25,7 +25,7 @@ description: Un film sulla vita e la scomparsa di Ettore Majorana
 +Regia: Egidio Eronico</li>
 +Distribuzione: Istituto Luce-Cinecittà</li>
 +Produzione: Cut & Editing and More, Mood Film, Partner Media Investment</li>
-</ul>
+
 </center>
 
 
