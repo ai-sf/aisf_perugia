@@ -11,11 +11,12 @@ description: Seminari su temi specifici organzzati dal comitato AISF di Perugia
 <h3> <em> Not a simple coffee time </em></h3>
 <br>
 <div class="w3-content w3-section" style="max-width:500px">
-<img class="mySlides" src="/perugia/Slideshow/caffe5.png" style="width:60%">
-  <img class="mySlides" src="/perugia/Slideshow/caffe6.png" style="width:60%">
+
   <img class="mySlides" src="/perugia/Slideshow/caffe2.png" style="width:60%">
   <img class="mySlides" src="/perugia/Slideshow/caffe.png" style="width:60%">
   <img class="mySlides" src="/perugia/Slideshow/caffe3.png" style="width:60%">
+  <img class="mySlides" src="/perugia/Slideshow/caffe5.png" style="width:60%">
+    <img class="mySlides" src="/perugia/Slideshow/caffe6.png" style="width:60%">
   <img class="mySlides" src="/perugia/Slideshow/caffe4.png" style="width:60%">
 
 </div>
