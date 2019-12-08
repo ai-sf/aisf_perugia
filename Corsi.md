@@ -41,6 +41,11 @@ Le lezioni prevedono una prima parte dedicata alla presentazione del software e 
 <em><b>Latex</b></em> è un linguaggio di markup per la preparazione di testi, in particolare relazioni di laboratorio e tesi.
 Il corso di Latex viene svolto con le stesse modalità del corso di Root.
 
+<center>
+<button><type="button"> <a href="/perugia/ROOT"> ROOT File</button>
+<button><type="button"> <a href="/perugia/Latex"> ROOT Tree</button>
+
+</center>
 
 Per maggiori informazioni:   <a href="mailto:perugia@ai-sf.it"> perugia@ai-sf.it</a>
 <br>
