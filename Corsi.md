@@ -42,8 +42,8 @@ Le lezioni prevedono una prima parte dedicata alla presentazione del software e 
 Il corso di Latex viene svolto con le stesse modalità del corso di Root.
 
 <center>
-<button><type="button"> <a href="/perugia/ROOT"> ROOT File</button>
-<button><type="button"> <a href="/perugia/Latex"> ROOT Tree</button>
+<button><type="button"> <a href="/perugia/ROOT"> Corso ROOT </button>
+<button><type="button"> <a href="/perugia/Latex"> Corso Latex </button>
 </center>
 
 Per maggiori informazioni:   <a href="mailto:perugia@ai-sf.it"> perugia@ai-sf.it</a>
