@@ -17,12 +17,7 @@ void g(){
 
     TString nomefile2 = "/Users/David/Desktop/punticurva2.txt"; //percorso
     TGraphErrors *f = new TGraphErrors(nomefile2);
-   
-    //f->GetXaxis()->SetTitle("x");
-    //f->GetYaxis()->SetTitle("f(x)");
-    //f->GetXaxis()->CenterTitle();
-    //f->GetYaxis()->CenterTitle();
-    
+
     f->SetMarkerColor(6); //Markers...
     f->SetMarkerStyle(23);
     f->SetLineColor(6);

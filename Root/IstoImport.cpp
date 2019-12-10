@@ -1,15 +1,11 @@
 
-void Import(int n){
-    
-  
-    double xmin,xmax;
-    cout<<"insert xmin e xmax"<<endl;
-    cin>>xmin>>xmax;
 
-    TH1F *h = new TH1F("h", "Title" ,n,xmin,xmax);
+void Import(){
+
+    TH1F *h = new TH1F("h", "Title" ,10,22,23);
     
     //importazione
-    TString pathfile = "/Users/David/Desktop/histo.txt";
+    TString pathfile = "/Users/David/Desktop/text.txt";
     fstream f;
     double x;
     f.open(pathfile,ios::in);
