@@ -10,7 +10,7 @@ description: Il Periodico HELIOS realizzato dal comitato locale AISF di Perugia
 
  <figure>
 <center>
-    <img src="/perugia/ImgSlideShow/logoHelios.jpg" alt="centered image" style="max-width:40%"
+    <img src="/perugia/ImgSlideShow/logoHelios.png" alt="centered image" style="max-width:40%"
     height="auto" width="auto" class="responsive" >
 </center>
 </figure>
