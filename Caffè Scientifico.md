@@ -43,7 +43,7 @@ function carousel() {
 I caffè scientifici sono degli incontri interessanti e coinvolgenti di divulgazione scientifica.
 Si tratta di discussioni tra persone interessate, di qualsiasi età, e alcuni esperti in un ambito della ricerca scientifica. Particelle, meteorologia, nuove frontiere della medicina...i caffè scientifici hanno la bellezza di proporre argomenti sempre nuovi e con un taglio diverso a seconda della persona che si propone di parlarcene.<br><br>
 <b>In cosa differisce dalla conferenza &#63;</b><br>
-In tutto. Se in una conferenza gli esperti nel settore incentrano il 95% dell'incontro sul loro discorso, nei caffè scientifici la questione è proprio fifty-fifty. L'esperto spiega, racconta, si apre ad un pubblico interessato.<br> Dall'altra parte, il pubblico fa domande, interviene, e ciò che si instaura è un clima informale e piacevole. Si tratta di imparare qualcosa in più sul mondo della scienza, chiacchierando.<br><br>
+In tutto. Se in una conferenza gli esperti nel settore incentrano il 95% dell'incontro sul loro discorso, nei caffè scientifici la questione è proprio fifty-fifty. L'esperto spiega, racconta, si apre ad un pubblico interessato.<br> Dall'altra parte, il pubblico fa domande, interviene, e ciò che si instaura è un clima informale e piacevole. Si tratta di imparare qualcosa in più sul mondo della scienza e della ricerca, discutendone.<br><br>
 <b>Quindi si può partecipare anche se non si conosce nulla dell'argomento trattato&#63;</b><br>
 Assolutamente sì: il linguaggio utilizzato non è tecnico o astruso ma appunto, di divulgazione. Ciò che serve è solo tanta curiosità e interesse.<br><br>
 <b>I nostri eventi</b><br>
