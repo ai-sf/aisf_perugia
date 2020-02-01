@@ -12,7 +12,7 @@ description: Seminari su temi specifici organzzati dal comitato AISF di Perugia
     <img src="/perugia/img/COF.png" alt="centered image" style="max-width:40%"
     height="auto" width="auto" class="responsive" >
 </center>
-<h3> <em> Not a simple coffee time </em></h3>
+<h3> <em> Not a simple coffee time 3</em></h3>
 <br>
 <div class="w3-content w3-section" style="max-width:500px">
 
