@@ -8,6 +8,10 @@ description: Seminari su temi specifici organzzati dal comitato AISF di Perugia
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <center>
 <h2><b>Caffè Scientifico</b></h2>
+<center>
+    <img src="/perugia/img/COF.png" alt="centered image" style="max-width:40%"
+    height="auto" width="auto" class="responsive" >
+</center>
 <h3> <em> Not a simple coffee time </em></h3>
 <br>
 <div class="w3-content w3-section" style="max-width:500px">
