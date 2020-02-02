@@ -8,7 +8,7 @@ description: Il Cineforum organizzato dal Comitato Locale AISF di Perugia
 <center>
 <h2><b>QFT</b></h2>
 <center>
-    <img src="/perugia/img/Q.png" alt="centered image" style="max-width:16%"
+    <img src="/perugia/img/Q.png" alt="centered image" style="max-width:19%"
     height="auto" width="auto" class="responsive" >
 </center>
 <h3> <em> Learning by watching </em></h3>
