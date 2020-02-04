@@ -1,6 +1,9 @@
 ---
 layout: page
 permalink: /ABSTRACT/amsABS/
+long_title: AMS-02
+img: AMS
+description: L'Alpha Magnetic Spectrometer
 ---
 <center>
  <h2>L'Alpha Magnetic Spectrometer AMS-02 </h2>
