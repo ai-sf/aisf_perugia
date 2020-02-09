@@ -43,8 +43,6 @@ body {
 <center>
 <h2>Tutti gli eventi di AISF Perugia 2019/2020</h2>
 
-
-<h3> <em> Not a simple coffee time </em></h3>
 <br>
 <div class="w3-content w3-section" style="max-width:500px">
 
