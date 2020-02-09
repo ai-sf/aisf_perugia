@@ -70,16 +70,17 @@ body {
   <img src="/perugia/Slideshow/qft4.png" alt="Notebook" style="width:100%;">
   <div class="content">
     <h5>Nessuno mi troverà</h5> <br>
-    <p>Cineforum: 5 Dicemebre <br>
+    <p>Cineforum: 5 Dicemebre 2019<br>
     Prof. Scopetta</p>
   </div>
 </div>
 
 <div class="container mySlides" >
-  <img src="/perugia/Slideshow/caffe5.png" alt="Notebook" style="width:100%;">
+  <img src="/perugia/Slideshow/qft5.png" alt="Notebook" style="width:100%;">
   <div class="content">
-    <h3>Biofisica</h3>
-    <p>Caffè Scientifico del 5 Novembre</p>
+    <h3>Amaldi: la scelta</h3>
+    <p>Cineforum: 18 Dicemebre 2019 <br>
+    Dott.ssa Pancheri</p>
   </div>
 </div>
 
