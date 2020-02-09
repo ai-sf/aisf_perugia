@@ -49,7 +49,7 @@ body {
 <div class="container mySlides" >
   <img src="/perugia/Slideshow/caffe5.png" alt="Notebook" style="width:100%;">
   <div class="content">
-    <h5>Biofisica</h5>
+    <h6>Biofisica</h6>
     <p>Caffè Scientifico: 27 Novembre 2019<br>
     Biofisica: Nano-Sequenze di DNA<br>
     Prof. Paciaroni  & Dott.ssa Comez </p>
@@ -59,7 +59,7 @@ body {
 <div class="container mySlides" >
   <img src="/perugia/Slideshow/caffe6.png" alt="Notebook" style="width:100%;">
   <div class="content">
-    <h5>Biofisica</h5>
+    <h6>Biofisica</h6>
     <p>Caffè Scientifico:  7 Novembre 2019<br>
     Fisica Medica: Radiazioni Ionizzanti<br>
     Prof. Servoli </p>
@@ -69,7 +69,7 @@ body {
 <div class="container mySlides" >
   <img src="/perugia/Slideshow/qft4.png" alt="Notebook" style="width:100%;">
   <div class="content">
-    <h5>Nessuno mi troverà</h5> <br>
+    <h6>Nessuno mi troverà</h6> <br>
     <p>Cineforum: 5 Dicemebre 2019<br>
     Prof. Scopetta</p>
   </div>
@@ -78,7 +78,7 @@ body {
 <div class="container mySlides" >
   <img src="/perugia/Slideshow/qft5.png" alt="Notebook" style="width:100%;">
   <div class="content">
-    <h3>Amaldi: la scelta</h3>
+    <h6>Amaldi: la scelta</h6>
     <p>Cineforum: 18 Dicemebre 2019 <br>
     Dott.ssa Pancheri</p>
   </div>
