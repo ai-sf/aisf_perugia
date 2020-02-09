@@ -8,12 +8,6 @@ description: Archivio degli eventi AISF Perugia per l'anno 2019/20
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style>
-.container2 {
-  position: relative;
-  width: 100%;
-  max-width: 400px;
-}
-
 
 {
   box-sizing: border-box;
@@ -42,25 +36,6 @@ body {
   padding: 20px;
 }
 
-.container2 .btn {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  background-color: #0FF5D9;
-  color: white;
-  font-size: 16px;
-  padding: 2px 12px;
-  border: none;
-  cursor: pointer;
-  border-radius: 6px;
-  text-align: center;
-}
-
-.container2 .btn:hover {
-  background-color: blue;
-}
 </style>
 
 
@@ -69,55 +44,45 @@ body {
 <h2>Responsive Image with Transparent Text</h2>
 
 
-<div class="container2">
-<div class="section">
-  <div class="slider" id="foto">
-    <ul class="slides">
-        <li>
 
-        <div class="container">
-          <img src="/perugia/Slideshow/caffe5.png" alt="Notebook" style="width:100%;">
-          <div class="content">
-            <h1>Biofisica</h1>
-            <p>Caffè Scientifico del 5 Novembre</p>
-          </div>
-        </div>
+</center>
+<h3> <em> Not a simple coffee time </em></h3>
+<br>
+<div class="w3-content w3-section" style="max-width:500px">
 
-
-
-        </li>
-
-        <li>
-          <img src="/perugia/ImgSlideShow/rivelatori.jpg">
-            <button class="btn"> <a href="/perugia/ABSTRACT/triggerABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
-          <div class="caption left-align">
-
-          <p class="light grey-text text-lighten-3"><h3><b>Rivelatori di Particelle</b></h3></p>
-          </div>
-        </li>
-
-
-
-        <li>
-          <img src="/perugia/ImgSlideShow/alteenergie.jpg">
-            <button class="btn"> <a href="/perugia/ABSTRACT/na62ABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
-          <div class="caption left-align">
-          <p class="light grey-text text-lighten-3"><h3><font style="color:rgb(252, 252, 252);"><b>Fisica delle Alte Energie</b></font></h3></p>
-          </div>
-        </li>
-
-    </ul>
-  </div>
-  </div>
-</div>
-
-
-
-
-<div class="container">
-  <img src="/perugia/Slideshow/caffe5.png" alt="Notebook" style="width:100%;">
+<div class="container" >
+  <img src="/perugia/Slideshow/caffe5.png" alt="Notebook" style="width:100%;" class="mySlides">
   <div class="content">
     <h1>Biofisica</h1>
     <p>Caffè Scientifico del 5 Novembre</p>
   </div>
 </div>
+
+  <img class="mySlides" src="/perugia/Slideshow/caffe2.png" style="width:60%">
+  <img class="mySlides" src="/perugia/Slideshow/caffe.png" style="width:60%">
+  <img class="mySlides" src="/perugia/Slideshow/caffe3.png" style="width:60%">
+  <img class="mySlides" src="/perugia/Slideshow/caffe5.png" style="width:60%">
+    <img class="mySlides" src="/perugia/Slideshow/caffe6.png" style="width:60%">
+  <img class="mySlides" src="/perugia/Slideshow/caffe4.png" style="width:60%">
+
+</div>
+</center>
+
+
+
+
+<script>
+var myIndex = 0;
+carousel();
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}
+  x[myIndex-1].style.display = "block";
+  setTimeout(carousel, 3000);
+}
+</script>
