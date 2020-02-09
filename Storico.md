@@ -47,7 +47,7 @@ description: Archivio degli eventi AISF Perugia per l'anno 2019/20
           <img src="/perugia/Slideshow/caffe5.png">
           <button class="btn"> <a href="/perugia/ABSTRACT/amsABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
           <div class="caption left-align">
-          <p class="light grey-text text-lighten-3"><h3><b>Biofisica</b></h3></p>
+          <p class="light grey-text text-lighten-3"><h3><b>Biofisica55</b></h3></p>
           </div>
 
         </li>
