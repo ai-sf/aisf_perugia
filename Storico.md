@@ -9,12 +9,12 @@ description: Archivio degli eventi AISF Perugia per l'anno 2019/20
 <style>
 .container {
   position: relative;
-  width: 70%;
+  width: 80%;
   max-width: 400px;
 }
 
 .container img {
-  width: 40%;
+  width: 50%;
 }
 
 .container .btn {
