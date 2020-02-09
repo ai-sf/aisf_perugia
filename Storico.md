@@ -70,11 +70,6 @@ body {
 
 
 
-
-
-
-
-
 <h2>Responsive Image with Transparent Text</h2>
 
 
