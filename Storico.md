@@ -69,8 +69,10 @@ body {
 <div class="container mySlides" >
   <img src="/perugia/Slideshow/qft4.png" alt="Notebook" style="width:100%;">
   <div class="content">
-    <h6>Nessuno mi troverà</h6> <br>
-    <p>Cineforum: 5 Dicemebre 2019<br>
+    <h6>Nessuno mi troverà: Il Caso Majorana</h6> <br>
+    <p>
+    Cineforum: 5 Dicemebre 2019<br>
+
     Prof. Scopetta</p>
   </div>
 </div>
