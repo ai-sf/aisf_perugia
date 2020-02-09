@@ -63,7 +63,7 @@ body {
   <img class="mySlides" src="/perugia/Slideshow/caffe4.png" style="width:60%">
 
 </div>
-</center>
+
 
 
 
