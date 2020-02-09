@@ -67,10 +67,11 @@ body {
 </div>
 
 <div class="container mySlides" >
-  <img src="/perugia/Slideshow/caffe5.png" alt="Notebook" style="width:100%;">
+  <img src="/perugia/Slideshow/qft4.png" alt="Notebook" style="width:100%;">
   <div class="content">
-    <h3>Biofisica</h3> <br>
-    <p>Caffè Scientifico del 5 Novembre</p>
+    <h5>Nessuno mi troverà</h5> <br>
+    <p>Cineforum: 5 Dicemebre <br>
+    Prof. Scopetta</p>
   </div>
 </div>
 
