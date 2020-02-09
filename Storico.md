@@ -6,8 +6,35 @@ img: Art
 description: Archivio degli eventi AISF Perugia per l'anno 2019/20
 ---
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
+
+<style> {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  font-size: 17px;
+}
+
 .container {
+  position: relative;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.container img {vertical-align: middle;}
+
+.container .content {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+}
+
+ {
   position: relative;
   width: 80%;
   max-width: 400px;
@@ -37,6 +64,17 @@ description: Archivio degli eventi AISF Perugia per l'anno 2019/20
   background-color: blue;
 }
 </style>
+
+
+
+
+
+
+
+
+
+
+
 
 <div class="container">
 <div class="section">
