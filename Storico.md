@@ -57,7 +57,7 @@ description: Archivio degli eventi AISF Perugia per l'anno 2019/20
             <button class="btn"> <a href="/perugia/ABSTRACT/triggerABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
           <div class="caption left-align">
 
-          <p class="light grey-text text-lighten-3"><h3><b>Rivelatori di Particelle</b></h3></p>
+          <p class="light grey-text text-lighten-3"><h3><b>Fisica Medica</b></h3></p>
           </div>
         </li>
 
