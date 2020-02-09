@@ -2,6 +2,7 @@
 layout: page
 permalink: /Storico/
 long_title: Tutti gli eventi di AISF Perugia
+img: ARCH
 description: Archivio degli eventi AISF Perugia per l'anno 2019/20
 ---
 <meta name="viewport" content="width=device-width, initial-scale=1">
