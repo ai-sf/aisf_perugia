@@ -73,7 +73,7 @@ body {
 
 
 
-
+<h2>Responsive Image with Transparent Text</h2>
 
 
 <div class="container">
