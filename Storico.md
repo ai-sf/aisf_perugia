@@ -41,7 +41,7 @@ body {
 
 
 
-<h2>Responsive Image with Transparent Text</h2>
+<h2>Tutti gli eventi di AISF Perugia</h2>
 
 
 
