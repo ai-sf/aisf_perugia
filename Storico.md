@@ -41,7 +41,7 @@ body {
 
 
 <center>
-<h2>Tutti gli eventi di AISF Perugia</h2>
+<h2>Tutti gli eventi di AISF Perugia 2019/2020</h2>
 
 
 <h3> <em> Not a simple coffee time </em></h3>
