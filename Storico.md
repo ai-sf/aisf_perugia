@@ -41,7 +41,7 @@ body {
 
 
 <center>
-<h2><strong>Archivio  <strong></h2>
+<h2><strong>Archivio  </strong></h2>
 <h5>Tutti gli eventi di AISF Perugia 2019/2020</h5>
 
 <br>
