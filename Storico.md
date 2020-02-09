@@ -44,7 +44,7 @@ description: Archivio degli eventi AISF Perugia per l'anno 2019/20
   <div class="slider" id="foto">
     <ul class="slides">
         <li>
-          <img src="/perugia/ImmaginiAbstract/ams02ABS.png">
+          <img src="/perugia/Slideshow/caffe5.png">
           <button class="btn"> <a href="/perugia/ABSTRACT/amsABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
           <div class="caption left-align">
           <p class="light grey-text text-lighten-3"><h3><b>Astroparticelle</b></h3></p>
