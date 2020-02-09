@@ -50,8 +50,8 @@ body {
   <img src="/perugia/Slideshow/caffe5.png" alt="Notebook" style="width:100%;">
   <div class="content">
     <h3>Biofisica</h3>
-    <p>Caffè Scientifico: 27 Novembre 2019<br>
-    Biofisica: Nano-Sequenze di DNA<br>
+    <p>Caffè Scientifico: 27 Novembre 2019
+    Biofisica: Nano-Sequenze di DNA<
     Prof. Paciaroni  & Dott.ssa Comez </p>
   </div>
 </div>
@@ -60,8 +60,8 @@ body {
   <img src="/perugia/Slideshow/caffe6.png" alt="Notebook" style="width:100%;">
   <div class="content">
     <h3>Biofisica</h3>
-    <p>Caffè Scientifico:  7 Novembre 2019<br>
-    Fisica Medica: Radiazioni Ionizzanti<br>
+    <p>Caffè Scientifico:  7 Novembre 2019
+    Fisica Medica: Radiazioni Ionizzanti
     Prof. Servoli </p>
   </div>
 </div>
