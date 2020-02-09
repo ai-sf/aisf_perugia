@@ -48,8 +48,8 @@ body {
 <div class="w3-content w3-section" style="max-width:500px">
 
 <div class="container mySlides" >
-  <img src="/perugia/Slideshow/caffe5.png" alt="Notebook" style="width:100%;" class="mySlides">
-  <div class="content mySlides">
+  <img src="/perugia/Slideshow/caffe5.png" alt="Notebook" style="width:100%;">
+  <div class="content">
     <h1>Biofisica</h1>
     <p>Caffè Scientifico del 5 Novembre</p>
   </div>
