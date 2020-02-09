@@ -59,7 +59,7 @@ body {
 <div class="container mySlides" >
   <img src="/perugia/Slideshow/caffe6.png" alt="Notebook" style="width:100%;">
   <div class="content">
-    <h6>Biofisica</h6>
+    <h6>Fisica Medica</h6>
     <p>Caffè Scientifico:  7 Novembre 2019<br>
     Fisica Medica: Radiazioni Ionizzanti<br>
     Prof. Servoli </p>
