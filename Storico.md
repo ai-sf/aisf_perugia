@@ -46,7 +46,7 @@ body {
   padding: 20px;
 }
 
-.container .btn {
+.container2 .btn {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -62,7 +62,7 @@ body {
   text-align: center;
 }
 
-.container .btn:hover {
+.container2 .btn:hover {
   background-color: blue;
 }
 </style>
