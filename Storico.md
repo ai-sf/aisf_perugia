@@ -44,7 +44,6 @@ body {
 <h2><strong>Archivio  </strong></h2>
 <h5>Tutti gli eventi di AISF Perugia 2019/2020</h5>
 
-<br>
 <div class="w3-content w3-section" style="max-width:500px">
 
 <div class="container mySlides" >
