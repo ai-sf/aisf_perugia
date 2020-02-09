@@ -73,7 +73,7 @@ description: Archivio degli eventi AISF Perugia per l'anno 2019/20
 
 
         <li>
-          <img src="/perugia/ImgSlideShow/reti.jpg">
+        <img src="/perugia/Slideshow/qft4.png">
             <button class="btn"> <a href="/perugia/ABSTRACT/retiABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
           <div class="caption left-align">
           <p class="light grey-text text-lighten-3"><h3><b>Reti Neurali</b></h3></p>
