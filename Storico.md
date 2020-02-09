@@ -49,7 +49,7 @@ body {
 <div class="container mySlides" >
   <img src="/perugia/Slideshow/caffe5.png" alt="Notebook" style="width:100%;">
   <div class="content">
-    <h1>Biofisica</h1>
+    <h3>Biofisica</h3>
     <p>Caffè Scientifico del 5 Novembre</p>
   </div>
 </div>
