@@ -53,7 +53,7 @@ description: Archivio degli eventi AISF Perugia per l'anno 2019/20
         </li>
 
         <li>
-          <img src="/perugia/ImgSlideShow/rivelatori.jpg">
+        <img src="/perugia/Slideshow/caffe6.png">
             <button class="btn"> <a href="/perugia/ABSTRACT/triggerABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
           <div class="caption left-align">
 
