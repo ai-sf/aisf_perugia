@@ -50,16 +50,40 @@ body {
   <img src="/perugia/Slideshow/caffe5.png" alt="Notebook" style="width:100%;">
   <div class="content">
     <h3>Biofisica</h3>
+    <p>Caffè Scientifico: 27 Novembre 2019<br>
+    Biofisica: Nano-Sequenze di DNA<br>
+    Prof. Paciaroni  & Dott.ssa Comez </p>
+  </div>
+</div>
+
+<div class="container mySlides" >
+  <img src="/perugia/Slideshow/caffe6.png" alt="Notebook" style="width:100%;">
+  <div class="content">
+    <h3>Biofisica</h3>
+    <p>Caffè Scientifico:  7 Novembre 2019<br>
+    Fisica Medica: Radiazioni Ionizzanti<br>
+    Prof. Servoli </p>
+  </div>
+</div>
+
+<div class="container mySlides" >
+  <img src="/perugia/Slideshow/caffe5.png" alt="Notebook" style="width:100%;">
+  <div class="content">
+    <h3>Biofisica</h3>
     <p>Caffè Scientifico del 5 Novembre</p>
   </div>
 </div>
 
-  <img class="mySlides" src="/perugia/Slideshow/caffe2.png" style="width:60%">
-  <img class="mySlides" src="/perugia/Slideshow/caffe.png" style="width:60%">
-  <img class="mySlides" src="/perugia/Slideshow/caffe3.png" style="width:60%">
-  <img class="mySlides" src="/perugia/Slideshow/caffe5.png" style="width:60%">
-    <img class="mySlides" src="/perugia/Slideshow/caffe6.png" style="width:60%">
-  <img class="mySlides" src="/perugia/Slideshow/caffe4.png" style="width:60%">
+<div class="container mySlides" >
+  <img src="/perugia/Slideshow/caffe5.png" alt="Notebook" style="width:100%;">
+  <div class="content">
+    <h3>Biofisica</h3>
+    <p>Caffè Scientifico del 5 Novembre</p>
+  </div>
+</div>
+
+
+
 
 </div>
 
