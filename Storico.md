@@ -7,7 +7,19 @@ description: Archivio degli eventi AISF Perugia per l'anno 2019/20
 ---
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<style> {
+<style>
+.container2 {
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+}
+
+.container2 img {
+  width: 100%;
+  height: auto;
+}
+
+{
   box-sizing: border-box;
 }
 
@@ -66,7 +78,7 @@ body {
 <h2>Responsive Image with Transparent Text</h2>
 
 
-<div class="container">
+<div class="container2">
 <div class="section">
   <div class="slider" id="foto">
     <ul class="slides">
@@ -81,7 +93,7 @@ body {
           </div>
         </div>
 
-      
+
 
         </li>
 
