@@ -19,6 +19,7 @@ description: Il Cineforum organizzato dal Comitato Locale AISF di Perugia
   <img class="mySlides" src="/perugia/Slideshow/qft2.png" style="width:60%">
   <img class="mySlides" src="/perugia/Slideshow/qft4.png" style="width:60%">
   <img class="mySlides" src="/perugia/Slideshow/qft3.png" style="width:60%">
+  <img class="mySlides" src="/perugia/Slideshow/qft5.png" style="width:60%">
 
 </div>
 </center>
