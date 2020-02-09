@@ -79,12 +79,11 @@ body {
     <ul class="slides">
         <li>
 
-
         <div class="container">
           <img src="/perugia/Slideshow/caffe5.png" alt="Notebook" style="width:100%;">
           <div class="content">
             <h1>Heading</h1>
-            <p>Lorem ipsum dolor sit amet, an his etiam torquatos. Tollit soleat phaedrum te duo, eum cu recteque expetendis neglegentur. Cu mentitum maiestatis persequeris pro, pri ponderum tractatos ei.</p>
+            <p>Caffè Scientifico del 5 Novembre</p>
           </div>
         </div>
 
