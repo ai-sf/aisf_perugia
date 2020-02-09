@@ -75,66 +75,10 @@ body {
 
 <h2>Responsive Image with Transparent Text</h2>
 
-
 <div class="container">
-<div class="section">
-  <div class="slider" id="foto">
-    <ul class="slides">
-        <li>
-          <img src="/perugia/Slideshow/caffe5.png">
-          <button class="btn"> <a href="/perugia/ABSTRACT/amsABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
-          <div class="caption left-align">
-          <p class="light grey-text text-lighten-3"><h3><b>Biofisica</b></h3></p>
-          </div>
-
-        </li>
-
-        <li>
-        <img src="/perugia/Slideshow/caffe6.png">
-            <button class="btn"> <a href="/perugia/ABSTRACT/triggerABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
-          <div class="caption left-align">
-
-          <p class="light grey-text text-lighten-3"><h3><b>Fisica Medica</b></h3></p>
-          </div>
-        </li>
-
-
-
-        <li>
-          <img src="/perugia/ImgSlideShow/alteenergie.jpg">
-            <button class="btn"> <a href="/perugia/ABSTRACT/na62ABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
-          <div class="caption left-align">
-          <p class="light grey-text text-lighten-3"><h3><font style="color:rgb(252, 252, 252);"><b>Fisica delle Alte Energie</b></font></h3></p>
-          </div>
-        </li>
-
-
-        <li>
-        <img src="/perugia/Slideshow/qft4.png">
-            <button class="btn"> <a href="/perugia/ABSTRACT/retiABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
-          <div class="caption left-align">
-          <p class="light grey-text text-lighten-3"><h3><b>Reti Neurali</b></h3></p>
-          </div>
-        </li>
-
-
-        <li>
-          <img src="/perugia/ImgSlideShow/cern.jpg">
-          <button class="btn"> <a href="/perugia/ABSTRACT/cernABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
-          <div class="caption left-align">
-          <p class="light grey-text text-lighten-3"><h2><b>CERN: <br> <h6>Accelerating Science</h6></b></h2></p>
-          </div>
-        </li>
-
-        <li>
-          <img src="/perugia/ImgSlideShow/stringhe.jpg">
-            <button class="btn"> <a href="/perugia/ABSTRACT/stringheABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
-          <div class="caption left-align">
-          <p class="light grey-text text-lighten-3"><h3><b>Teoria delle Stringhe</b></h3></p>
-          </div>
-        </li>
-
-    </ul>
-  </div>
+  <img src="/perugia/Slideshow/caffe5.png" alt="Notebook" style="width:100%;">
+  <div class="content">
+    <h1>Heading</h1>
+    <p>Lorem ipsum dolor sit amet, an his etiam torquatos. Tollit soleat phaedrum te duo, eum cu recteque expetendis neglegentur. Cu mentitum maiestatis persequeris pro, pri ponderum tractatos ei.</p>
   </div>
 </div>
