@@ -7,7 +7,7 @@ description: Il Periodico HELIOS realizzato dal comitato locale AISF di Perugia
 ---
 
 <center><h2><b>Recensioni </b></h2>
-<h5><b>by AISF Bari & AISF Perugia </b></h5>
+<h7><b>by AISF Bari & AISF Perugia </b></h7>
 </center>
 
  <figure>
