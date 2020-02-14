@@ -29,7 +29,7 @@ mensilmente uscirà una recensione su un libro scientifico e di divulgazione...
 </center>
 
 
-<button> <a href="/perugia/ROOT"> Corso ROOT
+<button> <a href="/perugia/ROOT"> Corso ROOT</button>
 <br>
 
 sdsf fde ffr  dsf ree ff a sfe
