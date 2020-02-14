@@ -25,7 +25,8 @@ mensilmente uscirà una recensione su un libro scientifico e di divulgazione...
 <br>Gli articoli di Helios sono disponibili in free download:<br>
 
 <center>
-<a href="/perugia/Download">Leggi la prima recensione</a>&nbsp; &nbsp;</center>
+<button> <type="button"> <a href="/perugia/ROOT"> Leggi la prima recensione </button>
+</center>
 
 
 </section>
