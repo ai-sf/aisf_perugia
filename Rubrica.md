@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Helios/
+permalink: /Rubrica/
 long_title: Rubrica
 img: Hel
 description: Il Periodico HELIOS realizzato dal comitato locale AISF di Perugia
