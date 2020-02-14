@@ -5,7 +5,8 @@ long_title: Rubrica
 img: Hel
 description: Il Periodico HELIOS realizzato dal comitato locale AISF di Perugia
 ---
-
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<center>
 <center><h2><b>Recensioni </b></h2>
 <h7><b>by AISF Bari & AISF Perugia </b></h7>
 </center>
@@ -29,4 +30,4 @@ mensilmente uscirà una recensione su un libro scientifico e di divulgazione...
 </center>
 
 </section>
-<button> <a href="/perugia/ROOT"> Corso ROOT 
+<button> <a href="/perugia/ROOT"> Corso ROOT
