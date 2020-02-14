@@ -18,7 +18,6 @@ description: Il Periodico HELIOS realizzato dal comitato locale AISF di Perugia
 </center>
 </figure>
 
-<section>
 
 <br>
 L'iniziativa parte dal progetto di Book crossing di AISF Bari ...
@@ -29,5 +28,5 @@ mensilmente uscirà una recensione su un libro scientifico e di divulgazione...
 <button> <type="button"> <a href="/perugia/ROOT"> Leggi la prima recensione </button>
 </center>
 
-</section>
+
 <button> <a href="/perugia/ROOT"> Corso ROOT
