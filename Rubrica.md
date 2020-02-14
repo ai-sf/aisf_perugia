@@ -28,5 +28,7 @@ mensilmente uscirà una recensione su un libro scientifico e di divulgazione...
 <button> <type="button"> <a href="/perugia/ROOT"> Leggi la prima recensione </button>
 </center>
 
+<button> <type="button"> <a href="/perugia/ROOT"> Corso ROOT </button>
+
 
 </section>
