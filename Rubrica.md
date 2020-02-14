@@ -24,7 +24,8 @@ L'iniziativa parte dal progetto di Book crossing di AISF Bari ...
 mensilmente uscirà una recensione su un libro scientifico e di divulgazione...
 <br>Gli articoli di Helios sono disponibili in free download:<br>
 
-<a href="/perugia/Download">Leggi la prima recensione</a>&nbsp; &nbsp;
+<center>
+<a href="/perugia/Download">Leggi la prima recensione</a>&nbsp; &nbsp;</center>
 
 
 </section>
