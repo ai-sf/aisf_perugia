@@ -17,7 +17,7 @@
         <a href="#" data-activates="nav2" class="button-collapse.show "><i class="material-icons">menu</i></a>
         <a id="logo-container" href="{{ site.url }}/index.html" class="brand-logo">{{ site.data.generic.title }}</a>
 
-        <ul id="nav2" class="side-nav">
+        <ul id="nav2" class="right hide-on-med-and-down">
         {% for item in include.nav %}
                 {% if item.subitems %}
                 <li class="no-padding">
