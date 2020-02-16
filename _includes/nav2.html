@@ -18,8 +18,7 @@
         <a id="logo-container" href="{{ site.url }}/index.html" class="brand-logo">{{ site.data.generic.title }}</a>
 
         <ul id="nav2" class="side-nav">
-            <li class="logo"><a id="mobile-logo-container" href="{{ site.url }}"><object id="front-page-logo" type="image/png" style="width:64px" data="{{ site.url }}/img/logo.png">Your browser does not support PNG</object></a></li>
-            {% for item in include.nav %}
+        {% for item in include.nav %}
                 {% if item.subitems %}
                 <li class="no-padding">
                 <ul class="collapsible collapsible-accordion">
