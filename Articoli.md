@@ -85,12 +85,11 @@ body {
     </li>
 
     <li>
-    <img src="/perugia/ImgSlideShow/ams0.jpg" alt="Notebook" style="width:100%;">
+    <img src="/perugia/ImgSlideShow/rivelatori.jpg" alt="Notebook" style="width:100%;">
       <button class="btn"> <a href="/perugia/ABSTRACT/amsABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
     <div class="content">
       <h6>Rivelatori di Particelle</h6>
-      <p>AMS-02<br>
-      Alpha Magnetic Spectrometer<br>
+      <p>Trigger<br>
       Samuele Giuli e Alessandro Pascolini  </p>
     </div>
     </li>
