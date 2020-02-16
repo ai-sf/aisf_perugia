@@ -95,17 +95,16 @@ body {
     </li>
 
 
-
-        <li>
-          <img src="/perugia/ImgSlideShow/rivelatori.jpg">
-            <button class="btn"> <a href="/perugia/ABSTRACT/triggerABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
-          <div class="caption left-align">
-
-          <p class="light grey-text text-lighten-3"><h3><b>Rivelatori di Particelle</b></h3></p>
-          </div>
-        </li>
-
-
+    <li>
+    <img src="/perugia/ImgSlideShow/rivelatori.jpg" alt="Notebook" style="width:100%;">
+      <button class="btn"> <a href="/perugia/ABSTRACT/amsABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
+    <div class="content">
+      <h6>Fisica delle Alte Energie</h6>
+      <p>NA62<br>
+      <p>L'esperimento NA62 al CERN<br>
+      Francesco Brizioli </p>
+    </div>
+    </li>
 
         <li>
           <img src="/perugia/ImgSlideShow/alteenergie.jpg">
