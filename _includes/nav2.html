@@ -20,9 +20,23 @@
           {% for item in include.nav %}
           {% if item.subitems %}
           <li>
-            <a class="dropdown-button" href="{{ site.url }}/{{ item.url }}" data-activates="dropdown-{{ item.slug }}">{{ item.text }}<i class="material-icons right">arrow_drop_down</i></a>
+              <a
+              class="dropdown-button"
+              data-activates="dropdown-{{ item.slug }}"
+                 {% if item.url contains "http://" %}
+                    href="{{ item.url }}"
+                 {% else %}
+                    href="{{ site.url }}/{{ item.url }}"
+                 {% endif %}
+                 >
+                  {% if item.url == navurl %}
+                      <b>{{ item.text }}</b>
+                  {% else %}
+                      {{ item.text }}
+                  {% endif %}
+                  <i class="material-icons right">arrow_drop_down</i>
+              </a>
           </li>
-      
             {% endif %}
         {% endfor %}
         </ul>
