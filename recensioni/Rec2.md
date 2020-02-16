@@ -12,12 +12,12 @@ description: Prima recensione
   box-sizing: border-box;
 }
 
-/* Create three equal columns that floats next to each other */
+
 .column {
   float: left;
 
   padding: 10px;
-  /*height: 300px;  Should be removed. Only for demonstration */
+
 }
 .left {
   width: 75%;
