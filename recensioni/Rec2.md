@@ -50,7 +50,7 @@ Rizzoli, Milano, 2019,<br> -->
 
 <center><h3> <b>AISF Recensioni</b></h3>
 
-<button> <a href="/perugia"> Scopri AISF Perugia ROOT </a></button></center>
+<button> <a href="/perugia"> Scopri AISF Perugia  </a></button></center>
 
 
 
