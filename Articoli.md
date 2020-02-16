@@ -73,6 +73,15 @@ body {
 <div class="section">
   <div class="slider" id="foto">
     <ul class="slides">
+    <li>
+    <img src="/perugia/Slideshow/caffe5.png" alt="Notebook" style="width:100%;">
+    <div class="content">
+      <h6>Biofisica</h6>
+      <p>Caffè Scientifico: 27 Novembre 2019<br>
+      Biofisica: Nano-Sequenze di DNA<br>
+      Prof. Paciaroni  & Dott.ssa Comez </p>
+    </div>
+    </li>
         <li>
           <img src="/perugia/ImmaginiAbstract/ams02ABS.png">
           <button class="btn"> <a href="/perugia/ABSTRACT/amsABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
