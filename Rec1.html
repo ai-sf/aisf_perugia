@@ -6,19 +6,25 @@ img: Hel
 description: Prima recensione
 ---
 <head>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {
   box-sizing: border-box;
 }
 
-/* Create three equal columns that floats next to each other */
+/* Create two equal columns that floats next to each other */
 .column {
   float: left;
+  width: 50%;
   padding: 10px;
-  /*height: 300px;  Should be removed. Only for demonstration */
+   /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 .left {
   width: 70%;
@@ -27,25 +33,12 @@ description: Prima recensione
 .right {
   width: 30%;
 }
-
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
 .newspaper {
   column-count: 1;
 }
 
 </style>
 </head>
-
-
-
-
 
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
