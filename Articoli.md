@@ -84,28 +84,18 @@ body {
     </div>
     </li>
 
-
     <li>
-    <img src="/perugia/Slideshow/caffe5.png" alt="Notebook" style="width:100%;">
+    <img src="/perugia/ImgSlideShow/ams0.jpg" alt="Notebook" style="width:100%;">
       <button class="btn"> <a href="/perugia/ABSTRACT/amsABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
     <div class="content">
-      <h6>Biofisica55555</h6>
-      <p>Caffè Scientifico: 27 Novembre 2019<br>
-      Biofisica: Nano-Sequenze di DNA<br>
-      Prof. Paciaroni  & Dott.ssa Comez </p>
+      <h6>Rivelatori di Particelle</h6>
+      <p>AMS-02<br>
+      Alpha Magnetic Spectrometer<br>
+      Samuele Giuli e Alessandro Pascolini  </p>
     </div>
     </li>
 
 
-
-        <li>
-          <img src="/perugia/ImmaginiAbstract/ams02ABS.png">
-          <button class="btn"> <a href="/perugia/ABSTRACT/amsABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
-          <div class="caption left-align">
-          <p class="light grey-text text-lighten-3"><h3><b>Astroparticelle</b></h3></p>
-          </div>
-
-        </li>
 
         <li>
           <img src="/perugia/ImgSlideShow/rivelatori.jpg">
