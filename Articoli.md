@@ -37,6 +37,36 @@ description: Leggi e Scarica gli articoli delle prime due edizioni di Helios
 .container .btn:hover {
   background-color: blue;
 }
+
+
+
+{
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  font-size: 13px;
+}
+
+.container {
+  position: relative;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.container img {vertical-align: middle;}
+
+.container .content {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgb(0, 0, 0, 0.8);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 15px;
+}
+
 </style>
 
 <div class="container">
