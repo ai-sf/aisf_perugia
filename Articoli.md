@@ -24,7 +24,7 @@ description: Leggi e Scarica gli articoli delle prime due edizioni di Helios
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
-  background-color: #0FF5D9;
+  background-color: #F10B27;
   color: white;
   font-size: 16px;
   padding: 2px 12px;
