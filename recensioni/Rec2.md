@@ -48,9 +48,9 @@ description: Prima recensione
 di David J.Hand<br>
 Rizzoli, Milano, 2019,<br> -->
 
-<center><h3> <b>AISF Recensioni</b></h3></center>
+<center><h3> <b>AISF Recensioni</b></h3>
 
-<button> <type="button"> <a href="/perugia"> Scopri AISF Perugia ROOT </button>
+<button> <type="button"> <a href="/perugia"> Scopri AISF Perugia ROOT </button></center>
 
 
 
