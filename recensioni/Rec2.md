@@ -48,7 +48,7 @@ description: Prima recensione
 di David J.Hand<br>
 Rizzoli, Milano, 2019,<br> -->
 
-<center><h3> <b>AISF Recensioni</b></h3></center>
+<center><h3> <b>AISF Recensioni 2.0</b></h3></center>
 
 
 
