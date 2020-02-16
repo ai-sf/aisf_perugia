@@ -15,7 +15,7 @@
         <a href="#" data-activates="nav-mobile" class="button-collapse hide-on-large-only"><i class="material-icons">menu</i></a>
         <a id="logo-container" href="{{ site.url }}/index.html" class="brand-logo">{{ site.data.generic.title }}</a>
 
-        <ul id ="nav-mobile">
+        <ul id ="nav-mobile" class="left hide-on-med-and-down">
           {% for item in include.nav %}
           {% if item.subitems %}
           <li>
