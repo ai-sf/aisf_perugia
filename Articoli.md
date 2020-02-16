@@ -74,7 +74,7 @@ body {
   <div class="slider" id="foto">
     <ul class="slides">
     <li>
-    <img src="/perugia/ImgSlideShow/ams0.jpg" alt="Notebook" style="width:100%;">
+    <img src="/perugia/ImgSlideShow/ams0.jpeg" alt="Notebook" style="width:100%;">
       <button class="btn"> <a href="/perugia/ABSTRACT/amsABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
     <div class="content">
       <h6>Astroparticelle</h6>
