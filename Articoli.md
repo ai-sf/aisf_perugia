@@ -96,7 +96,7 @@ body {
 
 
     <li>
-    <img src="/perugia/na62/Forces.png" alt="Notebook" style="width:100%;">
+    <img src="/perugia/na62/image1.png" alt="Notebook" style="width:100%;">
       <button class="btn"> <a href="/perugia/ABSTRACT/na62ABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
     <div class="content">
       <h6>Fisica delle Alte Energie</h6>
