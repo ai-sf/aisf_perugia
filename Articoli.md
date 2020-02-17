@@ -107,7 +107,7 @@ body {
     </li>
 
     <li>
-    <img src="/perugia/na62/image3.png" alt="Notebook" style="width:100%;">
+    <img src="/perugia/ImgSlideShow/reti.png" alt="Notebook" style="width:100%;">
       <button class="btn"> <a href="/perugia/ABSTRACT/retiABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
     <div class="content">
       <h6>Reti Neurali</h6>
