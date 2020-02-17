@@ -111,7 +111,7 @@ body {
       <button class="btn"> <a href="/perugia/ABSTRACT/retiABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
     <div class="content">
       <h6>Reti Neurali</h6>
-      Andrea Lo Sasso</p>
+      Andrea Lo Sasso
     </div>
     </li>
 
