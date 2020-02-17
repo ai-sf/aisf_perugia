@@ -70,8 +70,9 @@ body {
 </style>
 
 
-<h4>Gli Articoli di Helios</h4>
+<center><h4>Gli Articoli di Helios</h4>
 <h7>una selezione di articoli dal periodico di AISF Perugia da leggere e scaricare</h7>
+</center>
 
 <div class="container">
 <div class="section">
