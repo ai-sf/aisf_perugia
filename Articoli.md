@@ -96,11 +96,11 @@ body {
 
 
     <li>
-    <img src="/perugia/na62/image3.png" alt="Notebook" style="width:80%;">
+    <img src="/perugia/na62/Forces.png" alt="Notebook" style="width:100%;">
       <button class="btn"> <a href="/perugia/ABSTRACT/na62ABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
     <div class="content">
       <h6>Fisica delle Alte Energie</h6>
-      <p>NA62</p><br>
+      <p>NA62</p>
       <p>L'esperimento NA62 al CERN<br>
       Francesco Brizioli </p>
     </div>
@@ -135,8 +135,6 @@ body {
       Lorenzo Papini </p>
     </div>
     </li>
-
-
 
     </ul>
   </div>
