@@ -86,7 +86,7 @@ body {
 
     <li>
     <img src="/perugia/ImgSlideShow/rivelatori.jpg" alt="Notebook" style="width:100%;">
-      <button class="btn"> <a href="/perugia/ABSTRACT/amsABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
+      <button class="btn"> <a href="/perugia/ABSTRACT/triggerABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
     <div class="content">
       <h6>Rivelatori di Particelle</h6>
       <p>Trigger<br>
@@ -97,7 +97,7 @@ body {
 
     <li>
     <img src="/perugia/na62/image3.png" alt="Notebook" style="width:100%;">
-      <button class="btn"> <a href="/perugia/ABSTRACT/amsABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
+      <button class="btn"> <a href="/perugia/ABSTRACT/na62ABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
     <div class="content">
       <h6>Fisica delle Alte Energie</h6>
       <p>NA62<br>
@@ -106,31 +106,37 @@ body {
     </div>
     </li>
 
-        <li>
-          <img src="/perugia/ImgSlideShow/alteenergie.jpg">
-            <button class="btn"> <a href="/perugia/ABSTRACT/na62ABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
-          <div class="caption left-align">
-          <p class="light grey-text text-lighten-3"><h3><font style="color:rgb(252, 252, 252);"><b>Fisica delle Alte Energie</b></font></h3></p>
-          </div>
-        </li>
+    <li>
+    <img src="/perugia/na62/image3.png" alt="Notebook" style="width:100%;">
+      <button class="btn"> <a href="/perugia/ABSTRACT/retiABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
+    <div class="content">
+      <h6>Reti Neurali</h6>
+      Andrea Lo Sasso</p>
+    </div>
+    </li>
 
 
-        <li>
-          <img src="/perugia/ImgSlideShow/reti.jpg">
-            <button class="btn"> <a href="/perugia/ABSTRACT/retiABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
-          <div class="caption left-align">
-          <p class="light grey-text text-lighten-3"><h3><b>Reti Neurali</b></h3></p>
-          </div>
-        </li>
+    <li>
+    <img src="/perugia/na62/image3.png" alt="Notebook" style="width:100%;">
+      <button class="btn"> <a href="/perugia/ABSTRACT/cernABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
+    <div class="content">
+      <h6>CERN</h6>
+      <p>Accelerating Science<br>
+      Matteo Magherini  </p>
+    </div>
+    </li>
 
+    <li>
+    <img src="/perugia/na62/image3.png" alt="Notebook" style="width:100%;">
+      <button class="btn"> <a href="/perugia/ABSTRACT/na62ABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
+    <div class="content">
+      <h6>Fisica delle Alte Energie</h6>
+      <p>NA62<br>
+      <p>L'esperimento NA62 al CERN<br>
+      Francesco Brizioli </p>
+    </div>
+    </li>
 
-        <li>
-          <img src="/perugia/ImgSlideShow/cern.jpg">
-          <button class="btn"> <a href="/perugia/ABSTRACT/cernABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
-          <div class="caption left-align">
-          <p class="light grey-text text-lighten-3"><h2><b>CERN: <br> <h6>Accelerating Science</h6></b></h2></p>
-          </div>
-        </li>
 
         <li>
           <img src="/perugia/ImgSlideShow/stringhe.jpg">
