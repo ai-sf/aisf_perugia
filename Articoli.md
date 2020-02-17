@@ -117,7 +117,7 @@ body {
 
 
     <li>
-    <img src="/perugia/ImgSlideShow/cern.jpg" alt="Notebook" style="width:100%;">
+    <img src="/perugia/ImgSlideShow/cern.png" alt="Notebook" style="width:100%;">
       <button class="btn"> <a href="/perugia/ABSTRACT/cernABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
     <div class="content">
       <h6>CERN</h6>
