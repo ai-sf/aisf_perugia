@@ -137,13 +137,6 @@ body {
     </li>
 
 
-        <li>
-          <img src="/perugia/ImgSlideShow/stringhe.jpg">
-            <button class="btn"> <a href="/perugia/ABSTRACT/stringheABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
-          <div class="caption left-align">
-          <p class="light grey-text text-lighten-3"><h3><b>Teoria delle Stringhe</b></h3></p>
-          </div>
-        </li>
 
     </ul>
   </div>
