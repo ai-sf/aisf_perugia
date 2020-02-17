@@ -100,8 +100,8 @@ body {
       <button class="btn"> <a href="/perugia/ABSTRACT/na62ABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
     <div class="content">
       <h6>Fisica delle Alte Energie</h6>
-      <p>NA62</p>
-      <p>L'esperimento NA62 al CERN<br>
+      <p>NA62<br>
+      L'esperimento NA62 al CERN<br>
       Francesco Brizioli </p>
     </div>
     </li>
