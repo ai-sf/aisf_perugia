@@ -43,7 +43,7 @@ body {
 <center>
 
 <center>
-    <img src="/perugia/ImgSlideShow/Arc.png" alt="centered image" style="max-width:30%"
+    <img src="/perugia/ImgSlideShow/Arc.png" alt="centered image" style="max-width:25%"
     height="auto" width="auto" class="responsive" >
 </center>
 <h6><b>Tutti gli eventi di AISF Perugia 2019/2020</b></h6><br>
