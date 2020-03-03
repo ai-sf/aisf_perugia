@@ -13,11 +13,11 @@ description: Keep calm and quantize Gravity!
 <section>
  <figure>
 <center>
-    <img src="/perugia/ImmaginiAbstract/ams02ABS.png" alt="centered image" style="max-width:100%"
+    <img src="/perugia/ImmaginiAbstract/quantumABS.png" alt="centered image" style="max-width:100%"
     height="auto" width="600" class="responsive" >
 </center>
 <center>
-<figcaption>  <b><em>L’Alpha Magnetic Spectrometer AMS-02 </em></b> </figcaption>
+<figcaption>  <b><em>em></b> </figcaption>
 </center>
 </figure>
  <section>
