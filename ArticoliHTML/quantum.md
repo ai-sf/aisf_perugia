@@ -8,6 +8,11 @@ permalink: /ArticoliHTML/quantum/
 <center>
  <h2>Keep calm and quantize Gravity!</h2>
 <h6 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-7"><em> A cura di Salvatore Samuele Sirletti, 3 Marzo 2020 </em></h6><br>
+<div class="subheading">
+  <a href="mailto:salvatoresamuele.sirletti@gmail.com">Salvatore Samuele Sirletti</a>
+  &nbsp; <i class="fa fa-envelope-square fa-2x"></i>
+</div>
+
  <h3>Un’introduzione alla Cosmologia Quantistica: risultati e prospettive.</h3>
  <br> </center>
 
