@@ -35,7 +35,7 @@ Qual è lo scoglio più grande da superare per una corretta quantizzazione della
 
 Nel <b>formulazione hamiltoniana della Gravità di Arnowitt-Deser-Misner (ADM)</b>, le famose equazioni di campo di Einstein,
 \begin{equation}
-R_{\mu\nu} - \frac{1}{2}g_{\mu\nu} R = 8\pi G T_{\mu\nu},
+R_{\mu\nu} - \frac{1}{2}g_{\mu\nu} R = 8\pi G T_{\mu\nu}, &nbsp; &nbsp;&nbsp;  (1)
 \label{campo}
 \end{equation}
 una volta quantizzate, assumono la forma di un’equazione di Schr&#246;dinger del tipo
@@ -52,7 +52,7 @@ In Cosmologia Quantistica l’Universo emergente, è dunque visto tramite una fu
 \displaystyle   \Bigl (\frac{\dot{a}}{a} \Bigr )^2 =  \frac{8}{3}\pi G \rho -\frac{k}{a^2} \\  \\ \displaystyle \dot{\rho} =- \frac{3 \dot{a}}{a} (\rho + p) \\  \\ \displaystyle \frac{\ddot{a}}{a} = -\frac{4}{3} \pi G (\rho +3p)
 \end{cases} ,
 \end{equation}
-che non sono altro che le equazioni di campo \eqref{campo} scritte in una forma particolare, dove \( a \) è il fattore di scala, in pratica quello che regola la dimensione dell'Universo. Supponiamo che \( k = 1 \) si ha un Universo con una geometria globalmente sferica e quindi il fattore di scala si comprende essere null'altro che il raggio stesso della sfera, dell'Universo; porsi in tale modello cosmologico, detto <b>Universo di Friedmann-Robertson-Lamaitre-Walker (FRLW)</b>, vuol dire fondamentalmente porsi quindi in un minisuperspazio di dimensione 1. L'equazione che regola l'evoluzione dell'Universo è chiaramente la prima, che è quella che ci interessa quantizzare. Secondo il ragionamento sulla densità di energia di falso vuoto allora avremo una  \( \rho= \rho_{vacuum} \) ed è possibile impostare la seguente equazione di stato
+che non sono altro che le equazioni di campo <b>[1]</b> scritte in una forma particolare, dove \( a \) è il fattore di scala, in pratica quello che regola la dimensione dell'Universo. Supponiamo che \( k = 1 \) si ha un Universo con una geometria globalmente sferica e quindi il fattore di scala si comprende essere null'altro che il raggio stesso della sfera, dell'Universo; porsi in tale modello cosmologico, detto <b>Universo di Friedmann-Robertson-Lamaitre-Walker (FRLW)</b>, vuol dire fondamentalmente porsi quindi in un minisuperspazio di dimensione 1. L'equazione che regola l'evoluzione dell'Universo è chiaramente la prima, che è quella che ci interessa quantizzare. Secondo il ragionamento sulla densità di energia di falso vuoto allora avremo una  \( \rho= \rho_{vacuum} \) ed è possibile impostare la seguente equazione di stato
 \begin{equation}
 p(\rho) = -\rho_{vacuum}.
 \end{equation}
