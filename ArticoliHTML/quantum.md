@@ -118,4 +118,3 @@ l'osservatore, aprendo la scatola determina poi quale sia lo stato effettivo del
 <center><h3> Bibliografia</h3></center>
 </section>
 <b>[1] <a href="http://www.fisica.unina.it/documents/12375590/13725484/2767_SirlettiSS_22-11-2018.pdf/02f149a4-7724-4825-8f78-2c08ae5bea93"> Un’introduzione alla Cosmologia Quantistica: risultati e prospettive.</a></b><br><br>
-</html>
