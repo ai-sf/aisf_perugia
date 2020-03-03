@@ -115,6 +115,6 @@ In questo breve articolo si sono volute esporre le idee più basilari, ma allo s
 
 
 <section>
-<center><h3> Bibliografia</h3></center>
+<center><h3> Riferimenti</h3></center>
 </section>
 [1] <a href="http://www.fisica.unina.it/documents/12375590/13725484/2767_SirlettiSS_22-11-2018.pdf/02f149a4-7724-4825-8f78-2c08ae5bea93"> Un’introduzione alla Cosmologia Quantistica: risultati e prospettive.</a> <br><br>
