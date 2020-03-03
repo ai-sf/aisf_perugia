@@ -141,6 +141,17 @@ body {
     </div>
     </li>
 
+
+    <li>
+    <img src="/perugia/ImgSlideShow/quantumShow.png" alt="Notebook" style="width:100%;">
+      <button class="btn"> <a href="/perugia/ABSTRACT/quantumABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
+    <div class="content">
+      <h6>Gravità Quantistica</h6>
+      <p> Un’introduzione alla Cosmologia Quantistica <br>
+      Salvatore Samuele Sirletti</p>
+    </div>
+    </li>
+
     </ul>
   </div>
   </div>
