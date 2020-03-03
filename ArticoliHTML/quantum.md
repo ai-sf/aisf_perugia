@@ -114,6 +114,12 @@ In questo contesto un primo problema che sorge spontaneo riguarda l'interpretazi
 l'osservatore, aprendo la scatola determina poi quale sia lo stato effettivo del gatto, se esso è vivo o è morto; secondo invece l'interpretazione a molti mondi qui l'osservatore, nell'atto di apertura della scatola, fa scindere l'Universo in due distinti dove in uno il risultato della misura è che il gatto è vivo, nell'altro che il gatto è morto. In tale ultima interpretazione l'osservatore non è esterno al sistema ma fa esso stesso parte di questo e ed evolvono modificandosi assieme. Anche se per anni bistrattata data la sua formulazione che a prima vista appare fantascientifica, tale interpretazione è stata ripresa da molti studiosi; si è dimostrato inoltre come le due interpretazioni, nel limite di un Universo molto grande, possono essere confrontabili e quindi coincidenti.
 
 
+<center><h3> Conclusioni </h3></center><br>
+
+In questo breve articolo si sono volute esporre le idee più basilari, ma allo stesso tempo anche più affascinanti, della Gravità Quantistica, in particolare della Cosmologia Quantistica che tenta, evitando la singolarità iniziale data dalle equazioni della Relatività Generale, di fornire una spiegazione in termini quantistici della nascita del nostro Universo. Ovviamente la teoria è molto più avanzata del toy model esposto, ma quest'ultimo risulta non solo un modellino relativamente semplice da sviluppare, ma che possiede la maggior parte delle idee alla base della teoria e inoltre si presta molto bene a possibili estensioni. Nonostante le difficoltà radicate nella teoria, che scalfiscono la base della fisica contemporanea, la Gravità Quantistica è una teoria che risulta tra le più approfondite e studiate in epoca moderna, riflessione del sogno segreto di ogni fisico teorico di ottenere una sola e unica equazione fondamentale che riesca a descrivere tutta la fisica. Al lettore interessato agli argomenti esposti non resta che augurargli un bel <b>Keep calm and quantize Gravity!</b>
+
+
+
 <section>
 <center><h3> Bibliografia</h3></center>
 </section>
