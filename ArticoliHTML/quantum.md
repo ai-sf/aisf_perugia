@@ -72,7 +72,7 @@ e tale Ã¨ proprio una barriera di potenziale curva tra \( a=0 \) e \( a=a_0\). Ã
 <br>
 <figure>
 <center>
-    <img src="/perugia/Quantum/image1.png" style="max-width:100%"
+    <img src="/perugia/QUANTUM/image1.png" style="max-width:100%"
     height="auto" width="400" class="responsive">
 </center>
 <center>
@@ -91,7 +91,7 @@ l'osservatore, aprendo la scatola determina poi quale sia lo stato effettivo del
 <br><br>
 <figure>
 <center>
-    <img src="/perugia/Quantum/image2.png" style="max-width:100%"
+    <img src="/perugia/QUANTUM/image2.png" style="max-width:100%"
     height="auto" width="400" class="responsive">
 </center>
 <center>
