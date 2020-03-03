@@ -17,7 +17,7 @@ description: Keep calm and quantize Gravity!
     height="auto" width="600" class="responsive" >
 </center>
 <center>
-<figcaption>  <b><em>Rappresentazione artistica dell'interpretazione a molti mondi.<em></b> </figcaption>
+<figcaption>  <b><em>Rappresentazione artistica dell'interpretazione a molti mondi.</em></b> </figcaption>
 </center>
 </figure>
  <section>
