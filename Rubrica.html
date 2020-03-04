@@ -7,20 +7,13 @@ description: Il Periodico HELIOS realizzato dal comitato locale AISF di Perugia
 ---
 
 <head>
-  .video{
-  position: relative;
-  padding-top:30px;
-  padding-bottom:56.25%;
-  height:0;
-  overflow:hidden;
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+  video {
+    width: 100%;
+    height: auto;
   }
-  .video iframe{
-position:absolute;
-top:0;
-left: 0;
-width:100%;
-height:100%;
-}
+  </style>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 </head>
@@ -38,10 +31,9 @@ height="auto" width="auto" class="responsive" ><br>
 
 <br>
 <center>
-  ssssss
-  <div class="video">
-    <iframe width="560" height="315" src="/perugia/Slideshow/books/AISF.mp4" frameborder="0"></iframe>
-</div>
+  <video width="400" controls>
+    <source src="/perugia/Slideshow/books/AISF.mp4" type="video/mp4">
+  </video>
 </center>
 <br>
 <center>
