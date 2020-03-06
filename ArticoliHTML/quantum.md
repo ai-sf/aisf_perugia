@@ -11,11 +11,11 @@ permalink: /ArticoliHTML/quantum/
 
 }
 .left {
-  width: 75%;
+  width: 25%;
 }
 
 .right {
-  width: 25%;
+  width: 75%;
 }
 </style>
 </head>
