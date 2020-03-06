@@ -145,10 +145,6 @@ In questo breve articolo si sono volute esporre le idee più basilari, ma allo s
   <div class="column right">
 
   </div>
-
-
-
       <b>Salvatore Samuele Sirletti</b> è studente magistrale in Fisica alla Federico II di Napoli, si occupa di Cosmologia Teorica, Gravità Quantistica e collabora con un gruppo di ricerca su aspetti teorici in Swarm Robotics. Nel suo tempo libero è dedito ai videogiochi (il suo vero amore) e alla lettura, a meno che non stia pianificando una nuova avventura in giro per il mondo.
 
 </div>
-  
