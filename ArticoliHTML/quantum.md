@@ -120,7 +120,7 @@ In questo breve articolo si sono volute esporre le idee più basilari, ma allo s
 [1] <a href="http://www.fisica.unina.it/documents/12375590/13725484/2767_SirlettiSS_22-11-2018.pdf/02f149a4-7724-4825-8f78-2c08ae5bea93"> Un’introduzione alla Cosmologia Quantistica: risultati e prospettive.</a> <br><br>
 
 
-    <img src="/perugia/QUANTUM/AUTORE.png" style="max-width:100%"
+    <img src="/perugia/QUANTUM/AUTORE.png" style="max-width:10%"
     height="auto" width="400" class="responsive">
 
 
