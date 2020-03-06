@@ -136,8 +136,19 @@ In questo breve articolo si sono volute esporre le idee più basilari, ma allo s
 [1] <a href="http://www.fisica.unina.it/documents/12375590/13725484/2767_SirlettiSS_22-11-2018.pdf/02f149a4-7724-4825-8f78-2c08ae5bea93"> Un’introduzione alla Cosmologia Quantistica: risultati e prospettive.</a> <br><br>
 
 
-    <img src="/perugia/QUANTUM/AUTORE.png" style="max-width:10%"
-    height="auto" width="400" class="responsive">
+
+<div class="row">
+  <div class="column left">
+  <img src="/perugia/QUANTUM/AUTORE.png" style="max-width:10%"
+  height="auto" width="400" class="responsive">
+</div>
+  <div class="column right">
+
+  </div>
 
 
-    <b>Salvatore Samuele Sirletti</b> è studente magistrale in Fisica alla Federico II di Napoli, si occupa di Cosmologia Teorica, Gravità Quantistica e collabora con un gruppo di ricerca su aspetti teorici in Swarm Robotics. Nel suo tempo libero è dedito ai videogiochi (il suo vero amore) e alla lettura, a meno che non stia pianificando una nuova avventura in giro per il mondo.
+
+      <b>Salvatore Samuele Sirletti</b> è studente magistrale in Fisica alla Federico II di Napoli, si occupa di Cosmologia Teorica, Gravità Quantistica e collabora con un gruppo di ricerca su aspetti teorici in Swarm Robotics. Nel suo tempo libero è dedito ai videogiochi (il suo vero amore) e alla lettura, a meno che non stia pianificando una nuova avventura in giro per il mondo.
+
+</div>
+  
