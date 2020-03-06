@@ -2,7 +2,23 @@
 layout: page
 permalink: /ArticoliHTML/quantum/
 ---
+<head>
+<style>
+.column {
+  float: left;
 
+  padding: 10px;
+
+}
+.left {
+  width: 75%;
+}
+
+.right {
+  width: 25%;
+}
+</style>
+</head>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
 
 <center>
