@@ -74,6 +74,14 @@ body {
 <h6>una selezione di articoli dal periodico di AISF Perugia da leggere e scaricare</h6>
 </center>
 
+<center><h4><b> Scopri Helios</b></h4></center>
+        <a href="/perugia/Helios">
+          <span class="fa-stack fa-2x">
+            <i class="fa fa-circle fa-stack-2x text-primary" style="color:rgb(236, 102, 15  )"></i>
+            <i class="fa fa-map-marker fa-stack-1x fa-inverse" aria-hidden="true"></i>
+          </span>&nbsp; &nbsp;
+        </a>
+
 <div class="container">
 <div class="section">
   <div class="slider" id="foto">
