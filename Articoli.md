@@ -71,7 +71,7 @@ body {
 
 
 <center><h4>Gli Articoli di Helios</h4>
-<h7>una selezione di articoli dal periodico di AISF Perugia da leggere e scaricare</h7>
+<h6>una selezione di articoli dal periodico di AISF Perugia da leggere e scaricare</h6>
 </center>
 
 <div class="container">
