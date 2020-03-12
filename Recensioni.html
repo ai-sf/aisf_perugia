@@ -7,6 +7,26 @@ description: Il Periodico HELIOS realizzato dal comitato locale AISF di Perugia
 ---
 <head>
 <style>
+  .container .btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #F10B27;
+    color: white;
+    font-size: 16px;
+    padding: 2px 12px;
+    border: none;
+    cursor: pointer;
+    border-radius: 6px;
+    text-align: center;
+  }
+
+  .container .btn:hover {
+    background-color: blue;
+  }
+
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto;
@@ -35,7 +55,7 @@ description: Il Periodico HELIOS realizzato dal comitato locale AISF di Perugia
 <div class="grid-container">
   <img class="mySlides" src="/perugia/Slideshow/books/Book2.png" style="height:50%"><br>
   <font color="red">Cattivi Scienziati</font><br>
-  
+  <button class="btn"> <a href="/perugia/ABSTRACT/amsABS" class="btn"><b><font style="color:rgb(252,252,252);">Leggi</font></b></a></button>
 </div>
 
   <div class="grid-item">2</div>
