@@ -80,32 +80,34 @@ description: La rubrica in a Nutshell
 
 </style>
 
+<script>
+
+
+  $(window).load(function () {
+      $(".trigger_popup_fricc").click(function(){
+         $('.hover_bkgr_fricc').show();
+      });
+      $('.hover_bkgr_fricc').click(function(){
+          $('.hover_bkgr_fricc').hide();
+      });
+      $('.popupCloseButton').click(function(){
+          $('.hover_bkgr_fricc').hide();
+      });
+  });
+
+
+  </script>
+
   </head>
 
 
 
 
-  <script>
-
-
-    $(window).load(function () {
-        $(".trigger_popup_fricc").click(function(){
-           $('.hover_bkgr_fricc').show();
-        });
-        $('.hover_bkgr_fricc').click(function(){
-            $('.hover_bkgr_fricc').hide();
-        });
-        $('.popupCloseButton').click(function(){
-            $('.hover_bkgr_fricc').hide();
-        });
-    });
-
-
-    </script>
 
 
 
-<a class="trigger_popup_fricc">Click here to show100000000 </a>
+
+<a class="trigger_popup_fricc">Click here to show345678976543456000 </a>
 
 <div class="hover_bkgr_fricc">
     <span class="helper"></span>
