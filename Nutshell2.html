@@ -134,7 +134,16 @@ al lavoro per indagare i misteri più profondi dell'universo. Un documentario ch
   </div>
 </div>
 
-
+<div id="myModal3" class="modal">
+  <!-- Modal content -->
+  <div class="modal-content">
+Film del 2017, scritto e diretto da Valerio Jalongo e distribuito da <b>Officine UBU</b>. Un affascinante viaggio all'interno del Centro Europeo per la Ricerca Nucleare (<b>CERN</b>),
+la più grande macchina costruita dall'uomo. Il luogo dove nel Luglio del 2012 è stato rilevata la particella più sfuggente
+della Fisica contemporanea, il <b>bosone di Higgs</b>, noto come "particella di Dio". La storia, le innovazioni, le scoperte, i prossimi obiettivi e la quotidianità degli 11.000 scienziati da tutto il mondo
+al lavoro per indagare i misteri più profondi dell'universo. Un documentario che mira a comprendere l'intimo ma sfuggente legame tra <b>Scienza</b> e <b>Bellezza</b>.
+  <br><center ><button> <type="button"> <a href="https://www.youtube.com/watch?v=jRFtey_pCE8"> TRAILER </a></button> </center>
+  </div>
+</div>
 
 
 
@@ -152,11 +161,12 @@ al lavoro per indagare i misteri più profondi dell'universo. Un documentario ch
 var modal = document.getElementById("myModal");
 
 var modal2 = document.getElementById("myModal2");
+var modal3 = document.getElementById("myModal3");
 
 // Get the button that opens the modal
 var btn = document.getElementById("m1");
 var btn2 = document.getElementById("m2");
-
+var btn3 = document.getElementById("m3");
 // Get the <span> element that closes the modal
 // When the user clicks the button, open the modal
 btn.onclick = function() {
@@ -166,16 +176,19 @@ btn.onclick = function() {
 btn2.onclick = function() {
   modal2.style.display = "block";
 }
-
+btn3.onclick = function() {
+  modal3.style.display = "block";
+}
 
 
 
 // When the user clicks anywhere outside of the modal, close it
 window.onclick = function(event) {
- if (event.target == modal || event.target == modal2) {
+ if (event.target == modal || event.target == modal2 || event.target == modal3 ) {
   //  if (event.target == modal) {
     modal.style.display = "none";
     modal2.style.display = "none";
+    modal3.style.display = "none";
   }
 }
 </script>
