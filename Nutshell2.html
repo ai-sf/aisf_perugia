@@ -151,6 +151,18 @@ biografico ma un intenso viaggio nella storia del 900' attraverso le tappe di un
   </div>
 </div>
 
+<div id="myModal4" class="modal">
+ <div class="modal-content">
+   <center><b>APOLLO 11</center></b>
+    Film documentario del 2019 di Douglas Miller, Apollo 11 ripropone quasi totalmente solo registrazioni,
+    immagini ed audio originali della missione nel pieno stile documentaristico ma strutturandoli in maniera tale da creare un film.
+<br>
+   Attingendo in maniera attenta al cospicuo materiale audiovisivo di quei giorni, il film fa rivivere a pieno
+    l'esperienza di quei giorni, sia attraverso gli occhi dei protagonisti che degli spettatori dell'epoca con un ritmo
+    sempre più incalzante e coinvolgente, tanto da far immergere  completamente in quegli istanti che hanno fatto la storia.
+  <br><br><center ><button> <type="button"> <a href="https://www.youtube.com/watch?v=tpLrp0SW8yg"> TRAILER </a></button> </center>
+  </div>
+</div>
 
 
 
@@ -165,36 +177,37 @@ biografico ma un intenso viaggio nella storia del 900' attraverso le tappe di un
 <script>
 // Get the modal
 var modal = document.getElementById("myModal");
-
 var modal2 = document.getElementById("myModal2");
-var modal3 = document.getElementById("myModal3");
+var modal3 = document.getElementById("myModal3");var modal3 = document.getElementById("myModal4");
 
 // Get the button that opens the modal
 var btn = document.getElementById("m1");
 var btn2 = document.getElementById("m2");
-var btn3 = document.getElementById("m3");
+var btn3 = document.getElementById("m3");var btn4 = document.getElementById("m4");
 // Get the <span> element that closes the modal
 // When the user clicks the button, open the modal
 btn.onclick = function() {
   modal.style.display = "block";
 }
-
 btn2.onclick = function() {
   modal2.style.display = "block";
 }
 btn3.onclick = function() {
   modal3.style.display = "block";
 }
+btn4.onclick = function() {
+  modal4.style.display = "block";
+}
 
 
 
 // When the user clicks anywhere outside of the modal, close it
 window.onclick = function(event) {
- if (event.target == modal || event.target == modal2 || event.target == modal3 ) {
+ if (event.target == modal || event.target == modal2 || event.target == modal3 || event.target == modal4 ) {
   //  if (event.target == modal) {
     modal.style.display = "none";
     modal2.style.display = "none";
-    modal3.style.display = "none";
+    modal3.style.display = "none";  modal4.style.display = "none";
   }
 }
 </script>
