@@ -216,44 +216,28 @@ il film garantisce una piena immersione negli istanti che hanno segnato la stori
 
 <script>
 // Get the modal
-var modal = document.getElementById("myModal");
+var modal = document.getElementById("myModal"); var modal6 = document.getElementById("myModal6");
 var modal2 = document.getElementById("myModal2"); var modal5 = document.getElementById("myModal5");
 var modal3 = document.getElementById("myModal3");var modal4 = document.getElementById("myModal4");
-var modal6 = document.getElementById("myModal6");
-
 // Get the button that opens the modal
-var btn = document.getElementById("m1");
+var btn = document.getElementById("m1"); var btn6 = document.getElementById("m6");
 var btn2 = document.getElementById("m2"); var btn4 = document.getElementById("m4");
 var btn3 = document.getElementById("m3"); var btn5 = document.getElementById("m5");
-var btn6 = document.getElementById("m6");
 // Get the <span> element that closes the modal
 // When the user clicks the button, open the modal
-btn.onclick = function() {
-  modal.style.display = "block";
-}
-btn2.onclick = function() {
-  modal2.style.display = "block";
-}
-btn3.onclick = function() {
-  modal3.style.display = "block";
-}
-btn4.onclick = function() {
-  modal4.style.display = "block";
-}
-btn5.onclick = function() {
-  modal5.style.display = "block";
-}
-btn6.onclick = function() {
-  modal6.style.display = "block";
-}
+btn.onclick = function() {  modal.style.display = "block";}
+btn2.onclick = function() {modal2.style.display = "block";}
+btn3.onclick = function() {modal3.style.display = "block";}
+btn4.onclick = function() {modal4.style.display = "block";}
+btn5.onclick = function() {modal5.style.display = "block";}
+btn6.onclick = function() {modal6.style.display = "block";}
 // When the user clicks anywhere outside of the modal, close it
 window.onclick = function(event) {
  if (event.target == modal || event.target == modal2 || event.target == modal3 || event.target == modal4 || event.target == modal5
  || event.target == modal6) {
   //  if (event.target == modal) {
-    modal.style.display = "none";
-    modal2.style.display = "none"; modal4.style.display = "none";
-    modal3.style.display = "none";  modal5.style.display = "none"; modal6.style.display = "none";
+    modal.style.display = "none";  modal6.style.display = "none";     modal2.style.display = "none";
+    modal3.style.display = "none";  modal5.style.display = "none";  modal4.style.display = "none";
   }
 }
 </script>
