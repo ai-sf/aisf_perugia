@@ -111,6 +111,9 @@ body {font-family: Arial, Helvetica, sans-serif;}
 <div class="item">  <!-- begin ITEM -->
  <img src="http://ai-sf.it/perugia/Slideshow/movies/genius.png" alt="centered image" style="max-width:75%" height="auto" width="auto" class="responsive"  id="m5" >
 </div>              <!-- end ITEM -->
+<div class="item">  <!-- begin ITEM -->
+ <img src="http://ai-sf.it/perugia/Slideshow/movies/amaldi.png" alt="centered image" style="max-width:75%" height="auto" width="auto" class="responsive"  id="m6" >
+</div>              <!-- end ITEM -->
 <!-- <button id="m1">Open Modal</button> -->
 
 
@@ -188,6 +191,22 @@ il film garantisce una piena immersione negli istanti che hanno segnato la stori
   </div>
 </div>
 
+
+
+<div id="myModal6" class="modal">
+ <div class="modal-content">
+   <center><b>Amaldi : La Scelta</center></b>
+   Una serie prodotta da <b>National Geographic</b> e trasmessa nel 2017, la prima stagione racconta la vita del grande fisico
+   <b>Albert Einstein</b>, magistralmente interpretato dal premio oscar <b>Goeffrey Rush</b>. <br> Una delle figure più importanti e determinanti del 20esimo secolo.
+   Un ritratto dettagliato tanto dal punto di vista accademico quanto umano, della sua persona e di coloro che hanno
+    vissuto attorno a lui, con la riscoperta della figura di Mileva Maric, prima donna a studiare fisica presso il Politecnico
+    di Zurigo e sua prima moglie.
+  <br><br><center ><button> <type="button"> <a href="https://www.youtube.com/watch?v=40yqDWiEr_g"> TRAILER </a></button> </center>
+  </div>
+</div>
+
+
+
 <!-- END BODY-->
 
 
@@ -200,11 +219,13 @@ il film garantisce una piena immersione negli istanti che hanno segnato la stori
 var modal = document.getElementById("myModal");
 var modal2 = document.getElementById("myModal2"); var modal5 = document.getElementById("myModal5");
 var modal3 = document.getElementById("myModal3");var modal4 = document.getElementById("myModal4");
+var modal6 = document.getElementById("myModal6");
 
 // Get the button that opens the modal
 var btn = document.getElementById("m1");
 var btn2 = document.getElementById("m2"); var btn4 = document.getElementById("m4");
 var btn3 = document.getElementById("m3"); var btn5 = document.getElementById("m5");
+var btn6 = document.getElementById("m6");
 // Get the <span> element that closes the modal
 // When the user clicks the button, open the modal
 btn.onclick = function() {
@@ -222,14 +243,17 @@ btn4.onclick = function() {
 btn5.onclick = function() {
   modal5.style.display = "block";
 }
-
+btn6.onclick = function() {
+  modal6.style.display = "block";
+}
 // When the user clicks anywhere outside of the modal, close it
 window.onclick = function(event) {
- if (event.target == modal || event.target == modal2 || event.target == modal3 || event.target == modal4 || event.target == modal5) {
+ if (event.target == modal || event.target == modal2 || event.target == modal3 || event.target == modal4 || event.target == modal5
+ || event.target == modal6) {
   //  if (event.target == modal) {
     modal.style.display = "none";
     modal2.style.display = "none"; modal4.style.display = "none";
-    modal3.style.display = "none";  modal5.style.display = "none";
+    modal3.style.display = "none";  modal5.style.display = "none"; modal6.style.display = "none";
   }
 }
 </script>
