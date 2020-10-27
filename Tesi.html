@@ -8,7 +8,7 @@ description: Le tesi
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-.dropbtn {
+.miodropbtn {
   background-color: #4CAF50;
   color: white;
   padding: 16px;
@@ -16,32 +16,33 @@ description: Le tesi
   border: none;
 }
 
-.dropdown {
+.miodropdown {
   position: relative;
   display: inline-block;
 }
 
-.dropdown-content {
+.miodropdown-content {
   display: none;
   position: absolute;
-  background-color: #f1f1f1;
+  background-color:#f1f1f1;
+  color: black;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
 
-.dropdown-content a {
+.miodropdown-content a {
   color: black;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
 }
 
-.dropdown-content a:hover {background-color: #ddd;}
+.miodropdown-content a:hover {background-color: #ddd;}
 
-.dropdown:hover .dropdown-content {display: block;}
+.miodropdown:hover .miodropdown-content {display: block !important;}
 
-.dropdown:hover .dropbtn {background-color: #C70039;}
+.miodropdown:hover .miodropbtn {background-color: #C70039;}
 </style>
 </head>
 <body>
@@ -49,9 +50,9 @@ description: Le tesi
 <h2>Review Tesi</h2>
 <p>Cerca esmepi di tesi per argomenti.</p>
 
-<div class="dropdown">
-  <button class="dropbtn">Scegli il curriculum</button>
-  <div class="dropdown-content">
+<div class="miodropdown">
+  <button class="miodropbtn">Scegli il curriculum</button>
+  <div class="miodropdown-content">
     <a href="#">Fisica Teorica</a>
     <a href="#">Fisica delle Particelle</a>
     <a href="#">Astrofisica</a>
