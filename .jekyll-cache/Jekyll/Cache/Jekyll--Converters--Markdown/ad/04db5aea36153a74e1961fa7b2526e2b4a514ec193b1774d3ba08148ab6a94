@@ -1,0 +1,164 @@
+I" <<html>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML" async=""></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+<center>
+ <h2>Let's Talk about particle detectors: Trigger </h2>
+<h7 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-7"><em> A cura di Alessandro Pascolini e Samuele Giuli, 20 Maggio 2019 </em></h7><br />
+ <h4>Primo capitolo della rubrica dedicata al complesso mondo dei rivelatori di particelle. </h4>
+ <br /> </center>
+
+
+ Osservare è un verbo che in fisica assume un significato molto importante. Già nel XVII secolo, Galileo Galilei, parlava di come "...nelle dispute di problemi naturali [si dovrebbe cominciare] dalle sensate esperienze e dalle dimostrazioni necessarie..." <b>[1]</b>.<br />
+ Aveva ben chiaro quindi che l'osservazione ("sensate esperienze") era una parte fondamentale del metodo scientifico.<br />
+ La fisica non si è mai allontanata da questo pensiero e, nel secolo passato, ha visto la nascita di una nuova tipologia di strumenti di misura che ci permettono di "osservare" i costituenti dell'universo che sono invisibili all'occhio nudo. Questi strumenti sono chiamati "rivelatori di particelle" e sono nati per studiare la fisica nucleare, una disciplina nata proprio a cavallo fra il XIX e il XX secolo.<br /><br />
+
+
+
+<center><h3> La nascita dei primi rivelatori </h3></center>
+<br />
+È ormai comunemente noto che la materia è composta da atomi che a loro volta sono fatti di particelle più piccole come elettroni e protoni. Sappiamo inoltre che l'universo è popolato da una miriade di altre particelle che, una volta generate, possono avere vite così brevi che è impossibile misurarle direttamente. Le particelle che prendiamo in esame non sono più grandi di qualche femtometro (10<sup>-15</sup>m).<br />
+Per rendere l'idea, se prendessimo il diametro di una mela e la ingrandissimo fino a raggiungere le dimensioni della terra, allora queste particelle avrebbero le dimensioni della mela di partenza. Come riusciamo quindi a rilevare la presenza di queste particelle e come riusciamo a distinguerle? <br />
+Sappiamo che queste particelle sono caratterizzate da proprietà, come massa e carica elettrica, che le contraddistinguono. Ad ogni particella inoltre corrisponde un’antiparticella, identica alla prima, ma con carica opposta.
+Oltre a queste caratteristiche vi sono proprietà cinematiche come momento ed energia, che da sole non differenziano le particelle, ma svolgono un ruolo importante per la loro misura e identificazione.
+È chiaro quindi che per distinguere i vari tipi di particelle sarà necessario misurare solo le loro proprietà intrinseche.
+
+Il primo utilizzo di rivelatore di particelle si deve a Wilhelm Röntgen (Nobel per la fisica 1901) che, alla fine del XIX osservò come una radiazione, che oggi chiamiamo raggi X, prodotta da un tubo di Crookes oscurasse la pellicola di una lastra fotografica, utilizzando quest’ultima proprio come un rivelatore di particelle.
+<br /><br />
+
+Qualche anno dopo Hans Geiger inventò il primo rivelatore di particelle che, come i moderni apparati di rivelazione, restituiva un segnale elettrico al passaggio di una particella carica, il contatore Geiger-Müller, strumento ancora utilizzato per rivelare la presenza di radiazioni ionizzanti e quindi potenzialmente pericolose per l’uomo.
+
+Da quel momento la fisica nucleare vide un’enorme crescita e, parallelamente ad essa, la costruzione di rivelatori di particelle diventò una sfida tecnologica cruciale per la verifica delle nuove teorie nucleari.
+L'invenzione del primo rivelatore di traccia, si deve a Charles Wilson (Nobel per la fisica 1927) che costruì la prima camera a nebbia. Il principio di funzionamento è semplice: quando una particella carica attraversa un vapore sovrasaturo d'alcool o d'acqua, questo viene ionizzato e gli ioni formati diventano centri di condensazione che rendono visibile il percorso della particella carica tramite la formazione di goccioline lungo la traccia. Quello che interessava i fisici era il moto che ogni particella assumeva attraversando un campo magnetico. Le camere a nebbia sono state particolarmente importanti per la scoperta del positrone, antiparticella dell’elettrone, ad opera di Carl Anderson nel 1932. Il positrone ha carica opposta rispetto all’elettrone e all’interno di un campo magnetico si muove in senso contrario come in figura 1. <br /><br />
+Un’evoluzione di questo tipo di rivelatore è la camera a bolle, inventata da Donald Glaser (Nobel per la fisica), a differenza della camera a nebbia questo modello usa un liquido in condizione metastabile<b>(1)</b>, in modo da permetterne l’ebollizione una volta attraversato da una particella carica ionizzante. Per registrare la traccia vengono scattate numerose fotografie in un breve lasso di tempo, il risultato è quello della figura 2.
+
+Negli anni successivi, la nascita di grandi laboratori nazionali (e.g. Fermilab nel '67) ed internazionali (e.g. CERN nel '52) di ricerca in fisica nucleare hanno portato allo sviluppo di numerosi rivelatori e oggi un singolo esperimento in fisica delle particelle può contenere anche una decina di apparati di misura.
+La necessità di utilizzare più rivelatori in un singolo esperimento deriva dall'alta specificità di un singolo rivelatore e dai limiti che otterremmo utilizzandone uno solo. Non esiste infatti un singolo rivelatore che misuri, con sufficiente precisione, tutte le proprietà che identificano una particella, per questo è necessario combinare diversi rivelatori, che effettuino misure indipendenti, per rilevare le caratteristiche interessanti per un esperimento.
+<br /><br />
+
+<div align="center">
+<table cellspacing="2" cellpadding="2" width="600" border="0">
+<tbody>
+<tr>
+<td valign="top" width="300">
+    <img src="/perugia/Trigger/T1.jpg" alt="centered image" style="max-width:100%" height="260" width="300" class="responsive" />
+
+<figcaption>  <b><em>Fig. 1: Produzione di coppia elettrone-positrone. </em></b> </figcaption>
+</td>
+
+
+<td valign="top" width="300"> <center>
+    <img src="/perugia/Trigger/T2.jpg" alt="centered image" style="max-width:100%" height="260" width="300" class="responsive" />
+</center>
+<center>
+<figcaption>  <b><em>Fig. 2: Tracce rilevate con una camera a bolle. </em></b> </figcaption>
+</center></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<br />
+<b>[1]</b> Galileo Galilei - Lettera a madama Cristina di Lorena granduchessa di Toscana - 1610 (fonte:https://it.wikisource.org/wiki/Lettere_(Galileo)/XIV) <br />
+<b>(1)</b> Si mantiene in condizione di equilibrio nel tempo fintanto che non viene fornito al sistema un quantitativo sufficiente di energia che ne perturbi l'equilibrio.<br />
+
+
+
+<section>
+<center><h3> Che cosa sono i Trigger </h3></center>
+</section>
+
+<section>
+<br />
+Questo articolo è il primo di una rubrica, dal nome Let’s talk about Particle Detectors, che introdurrà al mondo dei rivelatori di particelle. I primi apparati di cui parleremo sono i rivelatori che svolgono una funzione di Trigger.
+Negli esperimenti di fisica delle particelle vengono elaborati un gran numero di dati, per questo motivo è importante effettuare una prima scrematura, molto rapida, sulle informazioni raccolte. Gli apparati di trigger svolgono il compito di selezionare gli eventi che hanno una struttura interessante.<br /><br />
+
+Molto spesso questi rivelatori sono composti di due sotto-apparati: scintillatore e tubo fotomoltiplicatore (PMT)<b>[2]</b>.<br />
+Gli scintillatori sono materiali che, al passaggio di particelle cariche e di fotoni, emettono luce a determinate lunghezze d’onda. I requisiti di un buon scintillatore sono:<br />
+- alta efficienza per la conversione Energia-&gt;Luce<br />
+- trasparenza alla sua luce di fluorescenza e frequenza di emissione compatibile con quella rilevabile dal PMT<br />
+- rapidità di emissione (~ns)<br /><br />
+
+Gli scintillatori si dividono principalmente in due tipi:
+organici, i quali hanno una scarsa efficienza ma brevi tempi di emissione;
+inorganici, che generalmente emettono molta luce ma sono più lenti
+
+
+
+<section>
+<center><h3> Scintillatori</h3></center>
+</section>
+<figure>
+<center>
+<img src="/perugia/Trigger/T3.png" alt="centered image" style="max-width:100%" height="auto" width="500" class="responsive" />
+<figcaption>  <b> <em>Fig. 3: Meccanismo di scintillazione. </em></b> </figcaption>
+</center>
+</figure>
+<br />
+Il meccanismo di scintillazione è simile. Al passaggio di una particella, un elettrone passa ad un livello energetico eccitato. Nella diseccitazione l’elettrone emette un fotone ad una precisa lunghezza d’onda, dipendente dal salto energetico effettuato.<br />
+Gli scintillatori inorganici sono spesso cristalli ionici dopati<b>[3]</b> con atomi chiamati “centri attivatori”, la cui presenza modifica i livelli energetici “disponibili” per l’elettrone e quindi i salti energetici che può effettuare. <br /><br />
+
+Oltre a fornire un aiuto per il salto energetico i centri attivatori e le impurità del cristallo possono costituire delle ”trappole” per gli elettroni . Se l’elettrone cade in una di queste trappole, emette luce ad una frequenza diversa da quella rilevabile, con dei tempi di emissione molto più lunghi (~100 ms).<br /><br />
+
+Mentre il salto energetico negli scintillatori inorganici avviene a livello atomico, per quelli organici avviene a livello molecolare. Il diverso salto energetico comporta anche una diversa frequenza emessa: luce UV per quelli organici, visibile per gli inorganici. Le frequenze ultraviolette vengono assorbite facilmente dalla maggior parte dei composti organici, è necessario quindi inserire un secondo materiale fluorescente (wavelength shifter) che converta la luce emessa in luce visibile per evitare che la scintillazione non venga rilevata.
+Una caratteristica importante delle molecole organiche è il basso numero atomico (Z), che comporta una grande efficienza nella rivelazione dei neutroni; ma rende più difficile la rilevazione di fotoni<b>[4]</b>.
+</section>
+
+
+
+
+
+<section>
+<center><h3> PMT </h3></center>
+</section>
+
+<br />
+Per rivelare la luce emessa da uno scintillatore vengono utilizzati dei fotorivelatori chiamati tubi fotomoltiplicatori.<br />
+Il principio di funzionamento è il seguente: ciascun fotone entrando nel fotomoltiplicatore incontra un fotocatodo che, per effetto fotoelettrico<b>[5]</b>, emette un elettrone. L’elettrone emesso entra in una zona nel fototubo dove incontra una serie di elettrodi, detti dinodi, di potenziale sempre maggiore. <br />
+Urtando contro di questi provoca l’emissione di altri elettroni che alla fine vengono raccolti da un anodo. Questo processo è detto elettromoltiplicazione ed è necessario per generare una corrente, cioè un flusso di elettroni, che sia misurabile. Si possono ottenere guadagni dell’ordine di 107, ovvero per ogni elettrone generato nel fotocatodo ne vengono rivelati 10 milioni alla fine del processo.
+
+<figure>
+<center>
+<img src="/perugia/Trigger/T4.png" alt="centered image" style="max-width:100%" height="auto" width="600" class="responsive" />
+<figcaption>  <b> <em>Fig. 4: Schema di funzionamento della coppia scintillatore-PMT. </em></b> </figcaption>
+</center>
+</figure>
+<br />
+
+<b>[2]</b> Dall'inglese Photo Multiplier Tube<br />
+<b>[3]</b> Con il termine drogaggio si intende l’aggiunta al cristallo puro di piccole percentuali di atomi non facenti parte del cristallo stesso.<br />
+
+<b>[4]</b>  La rilevazione di fotoni si basa su processi fisici come l’effetto Compton che dipende linearmente da Z.<br />
+
+<b>[5]</b>  L'effetto fotoelettrico è il fenomeno fisico caratterizzato dall'emissione di elettroni da una superficie, solitamente metallica, quando questa viene colpita da una radiazione elettromagnetica, ossia da fotoni aventi una certa lunghezza d'onda.<br />
+
+<b>[6]</b>  Alpha Magnetic Spectrometer - 02. Un prototipo di questo esperimento, AMS-01, volò a bordo dello Space Shuttle Discovery durante la missione STS-91 nel 1998.<br />
+
+<b>[7]</b>  Dall’energia depositata al passaggio della particella si risale alla carica.
+
+
+
+
+
+<section>
+<center><h3> ToF e ACC</h3></center>
+<figure>
+<center>
+<img src="/perugia/Trigger/T5.png" alt="centered image" style="max-width:100%" height="auto" width="300" class="responsive" />
+<figcaption>  <b> <em>Fig. 5: Disposizione dei layer del ToF di AMS-02. </em></b> </figcaption>
+</center>
+</figure>
+<br />
+Un tipo di trigger sono i ToF (Time of Flight), formati da due rivelatori posti agli estremi di un esperimento. I ToF misurano il passaggio di particelle, permettendo di escludere quelle che non attraversano tutto l’esperimento. I dati di questo rivelatore forniscono informazioni anche sulla natura delle particelle incidenti, ad esempio la velocità e il verso di percorrenza.<br /><br />
+
+Sulla stazione spaziale internazionale (ISS) si trova un importante esperimento di fisica delle particelle denominato AMS-02<b>[6]</b> che effettua ricerca su antimateria e materia oscura nell’universo tramite lo studio dei raggi cosmici. Nello spazio questo esperimento viene attraversato da 10000 particelle al secondo, ma solo alcune particelle attraversano AMS nelle condizioni ottimali per la misura. <br />
+Per questo motivo esso è dotato di due apparati di Trigger, ToF e ACC (Anti-Coincidence Counter), che scartano da subito l’80% degli eventi che non rispettano i parametri necessari per una buona misura (e.g. non attraversano l’esperimento nella direzione giusta).<br />
+Il Time-of-Flight è stato sviluppato dalla sezione INFN di Bologna ed è formato da 34 scintillatori inorganici disposti su 4 piani, 2 per ciascun estremo dell’esperimento. Ogni scintillatore è collegato a 4 fotomoltiplicatori per avere una ridondanza di segnale e quindi massimizzare la possibilità di rivelazione. Il segnale misurato dai PMT è proporzionale al numero di fotoni generati e fornisce una stima della carica della particella<b>[7]</b>. Inoltre la disposizione in due piani paralleli permette di effettuare una rozza stima iniziale della posizione.<br /><br />
+
+L’ACC è formato da 6 scintillatori disposti a formare un cilindro lungo la superficie laterale dell’esperimento. Il suo compito è individuare gli eventi generati da particelle che entrano o escono lateralmente dall’esperimento per scartare quelle misure. <br />
+Tutti gli esperimenti moderni di fisica delle particelle che non avvengono su fasci controllati sono dotati di apparati hardware e software, di trigger per diminuire il più possibile la quantità di dati da analizzare. AMS-02 ad esempio ogni anno produce 130 TB di dati che vengono analizzati in tutto il mondo. <br />
+Senza il trigger offerto da ToF e ACC si avrebbero una quantità di eventi circa 5 volte quella attuale, questo comporterebbe la necessità di avere molti più centri di analisi dati da cui andrebbero scartati gli eventi non interessanti con un costo computazionale considerevole. Con gli esperimenti futuri, in fase di progettazione, questi numeri potranno solo aumentare, per questo è necessario sviluppare sistemi come i trigger per ottimizzare la quantità di dati da analizzare e rendere così gli esperimenti più efficienti e meno costosi.
+
+</section>
+</html>
+:ET
